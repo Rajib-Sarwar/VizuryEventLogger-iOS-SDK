@@ -1,0 +1,3666 @@
+BCSymbolMap Version: 2.0
+_$s17VizuryEventLogger9FCMHelperC9messaging_27didReceiveRegistrationTokenySo12FIRMessagingC_SStFTo
+_$s17VizuryEventLogger9FCMHelperCACycfcTo
+_$s17VizuryEventLogger9FCMHelperCfD
+_$s17VizuryEventLogger9FCMHelperCfETo
+_$s17VizuryEventLogger9FCMHelperCMa
+_globalinit_33_99866CBF4A1D94A09C8167D8DBD6A92F_func2
+_$s17VizuryEventLogger9FCMHelperC9messaging_27didReceiveRegistrationTokenySo12FIRMessagingC_SStFTf4dnd_n
+_$s17VizuryEventLogger9FCMHelperC6sharedACvpZ
+_globalinit_33_99866CBF4A1D94A09C8167D8DBD6A92F_token2
+_OBJC_METACLASS_$__TtC17VizuryEventLogger9FCMHelper
+l_OBJC_LABEL_PROTOCOL_$_FIRMessagingDelegate
+l_OBJC_PROTOCOL_REFERENCE_$_FIRMessagingDelegate
+_$s17VizuryEventLoggerMXM
+_symbolic So8NSObjectC
+_$s17VizuryEventLogger9FCMHelperCMn
+_$s17VizuryEventLogger9FCMHelperCML
+_$s17VizuryEventLogger9FCMHelperCMf
+_symbolic _____ 17VizuryEventLogger9FCMHelperC
+_$s17VizuryEventLogger9FCMHelperCMF
+_$s17VizuryEventLogger6VizLogC6sharedACvpZ
+_$s17VizuryEventLogger6VizLogC5debugSbvpWvd
+_$ss23_ContiguousArrayStorageCyypGML
+___swift_reflection_version
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_REFERENCE_$_NSObject
+_objc_classes
+_$s17VizuryEventLogger9FCMHelperC13initializeFCMyyFTq
+_$s17VizuryEventLogger9FCMHelperC11getFCMTokenSSyFTq
+_$s17VizuryEventLogger9FCMHelperC22registerToFCMWithToken06deviceH0y10Foundation4DataV_tFTq
+_$s17VizuryEventLogger9FCMHelperC9messaging_27didReceiveRegistrationTokenySo12FIRMessagingC_SStFTq
+_$s17VizuryEventLogger9FCMHelperCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger9FCMHelper
+Apple clang version 11.0.0 (clang-1100.0.33.15)
+<swift-imported-modules>
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger
+Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+/Users/ayonchowdhury/Affle /Bitbucket/VizuryEventLogger_Swift/VizuryEventLogger/VizuryEventLogger/Push/FCMHelper.swift
+messaging
+logMessage
+VizuryEventLogger/VizLog/VizLog.swift
+_allocateUninitializedArray
+<compiler-generated>
+$sSa13_adoptStorage_5countSayxG_SpyxGts016_ContiguousArrayB0CyxGn_SitFZyp_Tg5
+$ss22_ContiguousArrayBufferV19firstElementAddressSpyxGvgyp_Tg5
+$ss22_ContiguousArrayBufferV5count7storageAByxGSi_s01_aB7StorageCyxGtcfCyp_Tg5
+$ss22_ContiguousArrayBufferV18_initStorageHeader5count8capacityySi_SitFyp_Tg5
+$ss23_ContiguousArrayStorageCyypGMa
+debug.get
+appendLiteral
+appendInterpolation
+$sSSs20TextOutputStreamablessAAP5write2toyqd__z_ts0aB6StreamRd__lFTWs26DefaultStringInterpolationV_Tg5
+init
+$s17VizuryEventLogger6VizLogC6sharedACvau
+$s17VizuryEventLogger9FCMHelperCMa
+deinit
+_$s17VizuryEventLoggerAACABycfc
+_$s17VizuryEventLoggerAACABycfcTo
+_$s17VizuryEventLoggerAACfD
+_$s17VizuryEventLoggerAACfETo
+_$s17VizuryEventLoggerAACMa
+_$s17VizuryEventLoggerAAC6sharedABvpZ
+_$s17VizuryEventLoggerAAC14isFCMTokenSentSbvpWvd
+_$s17VizuryEventLoggerAAC18vizFCMRegistrationSbvpWvd
+_$s17VizuryEventLoggerAAC12isFCMEnabledSbvpWvd
+_$s17VizuryEventLoggerAAC16isCachingEnabledSbvpWvd
+_$s17VizuryEventLoggerAAC10PACKAGE_IDSSvpWvd
+_$s17VizuryEventLoggerAAC20fcmRegistrationTokenSSvpWvd
+_OBJC_METACLASS_$__TtC17VizuryEventLogger17VizuryEventLogger
+_$s17VizuryEventLoggerAACMn
+_$s17VizuryEventLoggerAACML
+_$s17VizuryEventLoggerAACMf
+_symbolic _____ 17VizuryEventLoggerAAC
+_symbolic Sb
+_symbolic SS
+_$s17VizuryEventLoggerAACMF
+_$s17VizuryEventLoggerAAC14isFCMTokenSentSbvgTq
+_$s17VizuryEventLoggerAAC14isFCMTokenSentSbvsTq
+_$s17VizuryEventLoggerAAC14isFCMTokenSentSbvMTq
+_$s17VizuryEventLoggerAAC18vizFCMRegistrationSbvgTq
+_$s17VizuryEventLoggerAAC18vizFCMRegistrationSbvsTq
+_$s17VizuryEventLoggerAAC18vizFCMRegistrationSbvMTq
+_$s17VizuryEventLoggerAAC12isFCMEnabledSbvgTq
+_$s17VizuryEventLoggerAAC12isFCMEnabledSbvsTq
+_$s17VizuryEventLoggerAAC12isFCMEnabledSbvMTq
+_$s17VizuryEventLoggerAAC16isCachingEnabledSbvgTq
+_$s17VizuryEventLoggerAAC16isCachingEnabledSbvsTq
+_$s17VizuryEventLoggerAAC16isCachingEnabledSbvMTq
+_$s17VizuryEventLoggerAAC10PACKAGE_IDSSvgTq
+_$s17VizuryEventLoggerAAC10PACKAGE_IDSSvsTq
+_$s17VizuryEventLoggerAAC10PACKAGE_IDSSvMTq
+_$s17VizuryEventLoggerAAC20fcmRegistrationTokenSSvgTq
+_$s17VizuryEventLoggerAAC20fcmRegistrationTokenSSvsTq
+_$s17VizuryEventLoggerAAC20fcmRegistrationTokenSSvMTq
+_$s17VizuryEventLoggerAAC03logB05event14withAttributesySS_So12NSDictionaryCtFTq
+_$s17VizuryEventLoggerAAC12setPackageId8campaignySS_tFTq
+_$s17VizuryEventLoggerAAC010initializebC13InApplication_4with9serverURLAD3andySo13UIApplicationC_S2SS2btFTq
+_$s17VizuryEventLoggerAAC19getIsCachingEnabledSbyFTq
+_$s17VizuryEventLoggerAAC13resumeLoggingyyFTq
+_$s17VizuryEventLoggerAAC12pauseLoggingyyFTq
+_$s17VizuryEventLoggerAAC15enableDebugMode6statusySb_tFTq
+_$s17VizuryEventLoggerAAC12getPackageIdSSyFTq
+_$s17VizuryEventLoggerAAC12getServerURLSSyFTq
+_$s17VizuryEventLoggerAAC010isPushFromA08userInfoSbSo12NSDictionaryC_tFTq
+_$s17VizuryEventLoggerAAC41didReceiveRemoteNotificationInApplication_4withySo13UIApplicationC_So12NSDictionaryCtFTq
+_$s17VizuryEventLoggerAAC30didReceiveResponseWithUserInfo04userI0ySo12NSDictionaryC_tFTq
+_$s17VizuryEventLoggerAAC24registerForPushWithToken5tokeny10Foundation4DataV_tFTq
+_$s17VizuryEventLoggerAAC24didFailToRegisterForPushyyFTq
+_$s17VizuryEventLoggerAAC23setFCMRegistrationToken5tokenySS_tFTq
+_$s17VizuryEventLoggerAAC8fcmTokenSSyFTq
+_$s17VizuryEventLoggerAAC13webViewStringSSyFTq
+_$s17VizuryEventLoggerAACN
+_OBJC_CLASS_$__TtC17VizuryEventLogger17VizuryEventLogger
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/VizuryEventLogger.swift
+$s17VizuryEventLoggerAACMa
+_$s17VizuryEventLogger6VizLogC6sharedACvau
+_$s17VizuryEventLogger6VizLogCACycfcTo
+_$s17VizuryEventLogger6VizLogCfD
+_$s17VizuryEventLogger6VizLogCfETo
+_$s17VizuryEventLogger6VizLogCMa
+_OBJC_METACLASS_$__TtC17VizuryEventLogger6VizLog
+_$s17VizuryEventLogger6VizLogCMn
+_$s17VizuryEventLogger6VizLogCML
+_$s17VizuryEventLogger6VizLogCMf
+_symbolic _____ 17VizuryEventLogger6VizLogC
+_$s17VizuryEventLogger6VizLogCMF
+_$s17VizuryEventLogger6VizLogC5debugSbvgTq
+_$s17VizuryEventLogger6VizLogC5debugSbvsTq
+_$s17VizuryEventLogger6VizLogC5debugSbvMTq
+_$s17VizuryEventLogger6VizLogC10logMessage7messageySS_tFTq
+_$s17VizuryEventLogger6VizLogC13enableLogging6statusySb_tFTq
+_$s17VizuryEventLogger6VizLogCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger6VizLog
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/VizLog/VizLog.swift
+$s17VizuryEventLogger6VizLogCMa
+globalinit_33_99866CBF4A1D94A09C8167D8DBD6A92F_func2
+_$s17VizuryEventLogger15EncodingManagerCACycfcTo
+_$s17VizuryEventLogger15EncodingManagerCfD
+_$s17VizuryEventLogger15EncodingManagerCfETo
+_$s17VizuryEventLogger15EncodingManagerCMa
+_$s17VizuryEventLogger15EncodingManagerC6sharedACvpZ
+_OBJC_METACLASS_$__TtC17VizuryEventLogger15EncodingManager
+_$s17VizuryEventLogger15EncodingManagerCMn
+_$s17VizuryEventLogger15EncodingManagerCML
+_$s17VizuryEventLogger15EncodingManagerCMf
+_symbolic _____ 17VizuryEventLogger15EncodingManagerC
+_$s17VizuryEventLogger15EncodingManagerCMF
+_$s17VizuryEventLogger15EncodingManagerC13encodedString6stringS2S_tFTq
+_$s17VizuryEventLogger15EncodingManagerC13decodedString6stringS2S_tFTq
+_$s17VizuryEventLogger15EncodingManagerC10encodedKey3key5valueS2S_SStFTq
+_$s17VizuryEventLogger15EncodingManagerCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger15EncodingManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/EncodingManager/EncodingManager.swift
+$s17VizuryEventLogger15EncodingManagerCMa
+_$s17VizuryEventLogger19UserDefaultsManagerCACycfcTo
+_$s17VizuryEventLogger19UserDefaultsManagerCfD
+_$s17VizuryEventLogger19UserDefaultsManagerCfETo
+_$s17VizuryEventLogger19UserDefaultsManagerCMa
+_$s17VizuryEventLogger19UserDefaultsManagerC6sharedACvpZ
+_OBJC_METACLASS_$__TtC17VizuryEventLogger19UserDefaultsManager
+_$s17VizuryEventLogger19UserDefaultsManagerCMn
+_$s17VizuryEventLogger19UserDefaultsManagerCML
+_$s17VizuryEventLogger19UserDefaultsManagerCMf
+_symbolic _____ 17VizuryEventLogger19UserDefaultsManagerC
+_$s17VizuryEventLogger19UserDefaultsManagerCMF
+_$s17VizuryEventLogger19UserDefaultsManagerC03getD19DefaultObjectForKey3keySo8NSObjectCSS_tFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC03getD19DefaultStringForKey3keyS2S_tFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC03setD13DefaultObject6object3forySo8NSObjectC_SStFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC03getad13DefaultKeyForI0yS2SFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC05clearD19DefaultObjectForKey3keyySS_tFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC12getServerURLSSyFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC12setServerURL06serverI0ySS_tFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC17initialisedStatusSbyFTq
+_$s17VizuryEventLogger19UserDefaultsManagerC20setInitializedStatus6statusySb_tFTq
+_$s17VizuryEventLogger19UserDefaultsManagerCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger19UserDefaultsManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/UserDefaultsManager/UserDefaultsManager.swift
+$s17VizuryEventLogger19UserDefaultsManagerCMa
+_$s17VizuryEventLogger19AppDetectionManagerCACycfcTo
+_$s17VizuryEventLogger19AppDetectionManagerCfD
+_$s17VizuryEventLogger19AppDetectionManagerCMa
+_OBJC_METACLASS_$__TtC17VizuryEventLogger19AppDetectionManager
+_$s17VizuryEventLogger19AppDetectionManagerCMn
+_$s17VizuryEventLogger19AppDetectionManagerCML
+_$s17VizuryEventLogger19AppDetectionManagerCMf
+_symbolic _____ 17VizuryEventLogger19AppDetectionManagerC
+_$s17VizuryEventLogger19AppDetectionManagerCMF
+_$s17VizuryEventLogger19AppDetectionManagerC7appNameSSyFTq
+_$s17VizuryEventLogger19AppDetectionManagerC10appVersionSSyFTq
+_$s17VizuryEventLogger19AppDetectionManagerC14appInstallDateSSyFTq
+_$s17VizuryEventLogger19AppDetectionManagerC13appUpdateDateSSyFTq
+_$s17VizuryEventLogger19AppDetectionManagerC19formattedDateString4dateSS10Foundation0H0V_tFTq
+_$s17VizuryEventLogger19AppDetectionManagerCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger19AppDetectionManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/AppDetectionManager/AppDetectionManager.swift
+$s17VizuryEventLogger19AppDetectionManagerCMa
+_$s17VizuryEventLogger18SendMessageManagerCACycfcTo
+_$s17VizuryEventLogger18SendMessageManagerCfD
+_$s17VizuryEventLogger18SendMessageManagerCfETo
+_$s17VizuryEventLogger18SendMessageManagerCMa
+_$s17VizuryEventLogger18SendMessageManagerC6sharedACvpZ
+_OBJC_METACLASS_$__TtC17VizuryEventLogger18SendMessageManager
+_$s17VizuryEventLogger18SendMessageManagerCMn
+_$s17VizuryEventLogger18SendMessageManagerCML
+_$s17VizuryEventLogger18SendMessageManagerCMf
+_symbolic _____ 17VizuryEventLogger18SendMessageManagerC
+_$s17VizuryEventLogger18SendMessageManagerCMF
+_$s17VizuryEventLogger18SendMessageManagerC11sendReceipt8userInfo7forTypeySo12NSDictionaryC_SStFTq
+_$s17VizuryEventLogger18SendMessageManagerC04sendB12DataToServer7messageySS_tFTq
+_$s17VizuryEventLogger18SendMessageManagerC17getCachedMessagesSo7NSArrayCyFTq
+_$s17VizuryEventLogger18SendMessageManagerC32generateURLRequestWithParameters10parameters10Foundation0H0VSS_tFTq
+_$s17VizuryEventLogger18SendMessageManagerC16fixedParamStringSSyFTq
+_$s17VizuryEventLogger18SendMessageManagerC05cacheE07messageySS_tFTq
+_$s17VizuryEventLogger18SendMessageManagerC13cacheMessages13messagesArrayySo7NSArrayC_tFTq
+_$s17VizuryEventLogger18SendMessageManagerC23sendAsynchronousRequest03urlI03fory10Foundation10URLRequestV_SStFTq
+_$s17VizuryEventLogger18SendMessageManagerCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger18SendMessageManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/SendMessageManager/SendMessageManager.swift
+$s17VizuryEventLogger18SendMessageManagerCMa
+_$s17VizuryEventLogger27DeviceIdentificationManagerCACycfcTo
+_$s17VizuryEventLogger27DeviceIdentificationManagerCfD
+_$s17VizuryEventLogger27DeviceIdentificationManagerCfETo
+_$s17VizuryEventLogger27DeviceIdentificationManagerCMa
+_$s17VizuryEventLogger27DeviceIdentificationManagerC6sharedACvpZ
+_$s17VizuryEventLogger27DeviceIdentificationManagerC13advertisingID33_ADF9F192FD504A9E11EE37852764E0E6LLSSvpWvd
+_$s17VizuryEventLogger27DeviceIdentificationManagerC13limitTracking33_ADF9F192FD504A9E11EE37852764E0E6LLSSvpWvd
+_$s17VizuryEventLogger27DeviceIdentificationManagerC8UAString33_ADF9F192FD504A9E11EE37852764E0E6LLSSvpWvd
+_OBJC_METACLASS_$__TtC17VizuryEventLogger27DeviceIdentificationManager
+_$s17VizuryEventLogger27DeviceIdentificationManagerCMn
+_$s17VizuryEventLogger27DeviceIdentificationManagerCML
+_$s17VizuryEventLogger27DeviceIdentificationManagerCMf
+_symbolic _____ 17VizuryEventLogger27DeviceIdentificationManagerC
+_$s17VizuryEventLogger27DeviceIdentificationManagerCMF
+_$s17VizuryEventLogger27DeviceIdentificationManagerC16getAdvertisingIDSSyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC22limitAdTrackingEnabledSSyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC04initD0yyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC19initUserAgentStringyyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC07deallocD0yyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC17initAdvertisingIDyyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC15userAgentStringSSyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC23getNotificationSettingsSSyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerC18standardParametersSo12NSDictionaryCyFTq
+_$s17VizuryEventLogger27DeviceIdentificationManagerCN
+_OBJC_CLASS_$__TtC17VizuryEventLogger27DeviceIdentificationManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/DeviceIdentificationManager/DeviceIdentificationManager.swift
+$s17VizuryEventLogger27DeviceIdentificationManagerCMa
+_$s17VizuryEventLogger14VIZ_PACKAGE_IDSSvp
+_$s17VizuryEventLogger10SERVER_URLSSvp
+_$s17VizuryEventLogger11INITIALISEDSSvp
+_$s17VizuryEventLogger14EVENT_NAME_KEYSSvp
+_$s17VizuryEventLogger18VIZ_KEY_PACKAGE_IDSSvp
+_$s17VizuryEventLogger22VIZ_KEY_ADVERTISING_IDSSvp
+_$s17VizuryEventLogger22VIZ_KEY_LIMIT_TRACKINGSSvp
+_$s17VizuryEventLogger19VIZ_KEY_API_VERSIONSSvp
+_$s17VizuryEventLogger16VIZ_KEY_APP_NAMESSvp
+_$s17VizuryEventLogger19VIZ_KEY_APP_VERSIONSSvp
+_$s17VizuryEventLogger24VIZ_KEY_APP_INSTALL_DATESSvp
+_$s17VizuryEventLogger23VIZ_KEY_APP_UPDATE_DATESSvp
+_$s17VizuryEventLogger17VIZ_KEY_GCM_TOKENSSvp
+_$s17VizuryEventLogger17VIZ_BANNER_ID_KEYSSvp
+_$s17VizuryEventLogger15VIZ_ZONR_ID_KEYSSvp
+_$s17VizuryEventLogger19VIZ_NOTIFICATION_IDSSvp
+_$s17VizuryEventLogger13VIZ_PUSH_FROMSSvp
+_$s17VizuryEventLogger22VIZ_PUSH_SOURCE_VIZURYSSvp
+_$s17VizuryEventLogger22VIZ_IMPRESSION_RECEIPTSSvp
+_$s17VizuryEventLogger17VIZ_CLICK_RECEIPTSSvp
+_$s17VizuryEventLogger16VIZ_PUSH_ENABLEDSSvp
+_$s17VizuryEventLogger13VIZ_CLICK_URLSSvp
+_$s17VizuryEventLogger12VIZ_IMPR_URLSSvp
+_$s17VizuryEventLogger20USER_DEFAULTS_PREFIXSSvp
+_$s17VizuryEventLogger24VIZ_KEY_PENDING_MESSAGESSSvp
+_$s17VizuryEventLogger11DATE_FORMATSSvp
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/VizuryEventLogger/Constants.swift
+Apple clang version 11.0.0 (clang-1100.0.33.16)
+/Users/ayonchowdhury/Library/Developer/Xcode/DerivedData/VizuryEventLogger-fbflcvkepfalaqdsbscfaxfsirxl/Build/Intermediates.noindex/ArchiveIntermediates/VizuryEventLogger/IntermediateBuildFilesPath/VizuryEventLogger.build/Release-iphoneos/VizuryEventLogger.build/DerivedSources/VizuryEventLogger_vers.c
++[FIRAnalyticsConfiguration sharedInstance]
+___43+[FIRAnalyticsConfiguration sharedInstance]_block_invoke
+-[FIRAnalyticsConfiguration postNotificationName:value:]
+-[FIRAnalyticsConfiguration setAnalyticsCollectionEnabled:]
+-[FIRAnalyticsConfiguration setAnalyticsCollectionEnabled:persistSetting:]
+_sharedInstance.sharedInstance
+_sharedInstance.onceToken
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods
+FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.m
+__43+[FIRAnalyticsConfiguration sharedInstance]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/dispatch/once.h
++[FIRApp configure]
++[FIRApp configureWithOptions:]
++[FIRApp applicationNameAllowedCharacters]
+___42+[FIRApp applicationNameAllowedCharacters]_block_invoke
++[FIRApp configureWithName:options:]
++[FIRApp appWasConfiguredTwice:usingOptions:]
++[FIRApp defaultApp]
++[FIRApp appNamed:]
++[FIRApp allApps]
++[FIRApp resetApps]
+-[FIRApp deleteApp:]
++[FIRApp addAppToAppDictionary:]
+-[FIRApp initInstanceWithName:options:]
+-[FIRApp dealloc]
+-[FIRApp configureCore]
+-[FIRApp options]
+-[FIRApp setDataCollectionDefaultEnabled:]
+-[FIRApp isDataCollectionDefaultEnabled]
++[FIRApp sendNotificationsToSDKs:]
++[FIRApp errorForMissingOptions]
++[FIRApp errorForSubspecConfigurationFailureWithDomain:errorCode:service:reason:]
++[FIRApp errorForInvalidAppID]
++[FIRApp isDefaultAppConfigured]
++[FIRApp registerLibrary:withVersion:]
++[FIRApp registerInternalLibrary:withName:withVersion:]
+___55+[FIRApp registerInternalLibrary:withName:withVersion:]_block_invoke
++[FIRApp firebaseUserAgent]
+___27+[FIRApp firebaseUserAgent]_block_invoke
+___copy_helper_block_e8_
+___destroy_helper_block_e8_
++[FIRApp hasSwiftRuntime]
+-[FIRApp checkExpectedBundleID]
+-[FIRApp isAppIDValid]
++[FIRApp validateAppID:]
++[FIRApp actualBundleID]
++[FIRApp validateAppIDFormat:withVersion:]
++[FIRApp validateAppIDFingerprint:withVersion:]
+-[FIRApp expectedBundleID]
+-[FIRApp clearDataCollectionSwitchFromUserDefaults]
++[FIRApp readDataCollectionSwitchFromUserDefaultsForApp:]
++[FIRApp readDataCollectionSwitchFromPlist]
+___43+[FIRApp readDataCollectionSwitchFromPlist]_block_invoke
+-[FIRApp sendLogsWithServiceName:version:error:]
+-[FIRApp subscribeForAppDidBecomeActiveNotifications]
+-[FIRApp appDidBecomeActive:]
+-[FIRApp logCoreTelemetryIfEnabled]
+-[FIRApp name]
+-[FIRApp isDefaultApp]
+-[FIRApp container]
+-[FIRApp setContainer:]
+-[FIRApp .cxx_destruct]
+_applicationNameAllowedCharacters.applicationNameAllowedCharacters
+_applicationNameAllowedCharacters.onceToken
+_sDefaultApp
+_sAllApps
+_sLibraryVersions
+_sFirebaseUserAgentOnceToken
+_sRegisteredAsConfigurable
+__OBJC_PROTOCOL_$_FIRLibrary
+__OBJC_LABEL_PROTOCOL_$_FIRLibrary
+l_OBJC_PROTOCOL_REFERENCE_$_FIRLibrary
+_registerInternalLibrary:withName:withVersion:.onceToken
+___block_literal_global.266
+___block_descriptor_40_e8__e5_v8?0l
+_readDataCollectionSwitchFromPlist.collectionEnabledPlistObject
+_readDataCollectionSwitchFromPlist.onceToken
+___block_literal_global.381
+_OBJC_IVAR_$_FIRApp._isDefaultApp
+_OBJC_IVAR_$_FIRApp._options
+_OBJC_IVAR_$_FIRApp._name
+_OBJC_IVAR_$_FIRApp._container
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m
+FirebaseCore/FirebaseCore/Sources/FIRApp.m
+FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h
+FirebaseCore/FirebaseCore/Sources/Public/FIRApp.h
+__43+[FIRApp readDataCollectionSwitchFromPlist]_block_invoke
+__destroy_helper_block_e8_
+__copy_helper_block_e8_
+__27+[FIRApp firebaseUserAgent]_block_invoke
+__55+[FIRApp registerInternalLibrary:withName:withVersion:]_block_invoke
+__42+[FIRApp applicationNameAllowedCharacters]_block_invoke
++[FIRAppAssociationRegistration registeredObjectWithHost:key:creationBlock:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRAppAssociationRegistration.m
+FirebaseCore/FirebaseCore/Sources/FIRAppAssociationRegistration.m
++[FIRBundleUtil relevantBundles]
++[FIRBundleUtil optionsDictionaryPathWithResourceName:andFileType:inBundles:]
++[FIRBundleUtil relevantURLSchemes]
++[FIRBundleUtil hasBundleIdentifierPrefix:inBundles:]
++[FIRBundleUtil bundleIdentifierByRemovingLastPartFrom:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.m
+FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.m
++[FIRComponent componentWithProtocol:creationBlock:]
++[FIRComponent componentWithProtocol:instantiationTiming:dependencies:creationBlock:]
+-[FIRComponent initWithProtocol:instantiationTiming:dependencies:creationBlock:]
+-[FIRComponent protocol]
+-[FIRComponent instantiationTiming]
+-[FIRComponent dependencies]
+-[FIRComponent creationBlock]
+-[FIRComponent .cxx_destruct]
+_OBJC_IVAR_$_FIRComponent._protocol
+_OBJC_IVAR_$_FIRComponent._instantiationTiming
+_OBJC_IVAR_$_FIRComponent._dependencies
+_OBJC_IVAR_$_FIRComponent._creationBlock
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponent.m
+FirebaseCore/FirebaseCore/Sources/FIRComponent.m
+FirebaseCore/FirebaseCore/Sources/Private/FIRComponent.h
++[FIRComponentContainer registerAsComponentRegistrant:]
+___55+[FIRComponentContainer registerAsComponentRegistrant:]_block_invoke
++[FIRComponentContainer registerAsComponentRegistrant:inSet:]
+-[FIRComponentContainer initWithApp:]
+-[FIRComponentContainer initWithApp:registrants:]
+-[FIRComponentContainer populateComponentsFromRegisteredClasses:forApp:]
+-[FIRComponentContainer instantiateEagerComponents]
+-[FIRComponentContainer instantiateInstanceForProtocol:withBlock:]
+-[FIRComponentContainer instanceForProtocol:]
+-[FIRComponentContainer removeAllCachedInstances]
+-[FIRComponentContainer app]
+-[FIRComponentContainer components]
+-[FIRComponentContainer setComponents:]
+-[FIRComponentContainer cachedInstances]
+-[FIRComponentContainer setCachedInstances:]
+-[FIRComponentContainer eagerProtocolsToInstantiate]
+-[FIRComponentContainer setEagerProtocolsToInstantiate:]
+-[FIRComponentContainer .cxx_destruct]
+_registerAsComponentRegistrant:.onceToken
+_sFIRComponentRegistrants
+__OBJC_PROTOCOL_$_FIRComponentLifecycleMaintainer
+__OBJC_LABEL_PROTOCOL_$_FIRComponentLifecycleMaintainer
+l_OBJC_PROTOCOL_REFERENCE_$_FIRComponentLifecycleMaintainer
+_OBJC_IVAR_$_FIRComponentContainer._app
+_OBJC_IVAR_$_FIRComponentContainer._components
+_OBJC_IVAR_$_FIRComponentContainer._cachedInstances
+_OBJC_IVAR_$_FIRComponentContainer._eagerProtocolsToInstantiate
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainer.m
+FirebaseCore/FirebaseCore/Sources/FIRComponentContainer.m
+FirebaseCore/FirebaseCore/Sources/Private/FIRComponentContainer.h
+__55+[FIRComponentContainer registerAsComponentRegistrant:]_block_invoke
++[FIRComponentType instanceForProtocol:inContainer:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentType.m
+FirebaseCore/FirebaseCore/Sources/FIRComponentType.m
++[FIRConfiguration sharedInstance]
+___34+[FIRConfiguration sharedInstance]_block_invoke
+-[FIRConfiguration init]
+-[FIRConfiguration setLoggerLevel:]
+-[FIRConfiguration analyticsConfiguration]
+-[FIRConfiguration setAnalyticsConfiguration:]
+-[FIRConfiguration .cxx_destruct]
+_OBJC_IVAR_$_FIRConfiguration._analyticsConfiguration
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfiguration.m
+FirebaseCore/FirebaseCore/Sources/FIRConfiguration.m
+FirebaseCore/FirebaseCore/Sources/Private/FIRConfigurationInternal.h
+__34+[FIRConfiguration sharedInstance]_block_invoke
++[FIRCoreDiagnosticsConnector initialize]
++[FIRCoreDiagnosticsConnector logCoreTelemetryWithOptions:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRCoreDiagnosticsConnector.m
+FirebaseCore/FirebaseCore/Sources/FIRCoreDiagnosticsConnector.m
++[FIRDependency dependencyWithProtocol:]
++[FIRDependency dependencyWithProtocol:isRequired:]
+-[FIRDependency initWithProtocol:isRequired:]
+-[FIRDependency protocol]
+-[FIRDependency isRequired]
+-[FIRDependency .cxx_destruct]
+_OBJC_IVAR_$_FIRDependency._isRequired
+_OBJC_IVAR_$_FIRDependency._protocol
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRDependency.m
+FirebaseCore/FirebaseCore/Sources/FIRDependency.m
+FirebaseCore/FirebaseCore/Sources/Private/FIRDependency.h
+-[FIRDiagnosticsData init]
+-[FIRDiagnosticsData insertValue:forKey:]
+-[FIRDiagnosticsData diagnosticObjects]
+-[FIRDiagnosticsData setDiagnosticObjects:]
+-[FIRDiagnosticsData .cxx_destruct]
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_PROTOCOL_$_FIRCoreDiagnosticsData
+__OBJC_LABEL_PROTOCOL_$_FIRCoreDiagnosticsData
+_OBJC_IVAR_$_FIRDiagnosticsData._diagnosticObjects
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRDiagnosticsData.m
+FirebaseCore/FirebaseCore/Sources/FIRDiagnosticsData.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/FirebaseCore/FirebaseCore-dummy.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRErrors.m
++[FIRHeartbeatInfo updateIfNeededHeartbeatDateForTag:]
++[FIRHeartbeatInfo heartbeatCodeForTag:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRHeartbeatInfo.m
+FirebaseCore/FirebaseCore/Sources/FIRHeartbeatInfo.m
+___FIRLoggerInitializeASL_block_invoke
++[FIRLoggerWrapper logWithLevel:withService:withCode:withMessage:withArgs:]
+_sFIRLoggerOnceToken
+_sFIRLoggerUserDefaults
+_sFIRAnalyticsDebugMode
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRLogger.m
+FirebaseCore/FirebaseCore/Sources/FIRLogger.m
+FIRLogDebug
+FIRLogInfo
+FIRLogNotice
+FIRLogWarning
+FIRLogError
+FIRLogBasic
+FIRLoggerInitializeASL
+FIRIsLoggableLevel
+FIRSetLoggerLevel
+FIRSetAnalyticsDebugMode
+__FIRLoggerInitializeASL_block_invoke
++[FIROptions defaultOptions]
++[FIROptions defaultOptionsDictionary]
++[FIROptions plistFilePathWithName:]
++[FIROptions resetDefaultOptions]
+-[FIROptions initInternalWithOptionsDictionary:]
+-[FIROptions copyWithZone:]
+-[FIROptions initWithContentsOfFile:]
+-[FIROptions initWithGoogleAppID:GCMSenderID:]
+-[FIROptions APIKey]
+-[FIROptions checkEditingLocked]
+-[FIROptions setAPIKey:]
+-[FIROptions clientID]
+-[FIROptions setClientID:]
+-[FIROptions trackingID]
+-[FIROptions setTrackingID:]
+-[FIROptions GCMSenderID]
+-[FIROptions setGCMSenderID:]
+-[FIROptions projectID]
+-[FIROptions setProjectID:]
+-[FIROptions androidClientID]
+-[FIROptions setAndroidClientID:]
+-[FIROptions googleAppID]
+-[FIROptions setGoogleAppID:]
+-[FIROptions libraryVersionID]
+___30-[FIROptions libraryVersionID]_block_invoke
+-[FIROptions setLibraryVersionID:]
+-[FIROptions databaseURL]
+-[FIROptions setDatabaseURL:]
+-[FIROptions storageBucket]
+-[FIROptions setStorageBucket:]
+-[FIROptions setDeepLinkURLScheme:]
+-[FIROptions bundleID]
+-[FIROptions setBundleID:]
+-[FIROptions setAppGroupID:]
+-[FIROptions isEqual:]
+-[FIROptions isEqualToOptions:]
+-[FIROptions hash]
+-[FIROptions analyticsOptionsDictionaryWithInfoDictionary:]
+-[FIROptions analyticsOptionsDictionary]
+-[FIROptions isMeasurementEnabled]
+-[FIROptions isAnalyticsCollectionExplicitlySet]
+-[FIROptions isAnalyticsCollectionEnabled]
+-[FIROptions isAnalyticsCollectionDeactivated]
+-[FIROptions isAnalyticsEnabled]
+-[FIROptions isSignInEnabled]
+-[FIROptions deepLinkURLScheme]
+-[FIROptions appGroupID]
+-[FIROptions optionsDictionary]
+-[FIROptions setOptionsDictionary:]
+-[FIROptions usingOptionsFromDefaultPlist]
+-[FIROptions setUsingOptionsFromDefaultPlist:]
+-[FIROptions isEditingLocked]
+-[FIROptions setEditingLocked:]
+-[FIROptions .cxx_destruct]
+_sDefaultOptions
+_sDefaultOptionsDictionary
+_libraryVersionID.onceToken
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+_OBJC_IVAR_$_FIROptions._analyticsOptionsDictionary
+_OBJC_IVAR_$_FIROptions._usingOptionsFromDefaultPlist
+_OBJC_IVAR_$_FIROptions._editingLocked
+_OBJC_IVAR_$_FIROptions._deepLinkURLScheme
+_OBJC_IVAR_$_FIROptions._appGroupID
+_OBJC_IVAR_$_FIROptions._optionsDictionary
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIROptions.m
+FirebaseCore/FirebaseCore/Sources/FIROptions.m
+FirebaseCore/FirebaseCore/Sources/Private/FIROptionsInternal.h
+FirebaseCore/FirebaseCore/Sources/Public/FIROptions.h
+__30-[FIROptions libraryVersionID]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCore/FirebaseCore/Sources/FIRVersion.m
+-[FIRCoreDiagnosticsLog initWithConfig:]
+-[FIRCoreDiagnosticsLog transportBytes]
+-[FIRCoreDiagnosticsLog dealloc]
+-[FIRCoreDiagnosticsLog config]
+-[FIRCoreDiagnosticsLog setConfig:]
++[FIRCoreDiagnostics sharedInstance]
+___36+[FIRCoreDiagnostics sharedInstance]_block_invoke
+-[FIRCoreDiagnostics init]
+-[FIRCoreDiagnostics initWithTransport:heartbeatDateStorage:]
++[FIRCoreDiagnostics deviceModel]
++[FIRCoreDiagnostics sendDiagnosticsData:]
+-[FIRCoreDiagnostics sendDiagnosticsData:]
+___42-[FIRCoreDiagnostics sendDiagnosticsData:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+-[FIRCoreDiagnostics setHeartbeatFlagIfNeededToConfig:]
+-[FIRCoreDiagnostics isDate:inSameDayOrBeforeThan:]
+-[FIRCoreDiagnostics diagnosticsQueue]
+-[FIRCoreDiagnostics transport]
+-[FIRCoreDiagnostics heartbeatDateStorage]
+-[FIRCoreDiagnostics .cxx_destruct]
+_OBJC_IVAR_$_FIRCoreDiagnosticsLog._config
+_deviceModel.deviceModel
+_FIRMapFromServiceStringToTypeEnum.serviceStringToTypeEnum
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+__OBJC_PROTOCOL_$_FIRCoreDiagnosticsInterop
+__OBJC_LABEL_PROTOCOL_$_FIRCoreDiagnosticsInterop
+_OBJC_IVAR_$_FIRCoreDiagnostics._diagnosticsQueue
+_OBJC_IVAR_$_FIRCoreDiagnostics._transport
+_OBJC_IVAR_$_FIRCoreDiagnostics._heartbeatDateStorage
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/FIRCoreDiagnostics.m
+FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/FIRCoreDiagnostics.m
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__42-[FIRCoreDiagnostics sendDiagnosticsData:]_block_invoke
+FIRPopulateProtoWithInfoPlistValues
+FIRPopulateProtoWithNumberOfLinkedFrameworks
+FIRPopulateProtoWithInstalledServices
+FIRPopulateProtoWithCommonInfoFromApp
+FIRPopulateProtoWithInfoFromUserInfoParams
+FIRMapFromServiceStringToTypeEnum
+FIREncodeData
+FIREncodeString
+__36+[FIRCoreDiagnostics sharedInstance]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseCoreDiagnostics/Firebase/CoreDiagnostics/FIRCDLibrary/Protogen/nanopb/firebasecore.nanopb.c
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics-dummy.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/FirebaseInstallations/FirebaseInstallations-dummy.m
++[FIRInstallations load]
++[FIRInstallations componentsToRegister]
+___40+[FIRInstallations componentsToRegister]_block_invoke
+-[FIRInstallations initWithApp:]
+-[FIRInstallations initWitAppOptions:appName:]
+-[FIRInstallations initWithAppOptions:appName:installationsIDController:prefetchAuthToken:]
+___91-[FIRInstallations initWithAppOptions:appName:installationsIDController:prefetchAuthToken:]_block_invoke
++[FIRInstallations validateAppOptions:appName:]
++[FIRInstallations installations]
++[FIRInstallations installationsWithApp:]
+-[FIRInstallations installationIDWithCompletion:]
+___49-[FIRInstallations installationIDWithCompletion:]_block_invoke
+___copy_helper_block_e8_32b
+___destroy_helper_block_e8_32s
+___49-[FIRInstallations installationIDWithCompletion:]_block_invoke.105
+-[FIRInstallations authTokenWithCompletion:]
+-[FIRInstallations authTokenForcingRefresh:completion:]
+___55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke
+___55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke_2
+___55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke.126
+-[FIRInstallations deleteWithCompletion:]
+___41-[FIRInstallations deleteWithCompletion:]_block_invoke
+___41-[FIRInstallations deleteWithCompletion:]_block_invoke.130
++[FIRInstallations assertCompatibleIIDVersion]
++[FIRInstallations isIIDVersionCompatible]
+-[FIRInstallations appOptions]
+-[FIRInstallations appName]
+-[FIRInstallations installationsIDController]
+-[FIRInstallations .cxx_destruct]
+___block_descriptor_32_e35_24?0"FIRComponentContainer"8^B16l
+__OBJC_PROTOCOL_$_FIRInstallationsInstanceProvider
+__OBJC_LABEL_PROTOCOL_$_FIRInstallationsInstanceProvider
+l_OBJC_PROTOCOL_REFERENCE_$_FIRInstallationsInstanceProvider
+___block_descriptor_32_e53_v24?0"FIRInstallationsAuthTokenResult"8"NSError"16l
+___block_literal_global.54
+___block_descriptor_40_e8_32bs_e30_16?0"FIRInstallationsItem"8l
+___block_descriptor_40_e8_32bs_e17_v16?0"NSError"8l
+___block_descriptor_32_e63_"FIRInstallationsAuthTokenResult"16?0"FIRInstallationsItem"8l
+___block_literal_global.115
+___block_descriptor_40_e8_32bs_e41_16?0"FIRInstallationsAuthTokenResult"8l
+___block_descriptor_40_e8_32bs_e8_16?08l
+_OBJC_IVAR_$_FIRInstallations._appOptions
+_OBJC_IVAR_$_FIRInstallations._appName
+_OBJC_IVAR_$_FIRInstallations._installationsIDController
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallations.m
+__41-[FIRInstallations deleteWithCompletion:]_block_invoke.130
+__41-[FIRInstallations deleteWithCompletion:]_block_invoke
+__55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke.126
+__55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke_2
+__55-[FIRInstallations authTokenForcingRefresh:completion:]_block_invoke
+__49-[FIRInstallations installationIDWithCompletion:]_block_invoke.105
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32b
+__49-[FIRInstallations installationIDWithCompletion:]_block_invoke
+__91-[FIRInstallations initWithAppOptions:appName:installationsIDController:prefetchAuthToken:]_block_invoke
+__40+[FIRInstallations componentsToRegister]_block_invoke
+-[FIRInstallationsURLSessionResponse initWithResponse:data:]
+-[FIRInstallationsURLSessionResponse HTTPResponse]
+-[FIRInstallationsURLSessionResponse setHTTPResponse:]
+-[FIRInstallationsURLSessionResponse data]
+-[FIRInstallationsURLSessionResponse setData:]
+-[FIRInstallationsURLSessionResponse .cxx_destruct]
+-[FIRInstallationsAPIService initWithAPIKey:projectID:]
+-[FIRInstallationsAPIService initWithURLSession:APIKey:projectID:]
+-[FIRInstallationsAPIService registerInstallation:]
+___51-[FIRInstallationsAPIService registerInstallation:]_block_invoke
+-[FIRInstallationsAPIService refreshAuthTokenForInstallation:]
+___62-[FIRInstallationsAPIService refreshAuthTokenForInstallation:]_block_invoke
+___copy_helper_block_e8_32s
+___62-[FIRInstallationsAPIService refreshAuthTokenForInstallation:]_block_invoke.56
+-[FIRInstallationsAPIService deleteInstallation:]
+___49-[FIRInstallationsAPIService deleteInstallation:]_block_invoke
+-[FIRInstallationsAPIService registerRequestWithInstallation:]
+-[FIRInstallationsAPIService registeredInstallationWithInstallation:serverResponse:]
+___84-[FIRInstallationsAPIService registeredInstallationWithInstallation:serverResponse:]_block_invoke
+-[FIRInstallationsAPIService authTokenRequestWithInstallation:]
+-[FIRInstallationsAPIService authTokenWithServerResponse:]
+___58-[FIRInstallationsAPIService authTokenWithServerResponse:]_block_invoke
+-[FIRInstallationsAPIService deleteInstallationRequestWithInstallation:]
+-[FIRInstallationsAPIService requestWithURL:HTTPMethod:bodyDict:refreshToken:]
+-[FIRInstallationsAPIService requestWithURL:HTTPMethod:bodyDict:refreshToken:additionalHeaders:]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___96-[FIRInstallationsAPIService requestWithURL:HTTPMethod:bodyDict:refreshToken:additionalHeaders:]_block_invoke
+___copy_helper_block_e8_32r
+___destroy_helper_block_e8_32r
+-[FIRInstallationsAPIService URLRequestPromise:]
+___48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke
+___48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke_2
+___copy_helper_block_e8_32s40b48b
+___destroy_helper_block_e8_32s40s48s
+___48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke.196
+-[FIRInstallationsAPIService validateHTTPResponseStatusCode:]
+___61-[FIRInstallationsAPIService validateHTTPResponseStatusCode:]_block_invoke
+-[FIRInstallationsAPIService sendURLRequest:]
+___45-[FIRInstallationsAPIService sendURLRequest:]_block_invoke
+___45-[FIRInstallationsAPIService sendURLRequest:]_block_invoke_2
+-[FIRInstallationsAPIService SDKVersion]
+-[FIRInstallationsAPIService setJSONHTTPBody:forRequest:]
+-[FIRInstallationsAPIService URLSession]
+-[FIRInstallationsAPIService APIKey]
+-[FIRInstallationsAPIService projectID]
+-[FIRInstallationsAPIService .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsURLSessionResponse._HTTPResponse
+_OBJC_IVAR_$_FIRInstallationsURLSessionResponse._data
+___block_descriptor_48_e8_32s40s_e44_16?0"FIRInstallationsURLSessionResponse"8l
+___block_descriptor_40_e8_32s_e56_"FBLPromise"16?0"FIRInstallationsURLSessionResponse"8l
+___block_descriptor_40_e8_32s_e63_"FIRInstallationsItem"16?0"FIRInstallationsStoredAuthToken"8l
+___block_descriptor_40_e8_32s_e44_16?0"FIRInstallationsURLSessionResponse"8l
+___block_descriptor_48_e8_32s40s_e5_8?0l
+___block_descriptor_40_e8_32s_e5_8?0l
+___block_descriptor_40_e8_32r_e35_v32?0"NSString"8"NSString"16^B24l
+___block_descriptor_56_e8_32s40bs48bs_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+___block_descriptor_48_e8_32s40s_e34_v24?0?<v?>8?<v?"NSError">16l
+___block_descriptor_48_e8_32s_e5_8?0l
+___block_descriptor_32_e20_B24?0q8"NSError"16l
+_OBJC_IVAR_$_FIRInstallationsAPIService._URLSession
+_OBJC_IVAR_$_FIRInstallationsAPIService._APIKey
+_OBJC_IVAR_$_FIRInstallationsAPIService._projectID
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m
+__45-[FIRInstallationsAPIService sendURLRequest:]_block_invoke_2
+__45-[FIRInstallationsAPIService sendURLRequest:]_block_invoke
+__61-[FIRInstallationsAPIService validateHTTPResponseStatusCode:]_block_invoke
+__48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke.196
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40b48b
+__48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke_2
+__48-[FIRInstallationsAPIService URLRequestPromise:]_block_invoke
+__destroy_helper_block_e8_32r
+__copy_helper_block_e8_32r
+__96-[FIRInstallationsAPIService requestWithURL:HTTPMethod:bodyDict:refreshToken:additionalHeaders:]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__58-[FIRInstallationsAPIService authTokenWithServerResponse:]_block_invoke
+__84-[FIRInstallationsAPIService registeredInstallationWithInstallation:serverResponse:]_block_invoke
+__49-[FIRInstallationsAPIService deleteInstallation:]_block_invoke
+__62-[FIRInstallationsAPIService refreshAuthTokenForInstallation:]_block_invoke.56
+__copy_helper_block_e8_32s
+__62-[FIRInstallationsAPIService refreshAuthTokenForInstallation:]_block_invoke
+__51-[FIRInstallationsAPIService registerInstallation:]_block_invoke
+-[FIRInstallationsAuthTokenResult initWithToken:expirationDate:]
+-[FIRInstallationsAuthTokenResult authToken]
+-[FIRInstallationsAuthTokenResult expirationDate]
+-[FIRInstallationsAuthTokenResult .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsAuthTokenResult._authToken
+_OBJC_IVAR_$_FIRInstallationsAuthTokenResult._expirationDate
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResult.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsAuthTokenResult.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsAuthTokenResult.h
++[FIRInstallationsErrorUtil keyedArchiverErrorWithException:]
++[FIRInstallationsErrorUtil keyedArchiverErrorWithError:]
++[FIRInstallationsErrorUtil keychainErrorWithFunction:status:]
++[FIRInstallationsErrorUtil installationItemNotFoundForAppID:appName:]
++[FIRInstallationsErrorUtil corruptedIIDTokenData]
++[FIRInstallationsErrorUtil APIErrorWithHTTPResponse:data:]
++[FIRInstallationsErrorUtil isAPIError:withHTTPCode:]
++[FIRInstallationsErrorUtil JSONSerializationError:]
++[FIRInstallationsErrorUtil FIDRegistrationErrorWithResponseMissingField:]
++[FIRInstallationsErrorUtil networkErrorWithError:]
++[FIRInstallationsErrorUtil publicDomainErrorWithError:]
++[FIRInstallationsErrorUtil installationsErrorWithCode:failureReason:underlyingError:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.m
+FIRInstallationsItemSetErrorToPointer
+-[FIRInstallationsHTTPError initWithHTTPResponse:data:]
++[FIRInstallationsHTTPError errorCodeWithHTTPCode:]
++[FIRInstallationsHTTPError userInfoWithHTTPResponse:data:]
+-[FIRInstallationsHTTPError copyWithZone:]
+-[FIRInstallationsHTTPError initWithCoder:]
+-[FIRInstallationsHTTPError encodeWithCoder:]
++[FIRInstallationsHTTPError supportsSecureCoding]
+-[FIRInstallationsHTTPError HTTPResponse]
+-[FIRInstallationsHTTPError data]
+-[FIRInstallationsHTTPError .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsHTTPError._HTTPResponse
+_OBJC_IVAR_$_FIRInstallationsHTTPError._data
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsHTTPError.h
+-[FIRInstallationsIDController initWithGoogleAppID:appName:APIKey:projectID:GCMSenderID:accessGroup:]
+-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]
+___113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+___113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke.21
+___113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke_2
+___113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke_3
+-[FIRInstallationsIDController getInstallationItem]
+-[FIRInstallationsIDController createGetInstallationItemPromise]
+___64-[FIRInstallationsIDController createGetInstallationItemPromise]_block_invoke
+___64-[FIRInstallationsIDController createGetInstallationItemPromise]_block_invoke.43
+-[FIRInstallationsIDController getStoredInstallation]
+___53-[FIRInstallationsIDController getStoredInstallation]_block_invoke
+-[FIRInstallationsIDController createAndSaveFID]
+___48-[FIRInstallationsIDController createAndSaveFID]_block_invoke
+___48-[FIRInstallationsIDController createAndSaveFID]_block_invoke.63
+-[FIRInstallationsIDController saveInstallation:]
+___49-[FIRInstallationsIDController saveInstallation:]_block_invoke
+-[FIRInstallationsIDController migrateOrGenerateInstallation]
+___61-[FIRInstallationsIDController migrateOrGenerateInstallation]_block_invoke
+___61-[FIRInstallationsIDController migrateOrGenerateInstallation]_block_invoke.96
+-[FIRInstallationsIDController createInstallationWithFID:IIDDefaultToken:]
+-[FIRInstallationsIDController registerInstallationIfNeeded:]
+___61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke
+___61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke.118
+___61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke_2
+-[FIRInstallationsIDController doesRegistrationErrorRequireConfigChange:]
+-[FIRInstallationsIDController getAuthTokenForcingRefresh:]
+-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]
+___77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke
+___77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke_2
+___77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke.158
+-[FIRInstallationsIDController refreshAuthTokenForInstallation:]
+___64-[FIRInstallationsIDController refreshAuthTokenForInstallation:]_block_invoke
+-[FIRInstallationsIDController regenerateFIDOnRefreshTokenErrorIfNeeded:]
+___73-[FIRInstallationsIDController regenerateFIDOnRefreshTokenErrorIfNeeded:]_block_invoke
+___73-[FIRInstallationsIDController regenerateFIDOnRefreshTokenErrorIfNeeded:]_block_invoke_2
+-[FIRInstallationsIDController deleteInstallation]
+-[FIRInstallationsIDController createDeleteInstallationPromise]
+___63-[FIRInstallationsIDController createDeleteInstallationPromise]_block_invoke
+___63-[FIRInstallationsIDController createDeleteInstallationPromise]_block_invoke_2
+-[FIRInstallationsIDController deleteInstallationLocally:]
+___58-[FIRInstallationsIDController deleteInstallationLocally:]_block_invoke
+___58-[FIRInstallationsIDController deleteInstallationLocally:]_block_invoke.177
+-[FIRInstallationsIDController sendDeleteInstallationRequestIfNeeded:]
+___70-[FIRInstallationsIDController sendDeleteInstallationRequestIfNeeded:]_block_invoke
+-[FIRInstallationsIDController deleteExistingIIDIfNeeded]
+-[FIRInstallationsIDController mostRecentInstallationOperation]
+-[FIRInstallationsIDController postFIDDidChangeNotification]
+-[FIRInstallationsIDController isDefaultApp]
+-[FIRInstallationsIDController appID]
+-[FIRInstallationsIDController appName]
+-[FIRInstallationsIDController installationsStore]
+-[FIRInstallationsIDController IIDStore]
+-[FIRInstallationsIDController IIDTokenStore]
+-[FIRInstallationsIDController APIService]
+-[FIRInstallationsIDController getInstallationPromiseCache]
+-[FIRInstallationsIDController authTokenPromiseCache]
+-[FIRInstallationsIDController authTokenForcingRefreshPromiseCache]
+-[FIRInstallationsIDController deleteInstallationPromiseCache]
+-[FIRInstallationsIDController .cxx_destruct]
+___block_descriptor_40_e8_32w_e17_"FBLPromise"8?0l
+___block_descriptor_40_e8_32s_e17_16?0"NSError"8l
+___block_descriptor_40_e8_32s_e30_16?0"FIRInstallationsItem"8l
+___block_descriptor_32_e30_B16?0"FIRInstallationsItem"8l
+___block_descriptor_40_e8_32s_e42_"FBLPromise"16?0"FIRInstallationsItem"8l
+___block_descriptor_40_e8_32s_e52_"FIRInstallationsItem"16?0"FIRInstallationsItem"8l
+___block_descriptor_40_e8_32s_e38_"FIRInstallationsItem"16?0"NSNull"8l
+___block_descriptor_40_e8_32s_e17_16?0"NSArray"8l
+___block_descriptor_40_e8_32s_e17_v16?0"NSError"8l
+___block_descriptor_48_e8_32s40s_e52_"FIRInstallationsItem"16?0"FIRInstallationsItem"8l
+___block_descriptor_41_e8_32s_e30_16?0"FIRInstallationsItem"8l
+___block_descriptor_40_e8_32s_e20_"FBLPromise"16?08l
+___block_descriptor_40_e8_32s_e28_"FBLPromise"16?0"NSNull"8l
+___block_descriptor_40_e8_32s_e24_"NSNull"16?0"NSNull"8l
+_OBJC_IVAR_$_FIRInstallationsIDController._appID
+_OBJC_IVAR_$_FIRInstallationsIDController._appName
+_OBJC_IVAR_$_FIRInstallationsIDController._installationsStore
+_OBJC_IVAR_$_FIRInstallationsIDController._IIDStore
+_OBJC_IVAR_$_FIRInstallationsIDController._IIDTokenStore
+_OBJC_IVAR_$_FIRInstallationsIDController._APIService
+_OBJC_IVAR_$_FIRInstallationsIDController._getInstallationPromiseCache
+_OBJC_IVAR_$_FIRInstallationsIDController._authTokenPromiseCache
+_OBJC_IVAR_$_FIRInstallationsIDController._authTokenForcingRefreshPromiseCache
+_OBJC_IVAR_$_FIRInstallationsIDController._deleteInstallationPromiseCache
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsIDController.m
+__70-[FIRInstallationsIDController sendDeleteInstallationRequestIfNeeded:]_block_invoke
+__58-[FIRInstallationsIDController deleteInstallationLocally:]_block_invoke.177
+__58-[FIRInstallationsIDController deleteInstallationLocally:]_block_invoke
+__63-[FIRInstallationsIDController createDeleteInstallationPromise]_block_invoke_2
+__63-[FIRInstallationsIDController createDeleteInstallationPromise]_block_invoke
+__73-[FIRInstallationsIDController regenerateFIDOnRefreshTokenErrorIfNeeded:]_block_invoke_2
+__73-[FIRInstallationsIDController regenerateFIDOnRefreshTokenErrorIfNeeded:]_block_invoke
+__64-[FIRInstallationsIDController refreshAuthTokenForInstallation:]_block_invoke
+__77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke.158
+__77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke_2
+__77-[FIRInstallationsIDController installationWithValidAuthTokenForcingRefresh:]_block_invoke
+__61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke_2
+__61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke.118
+__61-[FIRInstallationsIDController registerInstallationIfNeeded:]_block_invoke
+__61-[FIRInstallationsIDController migrateOrGenerateInstallation]_block_invoke.96
+__61-[FIRInstallationsIDController migrateOrGenerateInstallation]_block_invoke
+__49-[FIRInstallationsIDController saveInstallation:]_block_invoke
+__48-[FIRInstallationsIDController createAndSaveFID]_block_invoke.63
+__48-[FIRInstallationsIDController createAndSaveFID]_block_invoke
+__53-[FIRInstallationsIDController getStoredInstallation]_block_invoke
+__64-[FIRInstallationsIDController createGetInstallationItemPromise]_block_invoke.43
+__64-[FIRInstallationsIDController createGetInstallationItemPromise]_block_invoke
+__113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke_3
+__113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke_2
+__113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke.21
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__113-[FIRInstallationsIDController initWithGoogleAppID:appName:installationsStore:APIService:IIDStore:IIDTokenStore:]_block_invoke
+-[FIRInstallationsIIDStore existingIID]
+___39-[FIRInstallationsIIDStore existingIID]_block_invoke
+___39-[FIRInstallationsIIDStore existingIID]_block_invoke.14
+-[FIRInstallationsIIDStore deleteExistingIID]
+___45-[FIRInstallationsIIDStore deleteExistingIID]_block_invoke
+-[FIRInstallationsIIDStore IIDWithPublicKeyData:]
+-[FIRInstallationsIIDStore sha1WithData:]
+-[FIRInstallationsIIDStore base64URLEncodedStringWithData:]
+-[FIRInstallationsIIDStore IIDPublicKeyData]
+-[FIRInstallationsIIDStore deleteIID:]
+-[FIRInstallationsIIDStore deleteKeychainKeyWithTagPrefix:error:]
+-[FIRInstallationsIIDStore keyPairQueryWithTag:returnData:]
+-[FIRInstallationsIIDStore keychainKeyTagWithPrefix:]
+-[FIRInstallationsIIDStore mainbundleIdentifier]
+-[FIRInstallationsIIDStore deleteIIDFlagFromPlist:]
+-[FIRInstallationsIIDStore hasPlistIIDFlag]
+-[FIRInstallationsIIDStore plistPath]
+-[FIRInstallationsIIDStore supportedDirectory]
+___clang_at_available_requires_core_foundation_framework
+___clang_at_available_requires_core_foundation_framework.cold.1
+___block_descriptor_32_e18_B16?0"NSString"8l
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDStore.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDStore.m
+__45-[FIRInstallationsIIDStore deleteExistingIID]_block_invoke
+__39-[FIRInstallationsIIDStore existingIID]_block_invoke.14
+__39-[FIRInstallationsIIDStore existingIID]_block_invoke
++[FIRInstallationsIIDTokenInfo supportsSecureCoding]
+-[FIRInstallationsIIDTokenInfo encodeWithCoder:]
+-[FIRInstallationsIIDTokenInfo initWithCoder:]
+-[FIRInstallationsIIDTokenInfo token]
+-[FIRInstallationsIIDTokenInfo setToken:]
+-[FIRInstallationsIIDTokenInfo .cxx_destruct]
+-[FIRInstallationsIIDTokenStore initWithGCMSenderID:]
+-[FIRInstallationsIIDTokenStore existingIIDDefaultToken]
+___56-[FIRInstallationsIIDTokenStore existingIIDDefaultToken]_block_invoke
+___56-[FIRInstallationsIIDTokenStore existingIIDDefaultToken]_block_invoke.32
+-[FIRInstallationsIIDTokenStore IIDCheckinWithData:]
+-[FIRInstallationsIIDTokenStore IIDDefaultTokenData]
+-[FIRInstallationsIIDTokenStore IIDDefaultTokenDataKeychainQuery]
+-[FIRInstallationsIIDTokenStore IIDAppIdentifier]
+-[FIRInstallationsIIDTokenStore serviceKeyForAuthorizedEntity:scope:]
+-[FIRInstallationsIIDTokenStore GCMSenderID]
+-[FIRInstallationsIIDTokenStore .cxx_destruct]
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_PROTOCOL_$_NSSecureCoding
+__OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+_OBJC_IVAR_$_FIRInstallationsIIDTokenInfo._token
+___block_descriptor_40_e8_32s_e16_16?0"NSData"8l
+_OBJC_IVAR_$_FIRInstallationsIIDTokenStore._GCMSenderID
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDTokenStore.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDTokenStore.m
+__56-[FIRInstallationsIIDTokenStore existingIIDDefaultToken]_block_invoke.32
+__56-[FIRInstallationsIIDTokenStore existingIIDDefaultToken]_block_invoke
+-[FIRInstallationsItem(RegisterInstallationAPI) registeredInstallationWithJSONData:date:error:]
++[FIRInstallationsItem(RegisterInstallationAPI) authTokenWithGenerateTokenAPIJSONData:date:error:]
++[FIRInstallationsItem(RegisterInstallationAPI) authTokenWithJSONDict:date:error:]
++[FIRInstallationsItem(RegisterInstallationAPI) dictionaryFromJSONData:error:]
++[FIRInstallationsItem(RegisterInstallationAPI) validStringOrNilForKey:fromDict:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.m
+-[FIRInstallationsItem initWithAppID:firebaseAppName:]
+-[FIRInstallationsItem copyWithZone:]
+-[FIRInstallationsItem updateWithStoredItem:]
+-[FIRInstallationsItem storedItem]
+-[FIRInstallationsItem identifier]
++[FIRInstallationsItem identifierWithAppID:appName:]
++[FIRInstallationsItem generateFID]
++[FIRInstallationsItem base64URLEncodedStringWithData:]
+-[FIRInstallationsItem appID]
+-[FIRInstallationsItem firebaseAppName]
+-[FIRInstallationsItem firebaseInstallationID]
+-[FIRInstallationsItem setFirebaseInstallationID:]
+-[FIRInstallationsItem refreshToken]
+-[FIRInstallationsItem setRefreshToken:]
+-[FIRInstallationsItem authToken]
+-[FIRInstallationsItem setAuthToken:]
+-[FIRInstallationsItem registrationStatus]
+-[FIRInstallationsItem setRegistrationStatus:]
+-[FIRInstallationsItem IIDDefaultToken]
+-[FIRInstallationsItem setIIDDefaultToken:]
+-[FIRInstallationsItem .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsItem._appID
+_OBJC_IVAR_$_FIRInstallationsItem._firebaseAppName
+_OBJC_IVAR_$_FIRInstallationsItem._firebaseInstallationID
+_OBJC_IVAR_$_FIRInstallationsItem._refreshToken
+_OBJC_IVAR_$_FIRInstallationsItem._authToken
+_OBJC_IVAR_$_FIRInstallationsItem._registrationStatus
+_OBJC_IVAR_$_FIRInstallationsItem._IIDDefaultToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h
++[FIRInstallationsKeychainUtils getItemWithQuery:error:]
++[FIRInstallationsKeychainUtils setItem:withQuery:error:]
++[FIRInstallationsKeychainUtils removeItemWithQuery:error:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRInstallationsKeychainUtils.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRInstallationsKeychainUtils.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.m
+-[FIRInstallationsSingleOperationPromiseCache initWithNewOperationHandler:]
+-[FIRInstallationsSingleOperationPromiseCache getExistingPendingOrCreateNewPromise]
+___83-[FIRInstallationsSingleOperationPromiseCache getExistingPendingOrCreateNewPromise]_block_invoke
+___83-[FIRInstallationsSingleOperationPromiseCache getExistingPendingOrCreateNewPromise]_block_invoke.16
+-[FIRInstallationsSingleOperationPromiseCache getExistingPendingPromise]
+-[FIRInstallationsSingleOperationPromiseCache newOperationHandler]
+-[FIRInstallationsSingleOperationPromiseCache pendingPromise]
+-[FIRInstallationsSingleOperationPromiseCache setPendingPromise:]
+-[FIRInstallationsSingleOperationPromiseCache .cxx_destruct]
+___block_descriptor_40_e8_32s_e8_16?08l
+_OBJC_IVAR_$_FIRInstallationsSingleOperationPromiseCache._newOperationHandler
+_OBJC_IVAR_$_FIRInstallationsSingleOperationPromiseCache._pendingPromise
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsSingleOperationPromiseCache.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsSingleOperationPromiseCache.m
+__83-[FIRInstallationsSingleOperationPromiseCache getExistingPendingOrCreateNewPromise]_block_invoke.16
+__83-[FIRInstallationsSingleOperationPromiseCache getExistingPendingOrCreateNewPromise]_block_invoke
+-[FIRInstallationsStore initWithSecureStorage:accessGroup:]
+-[FIRInstallationsStore installationForAppID:appName:]
+___54-[FIRInstallationsStore installationForAppID:appName:]_block_invoke
+___54-[FIRInstallationsStore installationForAppID:appName:]_block_invoke.23
+-[FIRInstallationsStore saveInstallation:]
+___42-[FIRInstallationsStore saveInstallation:]_block_invoke
+-[FIRInstallationsStore removeInstallationForAppID:appName:]
+___60-[FIRInstallationsStore removeInstallationForAppID:appName:]_block_invoke
+-[FIRInstallationsStore installationExistsForAppID:appName:]
+___60-[FIRInstallationsStore installationExistsForAppID:appName:]_block_invoke
+___copy_helper_block_e8_32s40s48s56s
+___destroy_helper_block_e8_32s40s48s56s
+-[FIRInstallationsStore setInstallationExists:forItemWithIdentifier:]
+___69-[FIRInstallationsStore setInstallationExists:forItemWithIdentifier:]_block_invoke
+-[FIRInstallationsStore secureStorage]
+-[FIRInstallationsStore accessGroup]
+-[FIRInstallationsStore queue]
+-[FIRInstallationsStore userDefaults]
+-[FIRInstallationsStore .cxx_destruct]
+___block_descriptor_48_e8_32s40s_e8_16?08l
+___block_descriptor_48_e8_32s40s_e36_16?0"FIRInstallationsStoredItem"8l
+___block_descriptor_64_e8_32s40s48s56s_e5_8?0l
+___block_descriptor_49_e8_32s40s_e5_8?0l
+_OBJC_IVAR_$_FIRInstallationsStore._secureStorage
+_OBJC_IVAR_$_FIRInstallationsStore._accessGroup
+_OBJC_IVAR_$_FIRInstallationsStore._queue
+_OBJC_IVAR_$_FIRInstallationsStore._userDefaults
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStore.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStore.m
+__69-[FIRInstallationsStore setInstallationExists:forItemWithIdentifier:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56s
+__copy_helper_block_e8_32s40s48s56s
+__60-[FIRInstallationsStore installationExistsForAppID:appName:]_block_invoke
+__60-[FIRInstallationsStore removeInstallationForAppID:appName:]_block_invoke
+__42-[FIRInstallationsStore saveInstallation:]_block_invoke
+__54-[FIRInstallationsStore installationForAppID:appName:]_block_invoke.23
+__54-[FIRInstallationsStore installationForAppID:appName:]_block_invoke
+-[FIRInstallationsStoredAuthToken storageVersion]
+-[FIRInstallationsStoredAuthToken copyWithZone:]
+-[FIRInstallationsStoredAuthToken encodeWithCoder:]
+-[FIRInstallationsStoredAuthToken initWithCoder:]
++[FIRInstallationsStoredAuthToken supportsSecureCoding]
+-[FIRInstallationsStoredAuthToken status]
+-[FIRInstallationsStoredAuthToken setStatus:]
+-[FIRInstallationsStoredAuthToken token]
+-[FIRInstallationsStoredAuthToken setToken:]
+-[FIRInstallationsStoredAuthToken expirationDate]
+-[FIRInstallationsStoredAuthToken setExpirationDate:]
+-[FIRInstallationsStoredAuthToken .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsStoredAuthToken._status
+_OBJC_IVAR_$_FIRInstallationsStoredAuthToken._token
+_OBJC_IVAR_$_FIRInstallationsStoredAuthToken._expirationDate
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredAuthToken.h
+-[FIRInstallationsStoredItem storageVersion]
+-[FIRInstallationsStoredItem encodeWithCoder:]
+-[FIRInstallationsStoredItem initWithCoder:]
++[FIRInstallationsStoredItem supportsSecureCoding]
+-[FIRInstallationsStoredItem firebaseInstallationID]
+-[FIRInstallationsStoredItem setFirebaseInstallationID:]
+-[FIRInstallationsStoredItem refreshToken]
+-[FIRInstallationsStoredItem setRefreshToken:]
+-[FIRInstallationsStoredItem authToken]
+-[FIRInstallationsStoredItem setAuthToken:]
+-[FIRInstallationsStoredItem registrationStatus]
+-[FIRInstallationsStoredItem setRegistrationStatus:]
+-[FIRInstallationsStoredItem IIDDefaultToken]
+-[FIRInstallationsStoredItem setIIDDefaultToken:]
+-[FIRInstallationsStoredItem .cxx_destruct]
+_OBJC_IVAR_$_FIRInstallationsStoredItem._firebaseInstallationID
+_OBJC_IVAR_$_FIRInstallationsStoredItem._refreshToken
+_OBJC_IVAR_$_FIRInstallationsStoredItem._authToken
+_OBJC_IVAR_$_FIRInstallationsStoredItem._registrationStatus
+_OBJC_IVAR_$_FIRInstallationsStoredItem._IIDDefaultToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredItem.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredItem.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsStore/FIRInstallationsStoredItem.h
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsVersion.m
+-[FIRSecureStorage init]
+-[FIRSecureStorage initWithService:cache:]
+-[FIRSecureStorage getObjectForKey:objectClass:accessGroup:]
+___60-[FIRSecureStorage getObjectForKey:objectClass:accessGroup:]_block_invoke
+___60-[FIRSecureStorage getObjectForKey:objectClass:accessGroup:]_block_invoke.24
+___copy_helper_block_e8_32s40s48s
+-[FIRSecureStorage setObject:forKey:accessGroup:]
+___49-[FIRSecureStorage setObject:forKey:accessGroup:]_block_invoke
+___49-[FIRSecureStorage setObject:forKey:accessGroup:]_block_invoke.37
+-[FIRSecureStorage removeObjectForKey:accessGroup:]
+___51-[FIRSecureStorage removeObjectForKey:accessGroup:]_block_invoke
+___51-[FIRSecureStorage removeObjectForKey:accessGroup:]_block_invoke_2
+-[FIRSecureStorage getObjectFromKeychainForKey:objectClass:accessGroup:]
+___72-[FIRSecureStorage getObjectFromKeychainForKey:objectClass:accessGroup:]_block_invoke
+___72-[FIRSecureStorage getObjectFromKeychainForKey:objectClass:accessGroup:]_block_invoke.55
+-[FIRSecureStorage resetInMemoryCache]
+-[FIRSecureStorage keychainQueryWithKey:accessGroup:]
+-[FIRSecureStorage archiveDataForObject:error:]
+-[FIRSecureStorage unarchivedObjectOfClass:fromData:error:]
+-[FIRSecureStorage keychainQueue]
+-[FIRSecureStorage inMemoryCacheQueue]
+-[FIRSecureStorage service]
+-[FIRSecureStorage inMemoryCache]
+-[FIRSecureStorage .cxx_destruct]
+___block_descriptor_64_e8_32s40s48s_e17_16?0"NSError"8lu56l8
+___block_descriptor_56_e8_32s40s48s_e5_8?0l
+___block_descriptor_64_e8_32s40s48s56s_e8_16?08l
+___block_descriptor_56_e8_32s40s48s_e8_16?08l
+___block_descriptor_64_e8_32s40s48s_e5_8?0lu56l8
+___block_descriptor_48_e8_32s40s_e44_"<NSSecureCoding>"16?0"<NSSecureCoding>"8l
+_OBJC_IVAR_$_FIRSecureStorage._keychainQueue
+_OBJC_IVAR_$_FIRSecureStorage._inMemoryCacheQueue
+_OBJC_IVAR_$_FIRSecureStorage._service
+_OBJC_IVAR_$_FIRSecureStorage._inMemoryCache
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRSecureStorage.m
+FirebaseInstallations/FirebaseInstallations/Source/Library/SecureStorage/FIRSecureStorage.m
+__72-[FIRSecureStorage getObjectFromKeychainForKey:objectClass:accessGroup:]_block_invoke.55
+__72-[FIRSecureStorage getObjectFromKeychainForKey:objectClass:accessGroup:]_block_invoke
+__51-[FIRSecureStorage removeObjectForKey:accessGroup:]_block_invoke_2
+__51-[FIRSecureStorage removeObjectForKey:accessGroup:]_block_invoke
+__49-[FIRSecureStorage setObject:forKey:accessGroup:]_block_invoke.37
+__49-[FIRSecureStorage setObject:forKey:accessGroup:]_block_invoke
+__copy_helper_block_e8_32s40s48s
+__60-[FIRSecureStorage getObjectForKey:objectClass:accessGroup:]_block_invoke.24
+__60-[FIRSecureStorage getObjectForKey:objectClass:accessGroup:]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/FirebaseInstanceID/FirebaseInstanceID-dummy.m
+-[FIRInstanceID(Private) fetchCheckinInfoWithHandler:]
+-[FIRInstanceID(Private) appInstanceID:]
++[FIRInstanceID(Private) usesFIS]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID+Private.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID+Private.m
+-[FIRInstanceIDResult copyWithZone:]
+-[FIRInstanceIDResult instanceID]
+-[FIRInstanceIDResult setInstanceID:]
+-[FIRInstanceIDResult token]
+-[FIRInstanceIDResult setToken:]
+-[FIRInstanceIDResult .cxx_destruct]
++[FIRInstanceID instanceID]
+-[FIRInstanceID initPrivately]
++[FIRInstanceID instanceIDForTests]
+-[FIRInstanceID dealloc]
+-[FIRInstanceID token]
+-[FIRInstanceID instanceIDWithHandler:]
+___39-[FIRInstanceID instanceIDWithHandler:]_block_invoke
+___39-[FIRInstanceID instanceIDWithHandler:]_block_invoke_2
+___copy_helper_block_e8_32b40s
+___copy_helper_block_e8_32b40w
+___destroy_helper_block_e8_32s40w
+-[FIRInstanceID cachedTokenIfAvailable]
+-[FIRInstanceID setDefaultFCMToken:]
+-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]
+___65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke
+___65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke_2
+___copy_helper_block_e8_32b40s48s
+___65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke.123
+___65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke_2.124
+___copy_helper_block_e8_32b40s48s56s64w
+___destroy_helper_block_e8_32s40s48s56s64w
+-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]
+___63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke
+___63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke_2
+___copy_helper_block_e8_32s40s48s56b
+___63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke.146
+___63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke_2.147
+___copy_helper_block_e8_32b40s48s56w
+___destroy_helper_block_e8_32s40s48s56w
+-[FIRInstanceID getIDWithHandler:]
+___34-[FIRInstanceID getIDWithHandler:]_block_invoke
+-[FIRInstanceID deleteIDWithHandler:]
+___37-[FIRInstanceID deleteIDWithHandler:]_block_invoke
+___37-[FIRInstanceID deleteIDWithHandler:]_block_invoke_2
+___37-[FIRInstanceID deleteIDWithHandler:]_block_invoke.153
+___37-[FIRInstanceID deleteIDWithHandler:]_block_invoke_2.154
+___37-[FIRInstanceID deleteIDWithHandler:]_block_invoke.157
+___copy_helper_block_e8_32b40b48w
+___destroy_helper_block_e8_32s40s48w
+-[FIRInstanceID notifyIdentityReset]
+-[FIRInstanceID deleteIdentityWithHandler:]
+___43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke
+___43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_2
+___43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_3
+___43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_4
+___copy_helper_block_e8_32s40b
+-[FIRInstanceID tryToLoadValidCheckinInfo]
+-[FIRInstanceID deviceAuthID]
+-[FIRInstanceID secretToken]
+-[FIRInstanceID versionInfo]
++[FIRInstanceID load]
++[FIRInstanceID componentsToRegister]
+___37+[FIRInstanceID componentsToRegister]_block_invoke
+-[FIRInstanceID configureInstanceIDWithOptions:]
+-[FIRInstanceID didCompleteConfigure]
+___37-[FIRInstanceID didCompleteConfigure]_block_invoke
+-[FIRInstanceID isFCMAutoInitEnabled]
+-[FIRInstanceID start]
+-[FIRInstanceID setupTokenManager]
+-[FIRInstanceID setupNotificationListeners]
++[FIRInstanceID maxRetryCountForDefaultToken]
++[FIRInstanceID minIntervalForDefaultTokenRetry]
++[FIRInstanceID maxRetryIntervalForDefaultTokenInSeconds]
+-[FIRInstanceID retryIntervalToFetchDefaultToken]
+-[FIRInstanceID defaultTokenWithHandler:]
+-[FIRInstanceID defaultTokenWithRetry:handler:]
+___47-[FIRInstanceID defaultTokenWithRetry:handler:]_block_invoke
+___copy_helper_block_e8_32s40w
+-[FIRInstanceID performDefaultTokenHandlerWithToken:error:]
+-[FIRInstanceID retryGetDefaultTokenAfter:]
+___43-[FIRInstanceID retryGetDefaultTokenAfter:]_block_invoke
+-[FIRInstanceID notifyAPNSTokenIsSet:]
+___38-[FIRInstanceID notifyAPNSTokenIsSet:]_block_invoke
+___38-[FIRInstanceID notifyAPNSTokenIsSet:]_block_invoke_2
+-[FIRInstanceID isSandboxApp]
+___29-[FIRInstanceID isSandboxApp]_block_invoke
+-[FIRInstanceID isProductionApp]
+-[FIRInstanceID logAPNSConfigurationError:]
+-[FIRInstanceID updateFirebaseInstallationID]
+___45-[FIRInstanceID updateFirebaseInstallationID]_block_invoke
+-[FIRInstanceID installationIDDidChangeNotificationReceived:]
+-[FIRInstanceID observeFirebaseInstallationIDChanges]
+-[FIRInstanceID fcmSenderID]
+-[FIRInstanceID setFcmSenderID:]
+-[FIRInstanceID firebaseAppID]
+-[FIRInstanceID setFirebaseAppID:]
+-[FIRInstanceID apnsTokenData]
+-[FIRInstanceID setApnsTokenData:]
+-[FIRInstanceID apnsTokenType]
+-[FIRInstanceID setApnsTokenType:]
+-[FIRInstanceID APNSTupleString]
+-[FIRInstanceID setAPNSTupleString:]
+-[FIRInstanceID defaultFCMToken]
+-[FIRInstanceID tokenManager]
+-[FIRInstanceID setTokenManager:]
+-[FIRInstanceID installations]
+-[FIRInstanceID setInstallations:]
+-[FIRInstanceID retryCountForDefaultToken]
+-[FIRInstanceID setRetryCountForDefaultToken:]
+-[FIRInstanceID defaultTokenFetchHandler]
+-[FIRInstanceID setDefaultTokenFetchHandler:]
+-[FIRInstanceID firebaseInstallationsID]
+-[FIRInstanceID setFirebaseInstallationsID:]
+-[FIRInstanceID .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDResult._instanceID
+_OBJC_IVAR_$_FIRInstanceIDResult._token
+_gInstanceID
+__OBJC_PROTOCOL_$_FIRInstanceIDInstanceProvider
+__OBJC_LABEL_PROTOCOL_$_FIRInstanceIDInstanceProvider
+l_OBJC_PROTOCOL_REFERENCE_$_FIRInstanceIDInstanceProvider
+___block_descriptor_48_e8_32bs40s_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_48_e8_32bs40w_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_56_e8_32bs40s48s_e5_v8?0l
+___block_descriptor_40_e8_32bs_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_72_e8_32bs40s48s56s64w_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_72_e8_32bs40s48s56s64w_e53_v24?0"FIRInstanceIDCheckinPreferences"8"NSError"16l
+___block_descriptor_48_e8_32bs40s_e5_v8?0l
+___block_descriptor_64_e8_32s40s48s56bs_e17_v16?0"NSError"8l
+___block_descriptor_64_e8_32bs40s48s56w_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_64_e8_32bs40s48s56w_e53_v24?0"FIRInstanceIDCheckinPreferences"8"NSError"16l
+___block_descriptor_48_e8_32bs40w_e17_v16?0"NSError"8l
+___block_descriptor_56_e8_32bs40bs48w_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_40_e8_32s_e5_v8?0l
+___block_descriptor_48_e8_32bs40s_e17_v16?0"NSError"8l
+___block_descriptor_48_e8_32s40bs_e17_v16?0"NSError"8l
+___block_descriptor_40_e8_32s_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_49_e8_32s40w_e30_v24?0"NSString"8"NSError"16l
+___block_descriptor_40_e8_32w_e5_v8?0l
+___block_descriptor_32_e30_v24?0"NSString"8"NSError"16l
+___block_literal_global.343
+_isSandboxApp.isSandboxApp
+_isSandboxApp.onceToken
+___block_descriptor_40_e8_32w_e30_v24?0"NSString"8"NSError"16l
+_OBJC_IVAR_$_FIRInstanceID._fcmSenderID
+_OBJC_IVAR_$_FIRInstanceID._firebaseAppID
+_OBJC_IVAR_$_FIRInstanceID._apnsTokenData
+_OBJC_IVAR_$_FIRInstanceID._apnsTokenType
+_OBJC_IVAR_$_FIRInstanceID._APNSTupleString
+_OBJC_IVAR_$_FIRInstanceID._defaultFCMToken
+_OBJC_IVAR_$_FIRInstanceID._tokenManager
+_OBJC_IVAR_$_FIRInstanceID._installations
+_OBJC_IVAR_$_FIRInstanceID._retryCountForDefaultToken
+_OBJC_IVAR_$_FIRInstanceID._defaultTokenFetchHandler
+_OBJC_IVAR_$_FIRInstanceID._firebaseInstallationsID
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceID.m
+__45-[FIRInstanceID updateFirebaseInstallationID]_block_invoke
+__29-[FIRInstanceID isSandboxApp]_block_invoke
+__38-[FIRInstanceID notifyAPNSTokenIsSet:]_block_invoke_2
+__38-[FIRInstanceID notifyAPNSTokenIsSet:]_block_invoke
+__43-[FIRInstanceID retryGetDefaultTokenAfter:]_block_invoke
+__copy_helper_block_e8_32s40w
+__47-[FIRInstanceID defaultTokenWithRetry:handler:]_block_invoke
+__37-[FIRInstanceID didCompleteConfigure]_block_invoke
+__37+[FIRInstanceID componentsToRegister]_block_invoke
+__copy_helper_block_e8_32s40b
+__43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_4
+__43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_3
+__43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke_2
+__43-[FIRInstanceID deleteIdentityWithHandler:]_block_invoke
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32b40b48w
+__37-[FIRInstanceID deleteIDWithHandler:]_block_invoke.157
+__37-[FIRInstanceID deleteIDWithHandler:]_block_invoke_2.154
+__37-[FIRInstanceID deleteIDWithHandler:]_block_invoke.153
+__37-[FIRInstanceID deleteIDWithHandler:]_block_invoke_2
+__37-[FIRInstanceID deleteIDWithHandler:]_block_invoke
+__34-[FIRInstanceID getIDWithHandler:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56w
+__copy_helper_block_e8_32b40s48s56w
+__63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke_2.147
+__63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke.146
+__copy_helper_block_e8_32s40s48s56b
+__63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke_2
+__63-[FIRInstanceID deleteTokenWithAuthorizedEntity:scope:handler:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56s64w
+__copy_helper_block_e8_32b40s48s56s64w
+__65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke_2.124
+__65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke.123
+__copy_helper_block_e8_32b40s48s
+__65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke_2
+__65-[FIRInstanceID tokenWithAuthorizedEntity:scope:options:handler:]_block_invoke
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32b40w
+__copy_helper_block_e8_32b40s
+__39-[FIRInstanceID instanceIDWithHandler:]_block_invoke_2
+__39-[FIRInstanceID instanceIDWithHandler:]_block_invoke
+FirebaseInstanceID/Firebase/InstanceID/Public/FIRInstanceID.h
+-[FIRInstanceIDAPNSInfo initWithDeviceToken:isSandbox:]
+-[FIRInstanceIDAPNSInfo initWithTokenOptionsDictionary:]
+-[FIRInstanceIDAPNSInfo initWithCoder:]
+-[FIRInstanceIDAPNSInfo encodeWithCoder:]
+-[FIRInstanceIDAPNSInfo isEqualToAPNSInfo:]
+-[FIRInstanceIDAPNSInfo deviceToken]
+-[FIRInstanceIDAPNSInfo isSandbox]
+-[FIRInstanceIDAPNSInfo .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDAPNSInfo._sandbox
+_OBJC_IVAR_$_FIRInstanceIDAPNSInfo._deviceToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAPNSInfo.h
+-[FIRInstanceIDAuthKeychain initWithIdentifier:]
++[FIRInstanceIDAuthKeychain keychainQueryForService:account:generic:]
+-[FIRInstanceIDAuthKeychain keychainQueryForService:account:]
+-[FIRInstanceIDAuthKeychain itemsMatchingService:account:]
+-[FIRInstanceIDAuthKeychain dataForService:account:]
+-[FIRInstanceIDAuthKeychain removeItemsMatchingService:account:handler:]
+-[FIRInstanceIDAuthKeychain setData:forService:account:handler:]
+___64-[FIRInstanceIDAuthKeychain setData:forService:account:handler:]_block_invoke
+___copy_helper_block_e8_32b40s48s56s64s
+___destroy_helper_block_e8_32s40s48s56s64s
+-[FIRInstanceIDAuthKeychain generic]
+-[FIRInstanceIDAuthKeychain setGeneric:]
+-[FIRInstanceIDAuthKeychain cachedKeychainData]
+-[FIRInstanceIDAuthKeychain setCachedKeychainData:]
+-[FIRInstanceIDAuthKeychain .cxx_destruct]
+___block_descriptor_72_e8_32bs40s48s56s64s_e17_v16?0"NSError"8l
+_OBJC_IVAR_$_FIRInstanceIDAuthKeychain._generic
+_OBJC_IVAR_$_FIRInstanceIDAuthKeychain._cachedKeychainData
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthKeyChain.m
+__destroy_helper_block_e8_32s40s48s56s64s
+__copy_helper_block_e8_32b40s48s56s64s
+__64-[FIRInstanceIDAuthKeychain setData:forService:account:handler:]_block_invoke
+-[FIRInstanceIDAuthService initWithCheckinService:store:]
+-[FIRInstanceIDAuthService dealloc]
+-[FIRInstanceIDAuthService initWithStore:]
+-[FIRInstanceIDAuthService scheduleCheckin:]
+-[FIRInstanceIDAuthService startCheckinTimerWithDuration:]
+-[FIRInstanceIDAuthService clearScheduledCheckinTimer]
+-[FIRInstanceIDAuthService onScheduledCheckinTimerFired:]
+-[FIRInstanceIDAuthService performScheduledCheckin]
+___51-[FIRInstanceIDAuthService performScheduledCheckin]_block_invoke
+___51-[FIRInstanceIDAuthService performScheduledCheckin]_block_invoke_2
+-[FIRInstanceIDAuthService calculateNextCheckinRetryIntervalInSeconds]
+-[FIRInstanceIDAuthService hasValidCheckinInfo]
+-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]
+___56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke
+___56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke_2
+___56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke_3
+-[FIRInstanceIDAuthService checkinPreferences]
+-[FIRInstanceIDAuthService stopCheckinRequest]
+-[FIRInstanceIDAuthService resetCheckinWithHandler:]
+___52-[FIRInstanceIDAuthService resetCheckinWithHandler:]_block_invoke
+-[FIRInstanceIDAuthService notifyCheckinHandlersWithCheckin:error:]
+-[FIRInstanceIDAuthService cachedCheckinMatchesCheckin:]
+-[FIRInstanceIDAuthService store]
+-[FIRInstanceIDAuthService setStore:]
+-[FIRInstanceIDAuthService checkinService]
+-[FIRInstanceIDAuthService setCheckinService:]
+-[FIRInstanceIDAuthService setCheckinPreferences:]
+-[FIRInstanceIDAuthService checkinHandlers]
+-[FIRInstanceIDAuthService isCheckinInProgress]
+-[FIRInstanceIDAuthService setIsCheckinInProgress:]
+-[FIRInstanceIDAuthService scheduledCheckinTimer]
+-[FIRInstanceIDAuthService setScheduledCheckinTimer:]
+-[FIRInstanceIDAuthService checkinRetryCount]
+-[FIRInstanceIDAuthService setCheckinRetryCount:]
+-[FIRInstanceIDAuthService .cxx_destruct]
+___block_descriptor_40_e8_32w_e53_v24?0"FIRInstanceIDCheckinPreferences"8"NSError"16l
+___block_descriptor_49_e8_32s40s_e17_v16?0"NSError"8l
+___block_descriptor_40_e8_32s_e53_v24?0"FIRInstanceIDCheckinPreferences"8"NSError"16l
+_OBJC_IVAR_$_FIRInstanceIDAuthService._isCheckinInProgress
+_OBJC_IVAR_$_FIRInstanceIDAuthService._checkinRetryCount
+_OBJC_IVAR_$_FIRInstanceIDAuthService._store
+_OBJC_IVAR_$_FIRInstanceIDAuthService._checkinService
+_OBJC_IVAR_$_FIRInstanceIDAuthService._checkinPreferences
+_OBJC_IVAR_$_FIRInstanceIDAuthService._checkinHandlers
+_OBJC_IVAR_$_FIRInstanceIDAuthService._scheduledCheckinTimer
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDAuthService.m
+__52-[FIRInstanceIDAuthService resetCheckinWithHandler:]_block_invoke
+__56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke_3
+__56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke_2
+__56-[FIRInstanceIDAuthService fetchCheckinInfoWithHandler:]_block_invoke
+__51-[FIRInstanceIDAuthService performScheduledCheckin]_block_invoke_2
+__51-[FIRInstanceIDAuthService performScheduledCheckin]_block_invoke
+-[FIRInstanceIDBackupExcludedPlist initWithFileName:subDirectory:]
+-[FIRInstanceIDBackupExcludedPlist writeDictionary:error:]
+-[FIRInstanceIDBackupExcludedPlist deleteFile:]
+-[FIRInstanceIDBackupExcludedPlist contentAsDictionary]
+-[FIRInstanceIDBackupExcludedPlist doesFileExist]
+-[FIRInstanceIDBackupExcludedPlist plistPathInDirectory]
+-[FIRInstanceIDBackupExcludedPlist supportedDirectory]
+-[FIRInstanceIDBackupExcludedPlist cachedPlistContents]
+-[FIRInstanceIDBackupExcludedPlist setCachedPlistContents:]
+-[FIRInstanceIDBackupExcludedPlist fileName]
+-[FIRInstanceIDBackupExcludedPlist setFileName:]
+-[FIRInstanceIDBackupExcludedPlist subDirectoryName]
+-[FIRInstanceIDBackupExcludedPlist setSubDirectoryName:]
+-[FIRInstanceIDBackupExcludedPlist .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDBackupExcludedPlist._cachedPlistContents
+_OBJC_IVAR_$_FIRInstanceIDBackupExcludedPlist._fileName
+_OBJC_IVAR_$_FIRInstanceIDBackupExcludedPlist._subDirectoryName
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDBackupExcludedPlist.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDBackupExcludedPlist.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDBackupExcludedPlist.h
++[FIRInstanceIDCheckinPreferences(Internal) preferencesFromKeychainContents:]
+-[FIRInstanceIDCheckinPreferences(Internal) initWithDeviceID:secretToken:]
+-[FIRInstanceIDCheckinPreferences(Internal) reset]
+-[FIRInstanceIDCheckinPreferences(Internal) updateWithCheckinPlistContents:]
+-[FIRInstanceIDCheckinPreferences(Internal) checkinKeychainContent]
++[FIRInstanceIDCheckinPreferences(Internal) checkinDeviceIDFromKeychainContent:]
++[FIRInstanceIDCheckinPreferences(Internal) checkinSecretFromKeychainContent:]
++[FIRInstanceIDCheckinPreferences(Internal) checkinKeychainContent:forIndex:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences+Internal.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences+Internal.m
+-[FIRInstanceIDCheckinPreferences checkinPlistContents]
+-[FIRInstanceIDCheckinPreferences hasCheckinInfo]
+-[FIRInstanceIDCheckinPreferences hasValidCheckinInfo]
+-[FIRInstanceIDCheckinPreferences setHasPreCachedAuthCredentials:]
+-[FIRInstanceIDCheckinPreferences deviceID]
+-[FIRInstanceIDCheckinPreferences setDeviceID:]
+-[FIRInstanceIDCheckinPreferences secretToken]
+-[FIRInstanceIDCheckinPreferences setSecretToken:]
+-[FIRInstanceIDCheckinPreferences deviceDataVersion]
+-[FIRInstanceIDCheckinPreferences setDeviceDataVersion:]
+-[FIRInstanceIDCheckinPreferences digest]
+-[FIRInstanceIDCheckinPreferences setDigest:]
+-[FIRInstanceIDCheckinPreferences versionInfo]
+-[FIRInstanceIDCheckinPreferences setVersionInfo:]
+-[FIRInstanceIDCheckinPreferences lastCheckinTimestampMillis]
+-[FIRInstanceIDCheckinPreferences setLastCheckinTimestampMillis:]
+-[FIRInstanceIDCheckinPreferences gServicesData]
+-[FIRInstanceIDCheckinPreferences setGServicesData:]
+-[FIRInstanceIDCheckinPreferences hasPreCachedAuthCredentials]
+-[FIRInstanceIDCheckinPreferences .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._hasPreCachedAuthCredentials
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._deviceID
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._secretToken
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._deviceDataVersion
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._digest
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._versionInfo
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._lastCheckinTimestampMillis
+_OBJC_IVAR_$_FIRInstanceIDCheckinPreferences._gServicesData
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinPreferences.m
+FirebaseInstanceID/Firebase/InstanceID/Private/FIRInstanceIDCheckinPreferences.h
+-[FIRInstanceIDCheckinService init]
+-[FIRInstanceIDCheckinService dealloc]
+-[FIRInstanceIDCheckinService checkinWithExistingCheckin:completion:]
+___69-[FIRInstanceIDCheckinService checkinWithExistingCheckin:completion:]_block_invoke
+-[FIRInstanceIDCheckinService stopFetching]
+-[FIRInstanceIDCheckinService checkinParametersWithExistingCheckin:]
++[FIRInstanceIDCheckinService setCheckinTestBlock:]
+-[FIRInstanceIDCheckinService session]
+-[FIRInstanceIDCheckinService setSession:]
+-[FIRInstanceIDCheckinService .cxx_destruct]
+_testBlock
+___block_descriptor_40_e8_32bs_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+_OBJC_IVAR_$_FIRInstanceIDCheckinService._session
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinService.m
+__69-[FIRInstanceIDCheckinService checkinWithExistingCheckin:completion:]_block_invoke
+-[FIRInstanceIDCheckinStore initWithCheckinPlistFileName:subDirectoryName:]
+-[FIRInstanceIDCheckinStore initWithCheckinPlist:keychain:]
+-[FIRInstanceIDCheckinStore hasCheckinPlist]
+-[FIRInstanceIDCheckinStore bundleIdentifierForKeychainAccount]
+___63-[FIRInstanceIDCheckinStore bundleIdentifierForKeychainAccount]_block_invoke
+-[FIRInstanceIDCheckinStore saveCheckinPreferences:handler:]
+___60-[FIRInstanceIDCheckinStore saveCheckinPreferences:handler:]_block_invoke
+-[FIRInstanceIDCheckinStore removeCheckinPreferencesWithHandler:]
+___65-[FIRInstanceIDCheckinStore removeCheckinPreferencesWithHandler:]_block_invoke
+-[FIRInstanceIDCheckinStore cachedCheckinPreferences]
+-[FIRInstanceIDCheckinStore migrateCheckinItemIfNeeded]
+-[FIRInstanceIDCheckinStore plist]
+-[FIRInstanceIDCheckinStore setPlist:]
+-[FIRInstanceIDCheckinStore keychain]
+-[FIRInstanceIDCheckinStore setKeychain:]
+-[FIRInstanceIDCheckinStore .cxx_destruct]
+_bundleIdentifierForKeychainAccount.bundleIdentifier
+_bundleIdentifierForKeychainAccount.onceToken
+_OBJC_IVAR_$_FIRInstanceIDCheckinStore._plist
+_OBJC_IVAR_$_FIRInstanceIDCheckinStore._keychain
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinStore.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCheckinStore.m
+__65-[FIRInstanceIDCheckinStore removeCheckinPreferencesWithHandler:]_block_invoke
+__60-[FIRInstanceIDCheckinStore saveCheckinPreferences:handler:]_block_invoke
+__63-[FIRInstanceIDCheckinStore bundleIdentifierForKeychainAccount]_block_invoke
+-[FIRInstanceIDCombinedHandler init]
+-[FIRInstanceIDCombinedHandler addHandler:]
+-[FIRInstanceIDCombinedHandler combinedHandler]
+___47-[FIRInstanceIDCombinedHandler combinedHandler]_block_invoke
+-[FIRInstanceIDCombinedHandler handlers]
+-[FIRInstanceIDCombinedHandler .cxx_destruct]
+___block_descriptor_40_e8_32s_e20_v24?08"NSError"16l
+_OBJC_IVAR_$_FIRInstanceIDCombinedHandler._handlers
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDCombinedHandler.m
+__47-[FIRInstanceIDCombinedHandler combinedHandler]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDConstants.m
++[FIRInstanceIDKeychain sharedInstance]
+___39+[FIRInstanceIDKeychain sharedInstance]_block_invoke
+-[FIRInstanceIDKeychain init]
+-[FIRInstanceIDKeychain itemWithQuery:]
+___39-[FIRInstanceIDKeychain itemWithQuery:]_block_invoke
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
+-[FIRInstanceIDKeychain removeItemWithQuery:handler:]
+___53-[FIRInstanceIDKeychain removeItemWithQuery:handler:]_block_invoke
+___53-[FIRInstanceIDKeychain removeItemWithQuery:handler:]_block_invoke_2
+-[FIRInstanceIDKeychain addItemWithQuery:handler:]
+___50-[FIRInstanceIDKeychain addItemWithQuery:handler:]_block_invoke
+___50-[FIRInstanceIDKeychain addItemWithQuery:handler:]_block_invoke_2
+-[FIRInstanceIDKeychain .cxx_destruct]
+___block_descriptor_48_e8_32s40r_e5_v8?0l
+___block_descriptor_48_e8_32s40bs_e5_v8?0l
+_OBJC_IVAR_$_FIRInstanceIDKeychain._keychainOperationQueue
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeychain.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDKeychain.m
+__50-[FIRInstanceIDKeychain addItemWithQuery:handler:]_block_invoke_2
+__50-[FIRInstanceIDKeychain addItemWithQuery:handler:]_block_invoke
+__53-[FIRInstanceIDKeychain removeItemWithQuery:handler:]_block_invoke_2
+__53-[FIRInstanceIDKeychain removeItemWithQuery:handler:]_block_invoke
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
+__39-[FIRInstanceIDKeychain itemWithQuery:]_block_invoke
+__39+[FIRInstanceIDKeychain sharedInstance]_block_invoke
++[FIRInstanceIDLogger formatMessageCode:]
+-[FIRInstanceIDLogger logFuncDebug:messageCode:msg:]
+-[FIRInstanceIDLogger logFuncInfo:messageCode:msg:]
+-[FIRInstanceIDLogger logFuncNotice:messageCode:msg:]
+-[FIRInstanceIDLogger logFuncWarning:messageCode:msg:]
+-[FIRInstanceIDLogger logFuncError:messageCode:msg:]
+___FIRInstanceIDSharedLogger_block_invoke
+_FIRInstanceIDSharedLogger.onceToken
+_FIRInstanceIDSharedLogger.logger
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.m
+__FIRInstanceIDSharedLogger_block_invoke
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDLogger.m
+FIRInstanceIDSharedLogger
+-[FIRInstanceIDStore initWithDelegate:]
+-[FIRInstanceIDStore initWithCheckinStore:tokenStore:delegate:]
++[FIRInstanceIDStore hasSubDirectory:]
++[FIRInstanceIDStore supportedDirectory]
++[FIRInstanceIDStore pathForSupportSubDirectory:]
++[FIRInstanceIDStore createSubDirectory:]
++[FIRInstanceIDStore removeSubDirectory:error:]
+-[FIRInstanceIDStore resetCredentialsIfNeeded]
+___46-[FIRInstanceIDStore resetCredentialsIfNeeded]_block_invoke
+-[FIRInstanceIDStore tokenInfoWithAuthorizedEntity:scope:]
+-[FIRInstanceIDStore cachedTokenInfos]
+-[FIRInstanceIDStore saveTokenInfo:handler:]
+-[FIRInstanceIDStore removeCachedTokenWithAuthorizedEntity:scope:]
+-[FIRInstanceIDStore removeAllCachedTokensWithHandler:]
+-[FIRInstanceIDStore saveCheckinPreferences:handler:]
+-[FIRInstanceIDStore cachedCheckinPreferences]
+-[FIRInstanceIDStore removeCheckinPreferencesWithHandler:]
+___58-[FIRInstanceIDStore removeCheckinPreferencesWithHandler:]_block_invoke
+-[FIRInstanceIDStore delegate]
+-[FIRInstanceIDStore checkinStore]
+-[FIRInstanceIDStore setCheckinStore:]
+-[FIRInstanceIDStore tokenStore]
+-[FIRInstanceIDStore setTokenStore:]
+-[FIRInstanceIDStore .cxx_destruct]
+___block_descriptor_48_e8_32s40s_e17_v16?0"NSError"8l
+_OBJC_IVAR_$_FIRInstanceIDStore._delegate
+_OBJC_IVAR_$_FIRInstanceIDStore._checkinStore
+_OBJC_IVAR_$_FIRInstanceIDStore._tokenStore
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStore.h
+__58-[FIRInstanceIDStore removeCheckinPreferencesWithHandler:]_block_invoke
+__46-[FIRInstanceIDStore resetCredentialsIfNeeded]_block_invoke
++[FIRInstanceIDStringEncoding rfc4648Base64WebsafeStringEncoding]
++[FIRInstanceIDStringEncoding stringEncodingWithString:]
+-[FIRInstanceIDStringEncoding initWithString:]
+-[FIRInstanceIDStringEncoding description]
+-[FIRInstanceIDStringEncoding doPad]
+-[FIRInstanceIDStringEncoding setDoPad:]
+-[FIRInstanceIDStringEncoding setPaddingChar:]
+-[FIRInstanceIDStringEncoding encode:]
+-[FIRInstanceIDStringEncoding decode:]
+-[FIRInstanceIDStringEncoding .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.charMapData_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.charMap_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.reverseCharMap_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.shift_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.mask_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.doPad_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.paddingChar_
+_OBJC_IVAR_$_FIRInstanceIDStringEncoding.padLen_
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStringEncoding.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDStringEncoding.m
+lcm
+-[FIRInstanceIDTokenDeleteOperation initWithAuthorizedEntity:scope:checkinPreferences:instanceID:action:]
+-[FIRInstanceIDTokenDeleteOperation performTokenOperation]
+___58-[FIRInstanceIDTokenDeleteOperation performTokenOperation]_block_invoke
+-[FIRInstanceIDTokenDeleteOperation handleResponseWithData:response:error:]
+___block_descriptor_40_e8_32w_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenDeleteOperation.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenDeleteOperation.m
+__58-[FIRInstanceIDTokenDeleteOperation performTokenOperation]_block_invoke
+-[FIRInstanceIDTokenFetchOperation initWithAuthorizedEntity:scope:options:checkinPreferences:instanceID:]
+-[FIRInstanceIDTokenFetchOperation performTokenOperation]
+___57-[FIRInstanceIDTokenFetchOperation performTokenOperation]_block_invoke
+-[FIRInstanceIDTokenFetchOperation handleResponseWithData:response:error:]
+___74-[FIRInstanceIDTokenFetchOperation handleResponseWithData:response:error:]_block_invoke
+-[FIRInstanceIDTokenFetchOperation parseFetchTokenResponse:]
+_phoneRegistrationErrorRetryCount
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenFetchOperation.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenFetchOperation.m
+__74-[FIRInstanceIDTokenFetchOperation handleResponseWithData:response:error:]_block_invoke
+__57-[FIRInstanceIDTokenFetchOperation performTokenOperation]_block_invoke
+-[FIRInstanceIDTokenInfo initWithAuthorizedEntity:scope:token:appVersion:firebaseAppID:]
+-[FIRInstanceIDTokenInfo isFreshWithIID:]
+-[FIRInstanceIDTokenInfo isDefaultToken]
+-[FIRInstanceIDTokenInfo initWithCoder:]
+-[FIRInstanceIDTokenInfo encodeWithCoder:]
+-[FIRInstanceIDTokenInfo authorizedEntity]
+-[FIRInstanceIDTokenInfo scope]
+-[FIRInstanceIDTokenInfo token]
+-[FIRInstanceIDTokenInfo appVersion]
+-[FIRInstanceIDTokenInfo firebaseAppID]
+-[FIRInstanceIDTokenInfo APNSInfo]
+-[FIRInstanceIDTokenInfo setAPNSInfo:]
+-[FIRInstanceIDTokenInfo cacheTime]
+-[FIRInstanceIDTokenInfo setCacheTime:]
+-[FIRInstanceIDTokenInfo .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._authorizedEntity
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._scope
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._token
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._appVersion
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._firebaseAppID
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._APNSInfo
+_OBJC_IVAR_$_FIRInstanceIDTokenInfo._cacheTime
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenInfo.h
+-[FIRInstanceIDTokenManager init]
+-[FIRInstanceIDTokenManager dealloc]
+-[FIRInstanceIDTokenManager configureTokenOperations]
+-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]
+___96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke
+___96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke_2
+___96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke.47
+___96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke_2.48
+-[FIRInstanceIDTokenManager cachedTokenInfoWithAuthorizedEntity:scope:]
+-[FIRInstanceIDTokenManager deleteTokenWithAuthorizedEntity:scope:instanceID:handler:]
+___86-[FIRInstanceIDTokenManager deleteTokenWithAuthorizedEntity:scope:instanceID:handler:]_block_invoke
+___86-[FIRInstanceIDTokenManager deleteTokenWithAuthorizedEntity:scope:instanceID:handler:]_block_invoke_2
+-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]
+___67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke
+___67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke.66
+___67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke_2
+-[FIRInstanceIDTokenManager deleteAllTokensLocallyWithHandler:]
+-[FIRInstanceIDTokenManager stopAllTokenOperations]
+-[FIRInstanceIDTokenManager store:didDeleteFCMScopedTokensForCheckin:]
+___70-[FIRInstanceIDTokenManager store:didDeleteFCMScopedTokensForCheckin:]_block_invoke
+-[FIRInstanceIDTokenManager createFetchOperationWithAuthorizedEntity:scope:options:instanceID:]
+-[FIRInstanceIDTokenManager createDeleteOperationWithAuthorizedEntity:scope:checkinPreferences:instanceID:action:]
+-[FIRInstanceIDTokenManager checkTokenRefreshPolicyWithIID:]
+-[FIRInstanceIDTokenManager updateTokensToAPNSDeviceToken:isSandbox:]
+-[FIRInstanceIDTokenManager authService]
+-[FIRInstanceIDTokenManager setAuthService:]
+-[FIRInstanceIDTokenManager instanceIDStore]
+-[FIRInstanceIDTokenManager setInstanceIDStore:]
+-[FIRInstanceIDTokenManager tokenOperations]
+-[FIRInstanceIDTokenManager currentAPNSInfo]
+-[FIRInstanceIDTokenManager setCurrentAPNSInfo:]
+-[FIRInstanceIDTokenManager .cxx_destruct]
+___block_descriptor_72_e8_32bs40s48s56s64w_e33_v32?0q8"NSString"16"NSError"24l
+___block_descriptor_64_e8_32bs40s48s_e5_v8?0l
+___block_descriptor_40_e8_32bs_e33_v32?0q8"NSString"16"NSError"24l
+___block_descriptor_40_e8_32bs_e5_v8?0l
+___block_descriptor_32_e33_v32?0q8"NSString"16"NSError"24l
+__OBJC_PROTOCOL_$_FIRInstanceIDStoreDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRInstanceIDStoreDelegate
+_OBJC_IVAR_$_FIRInstanceIDTokenManager._authService
+_OBJC_IVAR_$_FIRInstanceIDTokenManager._instanceIDStore
+_OBJC_IVAR_$_FIRInstanceIDTokenManager._tokenOperations
+_OBJC_IVAR_$_FIRInstanceIDTokenManager._currentAPNSInfo
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenManager.h
+__70-[FIRInstanceIDTokenManager store:didDeleteFCMScopedTokensForCheckin:]_block_invoke
+__67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke_2
+__67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke.66
+__67-[FIRInstanceIDTokenManager deleteAllTokensWithInstanceID:handler:]_block_invoke
+__86-[FIRInstanceIDTokenManager deleteTokenWithAuthorizedEntity:scope:instanceID:handler:]_block_invoke_2
+__86-[FIRInstanceIDTokenManager deleteTokenWithAuthorizedEntity:scope:instanceID:handler:]_block_invoke
+__96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke_2.48
+__96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke.47
+__96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke_2
+__96-[FIRInstanceIDTokenManager fetchNewTokenWithAuthorizedEntity:scope:instanceID:options:handler:]_block_invoke
++[FIRInstanceIDTokenOperation sharedURLSession]
+___47+[FIRInstanceIDTokenOperation sharedURLSession]_block_invoke
+-[FIRInstanceIDTokenOperation initWithAction:forAuthorizedEntity:scope:options:checkinPreferences:instanceID:]
+-[FIRInstanceIDTokenOperation dealloc]
+-[FIRInstanceIDTokenOperation addCompletionHandler:]
+-[FIRInstanceIDTokenOperation isAsynchronous]
+-[FIRInstanceIDTokenOperation isExecuting]
+-[FIRInstanceIDTokenOperation setExecuting:]
+-[FIRInstanceIDTokenOperation isFinished]
+-[FIRInstanceIDTokenOperation setFinished:]
+-[FIRInstanceIDTokenOperation start]
+___36-[FIRInstanceIDTokenOperation start]_block_invoke
+-[FIRInstanceIDTokenOperation finishWithResult:token:error:]
+-[FIRInstanceIDTokenOperation cancel]
+-[FIRInstanceIDTokenOperation performTokenOperation]
+-[FIRInstanceIDTokenOperation tokenRequest]
++[FIRInstanceIDTokenOperation requestWithAuthHeader:FISAuthToken:]
++[FIRInstanceIDTokenOperation standardQueryItemsWithDeviceID:scope:]
+-[FIRInstanceIDTokenOperation queryItemsWithInstanceID:]
++[FIRInstanceIDTokenOperation HTTPAuthHeaderFromCheckin:]
+-[FIRInstanceIDTokenOperation action]
+-[FIRInstanceIDTokenOperation authorizedEntity]
+-[FIRInstanceIDTokenOperation scope]
+-[FIRInstanceIDTokenOperation options]
+-[FIRInstanceIDTokenOperation checkinPreferences]
+-[FIRInstanceIDTokenOperation setCheckinPreferences:]
+-[FIRInstanceIDTokenOperation instanceID]
+-[FIRInstanceIDTokenOperation setInstanceID:]
+-[FIRInstanceIDTokenOperation result]
+-[FIRInstanceIDTokenOperation dataTask]
+-[FIRInstanceIDTokenOperation setDataTask:]
+-[FIRInstanceIDTokenOperation completionHandlers]
+-[FIRInstanceIDTokenOperation FISAuthToken]
+-[FIRInstanceIDTokenOperation setFISAuthToken:]
+-[FIRInstanceIDTokenOperation testBlock]
+-[FIRInstanceIDTokenOperation setTestBlock:]
+-[FIRInstanceIDTokenOperation .cxx_destruct]
+_sharedURLSession.tokenOperationSharedSession
+_sharedURLSession.onceToken
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._action
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._authorizedEntity
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._scope
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._options
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._checkinPreferences
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._instanceID
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._completionHandlers
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._isExecuting
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._isFinished
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._testBlock
+___block_descriptor_40_e8_32s_e53_v24?0"FIRInstallationsAuthTokenResult"8"NSError"16l
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._result
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._dataTask
+_OBJC_IVAR_$_FIRInstanceIDTokenOperation._FISAuthToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenOperation.h
+__36-[FIRInstanceIDTokenOperation start]_block_invoke
+__47+[FIRInstanceIDTokenOperation sharedURLSession]_block_invoke
++[FIRInstanceIDTokenStore defaultStore]
+-[FIRInstanceIDTokenStore initWithKeychain:]
++[FIRInstanceIDTokenStore serviceKeyForAuthorizedEntity:scope:]
+-[FIRInstanceIDTokenStore tokenInfoWithAuthorizedEntity:scope:]
+-[FIRInstanceIDTokenStore cachedTokenInfos]
++[FIRInstanceIDTokenStore tokenInfoFromKeychainItem:]
+-[FIRInstanceIDTokenStore saveTokenInfo:handler:]
+-[FIRInstanceIDTokenStore removeTokenWithAuthorizedEntity:scope:]
+-[FIRInstanceIDTokenStore removeAllTokensWithHandler:]
+-[FIRInstanceIDTokenStore keychain]
+-[FIRInstanceIDTokenStore setKeychain:]
+-[FIRInstanceIDTokenStore .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDTokenStore._keychain
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDTokenStore.m
++[FIRInstanceIDURLQueryItem queryItemWithName:value:]
+-[FIRInstanceIDURLQueryItem initWithName:value:]
+-[FIRInstanceIDURLQueryItem name]
+-[FIRInstanceIDURLQueryItem value]
+-[FIRInstanceIDURLQueryItem .cxx_destruct]
+_OBJC_IVAR_$_FIRInstanceIDURLQueryItem._name
+_OBJC_IVAR_$_FIRInstanceIDURLQueryItem._value
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDURLQueryItem.m
+FIRInstanceIDQueryFromQueryItems
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDURLQueryItem.m
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDURLQueryItem.h
+___FIRInstanceIDDeviceModel_block_invoke
+_FIRInstanceIDDeviceModel.once
+_hardwareDeviceModel
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.m
+FIRInstanceIDCurrentGCMVersion
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDUtilities.m
+FIRInstanceIDAPNSTupleStringForTokenAndServerType
+FIRInstanceIDStringForAPNSDeviceToken
+FIRInstanceIDIsValidGCMScope
+FIRInstanceIDCurrentLocale
+FIRInstanceIDHasLocaleChanged
+FIRInstanceIDOperatingSystemVersion
+__FIRInstanceIDDeviceModel_block_invoke
+FIRInstanceIDDeviceModel
+FIRInstanceIDFirebaseAppID
+FIRInstanceIDAppIdentifier
+FIRInstanceIDBundleIDByRemovingLastPartFrom
+FIRInstanceIDCurrentAppVersion
+FIRInstanceIDCurrentTimestampInMilliseconds
+FIRInstanceIDCurrentTimestampInSeconds
+FIRInstanceIDRegisterServer
+___FIRInstanceIDParseCurrentLibraryVersion_block_invoke
+_FIRInstanceIDParseCurrentLibraryVersion.allVersions
+_FIRInstanceIDParseCurrentLibraryVersion.onceToken
+_majorVersion
+_minorVersion
+_patchVersion
+_betaVersion
+_libraryVersion
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.m
+FIRInstanceIDCurrentLibraryVersionIsBeta
+FirebaseInstanceID/Firebase/InstanceID/FIRInstanceIDVersionUtilities.m
+FIRInstanceIDParseCurrentLibraryVersion
+FIRInstanceIDCurrentLibraryVersionPatch
+FIRInstanceIDCurrentLibraryVersionMinor
+FIRInstanceIDCurrentLibraryVersionMajor
+FIRInstanceIDCurrentLibraryVersion
+__FIRInstanceIDParseCurrentLibraryVersion_block_invoke
+-[NSError(FIRInstanceID) instanceIDErrorCode]
++[NSError(FIRInstanceID) errorWithFIRInstanceIDErrorCode:]
++[NSError(FIRInstanceID) errorWithFIRInstanceIDErrorCode:userInfo:]
++[NSError(FIRInstanceID) FIRInstanceIDErrorMissingCheckin]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.m
+FirebaseInstanceID/Firebase/InstanceID/NSError+FIRInstanceID.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/FirebaseMessaging/FirebaseMessaging-dummy.m
+-[FIRMessagingMessageInfo init]
+-[FIRMessagingMessageInfo initWithStatus:]
+-[FIRMessagingMessageInfo status]
+-[FIRMessagingMessageInfo setStatus:]
+-[FIRMessagingRemoteMessage init]
+-[FIRMessagingRemoteMessage messageID]
+-[FIRMessagingRemoteMessage setMessageID:]
+-[FIRMessagingRemoteMessage appData]
+-[FIRMessagingRemoteMessage setAppData:]
+-[FIRMessagingRemoteMessage .cxx_destruct]
++[FIRMessaging messaging]
++[FIRMessaging extensionHelper]
+___31+[FIRMessaging extensionHelper]_block_invoke
+-[FIRMessaging initWithAnalytics:withInstanceID:withUserDefaults:]
+-[FIRMessaging dealloc]
++[FIRMessaging load]
++[FIRMessaging componentsToRegister]
+___36+[FIRMessaging componentsToRegister]_block_invoke
+-[FIRMessaging configureNotificationSwizzlingIfEnabled]
+-[FIRMessaging start]
+-[FIRMessaging setupFileManagerSubDirectory]
+-[FIRMessaging setupNotificationListeners]
+-[FIRMessaging setupReceiver]
+-[FIRMessaging setupClient]
+-[FIRMessaging setupDataMessageManager]
+-[FIRMessaging setupRmqManager]
+-[FIRMessaging setupTopics]
+-[FIRMessaging setupSyncMessageManager]
+-[FIRMessaging teardown]
+-[FIRMessaging appDidReceiveMessage:]
+-[FIRMessaging handleContextManagerMessage:]
+-[FIRMessaging handleIncomingLinkIfNeededFromMessage:]
+___54-[FIRMessaging handleIncomingLinkIfNeededFromMessage:]_block_invoke
+___54-[FIRMessaging handleIncomingLinkIfNeededFromMessage:]_block_invoke.305
+-[FIRMessaging linkURLFromMessage:]
+-[FIRMessaging APNSToken]
+-[FIRMessaging setAPNSToken:]
+-[FIRMessaging setAPNSToken:type:]
+-[FIRMessaging isAutoInitEnabled]
++[FIRMessaging isAutoInitEnabledWithUserDefaults:]
+-[FIRMessaging setAutoInitEnabled:]
+-[FIRMessaging FCMToken]
+-[FIRMessaging retrieveFCMTokenForSenderID:completion:]
+-[FIRMessaging deleteFCMTokenForSenderID:completion:]
+-[FIRMessaging setDelegate:]
+-[FIRMessaging validateDelegateConformsToTokenAvailabilityMethods]
+-[FIRMessaging notifyDelegateOfFCMTokenAvailability]
+___52-[FIRMessaging notifyDelegateOfFCMTokenAvailability]_block_invoke
+-[FIRMessaging applicationStateChanged]
+-[FIRMessaging setShouldEstablishDirectChannel:]
+-[FIRMessaging isDirectChannelEstablished]
+-[FIRMessaging shouldBeConnectedAutomatically]
+-[FIRMessaging updateAutomaticClientConnection]
+___47-[FIRMessaging updateAutomaticClientConnection]_block_invoke
+___47-[FIRMessaging updateAutomaticClientConnection]_block_invoke.401
+-[FIRMessaging notifyOfDirectChannelConnectionChange]
++[FIRMessaging normalizeTopic:]
+-[FIRMessaging subscribeToTopic:]
+-[FIRMessaging subscribeToTopic:completion:]
+___44-[FIRMessaging subscribeToTopic:completion:]_block_invoke
+___copy_helper_block_e8_32b40s48w
+-[FIRMessaging unsubscribeFromTopic:]
+-[FIRMessaging unsubscribeFromTopic:completion:]
+___48-[FIRMessaging unsubscribeFromTopic:completion:]_block_invoke
+-[FIRMessaging sendMessage:to:withMessageID:timeToLive:]
++[FIRMessaging createFIRMessagingMessageWithMessage:to:withID:timeToLive:delay:]
++[FIRMessaging FIRMessagingSDKVersion]
++[FIRMessaging FIRMessagingSDKCurrentLocale]
+-[FIRMessaging receiver:receivedRemoteMessage:]
+-[FIRMessaging reachability:statusChanged:]
+-[FIRMessaging onNetworkStatusChanged]
+-[FIRMessaging isNetworkAvailable]
+-[FIRMessaging networkType]
+-[FIRMessaging didReceiveDefaultInstanceIDToken:]
+-[FIRMessaging defaultInstanceIDTokenWasRefreshed:]
++[FIRMessaging hasSubDirectory:]
++[FIRMessaging pathForSubDirectory:]
++[FIRMessaging createSubDirectory:]
++[FIRMessaging currentLocale]
++[FIRMessaging firebaseLocales]
++[FIRMessaging firebaselocalesMap]
+-[FIRMessaging delegate]
+-[FIRMessaging shouldEstablishDirectChannel]
+-[FIRMessaging apnsTokenData]
+-[FIRMessaging setApnsTokenData:]
+-[FIRMessaging defaultFcmToken]
+-[FIRMessaging setDefaultFcmToken:]
+-[FIRMessaging instanceID]
+-[FIRMessaging setInstanceID:]
+-[FIRMessaging client]
+-[FIRMessaging setClient:]
+-[FIRMessaging reachability]
+-[FIRMessaging setReachability:]
+-[FIRMessaging dataMessageManager]
+-[FIRMessaging setDataMessageManager:]
+-[FIRMessaging pubsub]
+-[FIRMessaging setPubsub:]
+-[FIRMessaging rmq2Manager]
+-[FIRMessaging setRmq2Manager:]
+-[FIRMessaging receiver]
+-[FIRMessaging setReceiver:]
+-[FIRMessaging syncMessageManager]
+-[FIRMessaging setSyncMessageManager:]
+-[FIRMessaging messagingUserDefaults]
+-[FIRMessaging setMessagingUserDefaults:]
+-[FIRMessaging loggedMessageIDs]
+-[FIRMessaging setLoggedMessageIDs:]
+-[FIRMessaging analytics]
+-[FIRMessaging setAnalytics:]
+-[FIRMessaging .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingMessageInfo._status
+_OBJC_IVAR_$_FIRMessagingRemoteMessage._messageID
+_OBJC_IVAR_$_FIRMessagingRemoteMessage._appData
+__OBJC_PROTOCOL_$_FIRMessagingInstanceProvider
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingInstanceProvider
+l_OBJC_PROTOCOL_REFERENCE_$_FIRMessagingInstanceProvider
+_extensionHelper.once
+_extensionHelper.extensionHelper
+__OBJC_PROTOCOL_$_FIRAnalyticsInterop
+__OBJC_LABEL_PROTOCOL_$_FIRAnalyticsInterop
+l_OBJC_PROTOCOL_REFERENCE_$_FIRAnalyticsInterop
+___block_literal_global.125
+___block_descriptor_32_e17_v16?0"NSArray"8l
+___block_literal_global.307
+___block_descriptor_56_e8_32bs40s48w_e41_v24?0"FIRInstanceIDResult"8"NSError"16l
+__OBJC_PROTOCOL_$_FIRMessagingClientDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingClientDelegate
+__OBJC_PROTOCOL_$_FIRMessagingReceiverDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingReceiverDelegate
+__OBJC_PROTOCOL_$_GULReachabilityDelegate
+__OBJC_LABEL_PROTOCOL_$_GULReachabilityDelegate
+_OBJC_IVAR_$_FIRMessaging._shouldEstablishDirectChannel
+_OBJC_IVAR_$_FIRMessaging._delegate
+_OBJC_IVAR_$_FIRMessaging._apnsTokenData
+_OBJC_IVAR_$_FIRMessaging._defaultFcmToken
+_OBJC_IVAR_$_FIRMessaging._instanceID
+_OBJC_IVAR_$_FIRMessaging._client
+_OBJC_IVAR_$_FIRMessaging._reachability
+_OBJC_IVAR_$_FIRMessaging._dataMessageManager
+_OBJC_IVAR_$_FIRMessaging._pubsub
+_OBJC_IVAR_$_FIRMessaging._rmq2Manager
+_OBJC_IVAR_$_FIRMessaging._receiver
+_OBJC_IVAR_$_FIRMessaging._syncMessageManager
+_OBJC_IVAR_$_FIRMessaging._messagingUserDefaults
+_OBJC_IVAR_$_FIRMessaging._loggedMessageIDs
+_OBJC_IVAR_$_FIRMessaging._analytics
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m
+FirebaseMessaging/Firebase/Messaging/FIRMessaging.m
+FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h
+__48-[FIRMessaging unsubscribeFromTopic:completion:]_block_invoke
+__copy_helper_block_e8_32b40s48w
+__44-[FIRMessaging subscribeToTopic:completion:]_block_invoke
+__47-[FIRMessaging updateAutomaticClientConnection]_block_invoke.401
+__47-[FIRMessaging updateAutomaticClientConnection]_block_invoke
+__52-[FIRMessaging notifyDelegateOfFCMTokenAvailability]_block_invoke
+__54-[FIRMessaging handleIncomingLinkIfNeededFromMessage:]_block_invoke.305
+__54-[FIRMessaging handleIncomingLinkIfNeededFromMessage:]_block_invoke
+FIRMessagingIsContextManagerMessage
+__36+[FIRMessaging componentsToRegister]_block_invoke
+__31+[FIRMessaging extensionHelper]_block_invoke
+FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h
+FIRMessagingIsAPNSSyncMessage
++[FIRMessagingAnalytics canLogNotification:]
++[FIRMessagingAnalytics logOpenNotification:toAnalytics:]
++[FIRMessagingAnalytics logForegroundNotification:toAnalytics:]
++[FIRMessagingAnalytics logEvent:withNotification:toAnalytics:]
++[FIRMessagingAnalytics paramsForEvent:withNotification:]
++[FIRMessagingAnalytics logUserPropertyForConversionTracking:toAnalytics:]
++[FIRMessagingAnalytics logMessage:toAnalytics:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.m
+-[FIRMessagingClient init]
+-[FIRMessagingClient initWithDelegate:reachability:rmq2Manager:]
+-[FIRMessagingClient teardown]
+-[FIRMessagingClient cancelAllRequests]
+-[FIRMessagingClient updateSubscriptionWithToken:topic:options:shouldDelete:handler:]
+___85-[FIRMessagingClient updateSubscriptionWithToken:topic:options:shouldDelete:handler:]_block_invoke
+-[FIRMessagingClient isConnected]
+-[FIRMessagingClient isConnectionActive]
+-[FIRMessagingClient shouldStayConnected]
+-[FIRMessagingClient retryConnectionImmediately:]
+___49-[FIRMessagingClient retryConnectionImmediately:]_block_invoke
+-[FIRMessagingClient connectWithHandler:]
+-[FIRMessagingClient connect]
+-[FIRMessagingClient disconnect]
+-[FIRMessagingClient disconnectWithTryToConnectLater:]
+-[FIRMessagingClient checkinFetched:]
+-[FIRMessagingClient sendMessage:]
+-[FIRMessagingClient sendOnConnectOrDrop:]
+-[FIRMessagingClient connection:didCloseForReason:]
+-[FIRMessagingClient didLoginWithConnection:]
+-[FIRMessagingClient connectionDidRecieveMessage:]
+-[FIRMessagingClient connectionDidReceiveAckForRmqIds:]
+___55-[FIRMessagingClient connectionDidReceiveAckForRmqIds:]_block_invoke
+-[FIRMessagingClient setupConnectionAndConnect]
+-[FIRMessagingClient setupConnection]
+-[FIRMessagingClient tryToConnect]
+-[FIRMessagingClient didConnectTimeout]
+-[FIRMessagingClient scheduleConnectRetry]
+-[FIRMessagingClient nextRetryInterval]
+-[FIRMessagingClient connection]
+-[FIRMessagingClient setConnection:]
+-[FIRMessagingClient dataMessageManager]
+-[FIRMessagingClient setDataMessageManager:]
+-[FIRMessagingClient clientDelegate]
+-[FIRMessagingClient setClientDelegate:]
+-[FIRMessagingClient registrar]
+-[FIRMessagingClient senderId]
+-[FIRMessagingClient setSenderId:]
+-[FIRMessagingClient rmq2Manager]
+-[FIRMessagingClient setRmq2Manager:]
+-[FIRMessagingClient reachability]
+-[FIRMessagingClient setReachability:]
+-[FIRMessagingClient lastConnectedTimestamp]
+-[FIRMessagingClient setLastConnectedTimestamp:]
+-[FIRMessagingClient lastDisconnectedTimestamp]
+-[FIRMessagingClient setLastDisconnectedTimestamp:]
+-[FIRMessagingClient connectRetryCount]
+-[FIRMessagingClient setConnectRetryCount:]
+-[FIRMessagingClient stayConnected]
+-[FIRMessagingClient setStayConnected:]
+-[FIRMessagingClient connectionTimeoutInterval]
+-[FIRMessagingClient setConnectionTimeoutInterval:]
+-[FIRMessagingClient didScheduleReconnect]
+-[FIRMessagingClient setDidScheduleReconnect:]
+-[FIRMessagingClient connectHandler]
+-[FIRMessagingClient setConnectHandler:]
+-[FIRMessagingClient .cxx_destruct]
+___FIRMessagingServerHost_block_invoke
+___FIRMessagingServerPort_block_invoke
+___block_descriptor_49_e8_32s40bs_e17_v16?0"NSError"8l
+___block_descriptor_48_e8_32s40s_e22_v16?0"NSDictionary"8l
+__OBJC_PROTOCOL_$_FIRMessagingConnectionDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingConnectionDelegate
+_OBJC_IVAR_$_FIRMessagingClient._stayConnected
+_OBJC_IVAR_$_FIRMessagingClient._didScheduleReconnect
+_OBJC_IVAR_$_FIRMessagingClient._connection
+_OBJC_IVAR_$_FIRMessagingClient._dataMessageManager
+_OBJC_IVAR_$_FIRMessagingClient._clientDelegate
+_OBJC_IVAR_$_FIRMessagingClient._registrar
+_OBJC_IVAR_$_FIRMessagingClient._senderId
+_OBJC_IVAR_$_FIRMessagingClient._rmq2Manager
+_OBJC_IVAR_$_FIRMessagingClient._reachability
+_OBJC_IVAR_$_FIRMessagingClient._lastConnectedTimestamp
+_OBJC_IVAR_$_FIRMessagingClient._lastDisconnectedTimestamp
+_OBJC_IVAR_$_FIRMessagingClient._connectRetryCount
+_OBJC_IVAR_$_FIRMessagingClient._connectionTimeoutInterval
+_OBJC_IVAR_$_FIRMessagingClient._connectHandler
+_FIRMessagingServerHost.serverHost
+_FIRMessagingServerHost.onceToken
+_FIRMessagingServerPort.serverPort
+_FIRMessagingServerPort.onceToken
+___block_literal_global.355
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.m
+__FIRMessagingServerPort_block_invoke
+FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.m
+__FIRMessagingServerHost_block_invoke
+FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h
+FIRMessagingServerPort
+FIRMessagingServerHost
+__55-[FIRMessagingClient connectionDidReceiveAckForRmqIds:]_block_invoke
+__49-[FIRMessagingClient retryConnectionImmediately:]_block_invoke
+__85-[FIRMessagingClient updateSubscriptionWithToken:topic:options:shouldDelete:handler:]_block_invoke
+-[FIRMessagingCodedInputStream initWithData:]
+-[FIRMessagingCodedInputStream offset]
+-[FIRMessagingCodedInputStream readTag:]
+_ReadRawByte
+-[FIRMessagingCodedInputStream readLength:]
+-[FIRMessagingCodedInputStream readDataWithLength:]
+-[FIRMessagingCodedInputStream buffer]
+-[FIRMessagingCodedInputStream setBuffer:]
+-[FIRMessagingCodedInputStream state]
+-[FIRMessagingCodedInputStream setState:]
+-[FIRMessagingCodedInputStream .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingCodedInputStream._buffer
+_OBJC_IVAR_$_FIRMessagingCodedInputStream._state
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingCodedInputStream.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingCodedInputStream.m
+CheckSize
+ReadRawVarInt32
+ReadRawByte
+-[FIRMessagingD2SInfo initWithStreamId:d2sId:]
+-[FIRMessagingD2SInfo isEqual:]
+-[FIRMessagingD2SInfo hash]
+-[FIRMessagingD2SInfo streamId]
+-[FIRMessagingD2SInfo setStreamId:]
+-[FIRMessagingD2SInfo d2sID]
+-[FIRMessagingD2SInfo setD2sID:]
+-[FIRMessagingD2SInfo .cxx_destruct]
+-[FIRMessagingConnection initWithAuthID:token:host:port:runLoop:rmq2Manager:fcmManager:]
+-[FIRMessagingConnection description]
+-[FIRMessagingConnection signIn]
+-[FIRMessagingConnection setupConnectionSocket]
+-[FIRMessagingConnection connectToSocket:]
+-[FIRMessagingConnection signOut]
+-[FIRMessagingConnection teardown]
+-[FIRMessagingConnection secureSocketDidConnect:]
+-[FIRMessagingConnection didDisconnectWithSecureSocket:]
+-[FIRMessagingConnection secureSocket:didReceiveData:withTag:]
+-[FIRMessagingConnection secureSocket:didSendProtoWithTag:rmqId:]
+-[FIRMessagingConnection sendProto:]
+-[FIRMessagingConnection sendOnConnectOrDrop:]
++[FIRMessagingConnection loginRequestWithToken:authID:]
++[FIRMessagingConnection currentNetworkType]
+-[FIRMessagingConnection sendLoginRequest:token:]
+-[FIRMessagingConnection sendHeartbeatAck]
+-[FIRMessagingConnection sendHeartbeatPing]
++[FIRMessagingConnection createStreamAck]
+-[FIRMessagingConnection sendStreamAck]
+-[FIRMessagingConnection sendClose]
+-[FIRMessagingConnection handleIqStanza:]
+-[FIRMessagingConnection didReceiveLoginResponse:]
+-[FIRMessagingConnection didReceiveHeartbeatPing:]
+-[FIRMessagingConnection didReceiveHeartbeatAck:]
+-[FIRMessagingConnection didReceiveDataMessageStanza:]
+-[FIRMessagingConnection didReceiveUnhandledProto:]
+-[FIRMessagingConnection didReceiveStreamAck:]
+-[FIRMessagingConnection didReceiveSelectiveAck:]
+-[FIRMessagingConnection didReceiveClose:]
+-[FIRMessagingConnection willProcessProto:]
+-[FIRMessagingConnection willSendProto:]
+-[FIRMessagingConnection confirmAckedD2sIdsWithStreamId:]
+-[FIRMessagingConnection confirmAckedS2dIdsWithStreamId:]
+___57-[FIRMessagingConnection confirmAckedS2dIdsWithStreamId:]_block_invoke
+-[FIRMessagingConnection resetUnconfirmedAcks]
+___46-[FIRMessagingConnection resetUnconfirmedAcks]_block_invoke
+-[FIRMessagingConnection disconnect]
+-[FIRMessagingConnection connectionTimedOut]
+-[FIRMessagingConnection scheduleConnectionTimeoutTask]
+-[FIRMessagingConnection cancelConnectionTimeoutTask]
+-[FIRMessagingConnection logMessage:messageType:isOut:]
+-[FIRMessagingConnection connectionTimeoutInterval]
+-[FIRMessagingConnection state]
+-[FIRMessagingConnection setState:]
+-[FIRMessagingConnection host]
+-[FIRMessagingConnection setHost:]
+-[FIRMessagingConnection port]
+-[FIRMessagingConnection setPort:]
+-[FIRMessagingConnection delegate]
+-[FIRMessagingConnection setDelegate:]
+-[FIRMessagingConnection rmq2Manager]
+-[FIRMessagingConnection setRmq2Manager:]
+-[FIRMessagingConnection dataMessageManager]
+-[FIRMessagingConnection setDataMessageManager:]
+-[FIRMessagingConnection authId]
+-[FIRMessagingConnection setAuthId:]
+-[FIRMessagingConnection token]
+-[FIRMessagingConnection setToken:]
+-[FIRMessagingConnection socket]
+-[FIRMessagingConnection setSocket:]
+-[FIRMessagingConnection lastLoginServerTimestamp]
+-[FIRMessagingConnection setLastLoginServerTimestamp:]
+-[FIRMessagingConnection lastStreamIdAcked]
+-[FIRMessagingConnection setLastStreamIdAcked:]
+-[FIRMessagingConnection inStreamId]
+-[FIRMessagingConnection setInStreamId:]
+-[FIRMessagingConnection outStreamId]
+-[FIRMessagingConnection setOutStreamId:]
+-[FIRMessagingConnection unackedS2dIds]
+-[FIRMessagingConnection setUnackedS2dIds:]
+-[FIRMessagingConnection ackedS2dMap]
+-[FIRMessagingConnection setAckedS2dMap:]
+-[FIRMessagingConnection d2sInfos]
+-[FIRMessagingConnection setD2sInfos:]
+-[FIRMessagingConnection sendOnConnectMessages]
+-[FIRMessagingConnection setSendOnConnectMessages:]
+-[FIRMessagingConnection runLoop]
+-[FIRMessagingConnection setRunLoop:]
+-[FIRMessagingConnection .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingD2SInfo._streamId
+_OBJC_IVAR_$_FIRMessagingD2SInfo._d2sID
+___block_descriptor_36_e15_B32?0816^B24l
+___block_descriptor_40_e8_32s_e15_v32?0816^B24l
+__OBJC_PROTOCOL_$_FIRMessagingSecureSocketDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingSecureSocketDelegate
+_OBJC_IVAR_$_FIRMessagingConnection._lastStreamIdAcked
+_OBJC_IVAR_$_FIRMessagingConnection._inStreamId
+_OBJC_IVAR_$_FIRMessagingConnection._outStreamId
+_OBJC_IVAR_$_FIRMessagingConnection._state
+_OBJC_IVAR_$_FIRMessagingConnection._host
+_OBJC_IVAR_$_FIRMessagingConnection._port
+_OBJC_IVAR_$_FIRMessagingConnection._delegate
+_OBJC_IVAR_$_FIRMessagingConnection._rmq2Manager
+_OBJC_IVAR_$_FIRMessagingConnection._dataMessageManager
+_OBJC_IVAR_$_FIRMessagingConnection._authId
+_OBJC_IVAR_$_FIRMessagingConnection._token
+_OBJC_IVAR_$_FIRMessagingConnection._socket
+_OBJC_IVAR_$_FIRMessagingConnection._lastLoginServerTimestamp
+_OBJC_IVAR_$_FIRMessagingConnection._unackedS2dIds
+_OBJC_IVAR_$_FIRMessagingConnection._ackedS2dMap
+_OBJC_IVAR_$_FIRMessagingConnection._d2sInfos
+_OBJC_IVAR_$_FIRMessagingConnection._sendOnConnectMessages
+_OBJC_IVAR_$_FIRMessagingConnection._runLoop
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingConnection.h
+__46-[FIRMessagingConnection resetUnconfirmedAcks]_block_invoke
+__57-[FIRMessagingConnection confirmAckedS2dIdsWithStreamId:]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.m
++[FIRMessagingContextManagerService isContextManagerMessage:]
++[FIRMessagingContextManagerService handleContextManagerMessage:]
++[FIRMessagingContextManagerService handleContextManagerLocalTimeMessage:]
++[FIRMessagingContextManagerService scheduleLocalNotificationForMessage:atDate:]
++[FIRMessagingContextManagerService parseDataFromMessage:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.m
+-[FIRMessagingDataMessageManager initWithDelegate:client:rmq2Manager:syncMessageManager:]
+-[FIRMessagingDataMessageManager setDeviceAuthID:secretToken:]
+-[FIRMessagingDataMessageManager refreshDelayedMessages]
+___56-[FIRMessagingDataMessageManager refreshDelayedMessages]_block_invoke
+-[FIRMessagingDataMessageManager processPacket:]
+-[FIRMessagingDataMessageManager handleMCSDataMessage:]
+-[FIRMessagingDataMessageManager parseDataMessage:]
+-[FIRMessagingDataMessageManager didReceiveParsedMessage:]
+-[FIRMessagingDataMessageManager filterInternalFIRMessagingKeysFromMessage:]
+-[FIRMessagingDataMessageManager sendDataMessageStanza:]
+___56-[FIRMessagingDataMessageManager sendDataMessageStanza:]_block_invoke
+-[FIRMessagingDataMessageManager sendDelayedMessages:]
+-[FIRMessagingDataMessageManager didSendDataMessageStanza:]
+-[FIRMessagingDataMessageManager addParamWithKey:value:toStanza:]
+-[FIRMessagingDataMessageManager addData:toStanza:]
+-[FIRMessagingDataMessageManager willSendDataMessageSuccess:withMessageId:]
+-[FIRMessagingDataMessageManager willSendDataMessageFail:withMessageId:error:]
+-[FIRMessagingDataMessageManager resendMessagesWithConnection:]
+___63-[FIRMessagingDataMessageManager resendMessagesWithConnection:]_block_invoke
+___copy_helper_block_e8_32s40s48w56w
+___destroy_helper_block_e8_32s40s48w56w
+-[FIRMessagingDataMessageManager handleExpirationForDataMessage:]
+-[FIRMessagingDataMessageManager delayForMessage:]
+-[FIRMessagingDataMessageManager delayMessage:]
+-[FIRMessagingDataMessageManager tryToSendDataMessageStanza:]
+-[FIRMessagingDataMessageManager categoryForUpstreamMessages]
+-[FIRMessagingDataMessageManager client]
+-[FIRMessagingDataMessageManager setClient:]
+-[FIRMessagingDataMessageManager rmq2Manager]
+-[FIRMessagingDataMessageManager setRmq2Manager:]
+-[FIRMessagingDataMessageManager syncMessageManager]
+-[FIRMessagingDataMessageManager setSyncMessageManager:]
+-[FIRMessagingDataMessageManager delegate]
+-[FIRMessagingDataMessageManager setDelegate:]
+-[FIRMessagingDataMessageManager delayedMessagesQueue]
+-[FIRMessagingDataMessageManager setDelayedMessagesQueue:]
+-[FIRMessagingDataMessageManager ttl]
+-[FIRMessagingDataMessageManager setTtl:]
+-[FIRMessagingDataMessageManager deviceAuthID]
+-[FIRMessagingDataMessageManager setDeviceAuthID:]
+-[FIRMessagingDataMessageManager secretToken]
+-[FIRMessagingDataMessageManager setSecretToken:]
+-[FIRMessagingDataMessageManager maxAppDataSize]
+-[FIRMessagingDataMessageManager setMaxAppDataSize:]
+-[FIRMessagingDataMessageManager upstreamForceReconnect]
+-[FIRMessagingDataMessageManager setUpstreamForceReconnect:]
+-[FIRMessagingDataMessageManager .cxx_destruct]
+___block_descriptor_40_e8_32w_e17_v16?0"NSArray"8l
+___block_descriptor_56_e8_32s40s48s_e8_v12?0B8l
+___block_descriptor_64_e8_32s40s48w56w_e22_v16?0"NSDictionary"8l
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._upstreamForceReconnect
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._ttl
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._maxAppDataSize
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._client
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._rmq2Manager
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._syncMessageManager
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._delegate
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._delayedMessagesQueue
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._deviceAuthID
+_OBJC_IVAR_$_FIRMessagingDataMessageManager._secretToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.m
+__destroy_helper_block_e8_32s40s48w56w
+__copy_helper_block_e8_32s40s48w56w
+__63-[FIRMessagingDataMessageManager resendMessagesWithConnection:]_block_invoke
+__56-[FIRMessagingDataMessageManager sendDataMessageStanza:]_block_invoke
+__56-[FIRMessagingDataMessageManager refreshDelayedMessages]_block_invoke
+-[FIRMessagingDelayedMessageQueue init]
+-[FIRMessagingDelayedMessageQueue initWithRmqScanner:sendDelayedMessagesHandler:]
+-[FIRMessagingDelayedMessageQueue queueMessage:]
+-[FIRMessagingDelayedMessageQueue removeDelayedMessages]
+___56-[FIRMessagingDelayedMessageQueue removeDelayedMessages]_block_invoke
+-[FIRMessagingDelayedMessageQueue sendMessages]
+-[FIRMessagingDelayedMessageQueue messageCount]
+-[FIRMessagingDelayedMessageQueue isTimeoutScheduled]
+-[FIRMessagingDelayedMessageQueue calculateTimeoutInMillisWithDelayInSeconds:]
+-[FIRMessagingDelayedMessageQueue scheduleTimeoutInMillis:]
+-[FIRMessagingDelayedMessageQueue cancelTimeout]
+-[FIRMessagingDelayedMessageQueue rmqScanner]
+-[FIRMessagingDelayedMessageQueue sendDelayedMessagesHandler]
+-[FIRMessagingDelayedMessageQueue persistedMessageCount]
+-[FIRMessagingDelayedMessageQueue setPersistedMessageCount:]
+-[FIRMessagingDelayedMessageQueue scheduledTimeoutMilliseconds]
+-[FIRMessagingDelayedMessageQueue setScheduledTimeoutMilliseconds:]
+-[FIRMessagingDelayedMessageQueue lastDBScanTimestampSeconds]
+-[FIRMessagingDelayedMessageQueue setLastDBScanTimestampSeconds:]
+-[FIRMessagingDelayedMessageQueue messages]
+-[FIRMessagingDelayedMessageQueue setMessages:]
+-[FIRMessagingDelayedMessageQueue sendTimer]
+-[FIRMessagingDelayedMessageQueue setSendTimer:]
+-[FIRMessagingDelayedMessageQueue .cxx_destruct]
+___block_descriptor_48_e8_32s40w_e22_v16?0"NSDictionary"8l
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._persistedMessageCount
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._rmqScanner
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._sendDelayedMessagesHandler
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._scheduledTimeoutMilliseconds
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._lastDBScanTimestampSeconds
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._messages
+_OBJC_IVAR_$_FIRMessagingDelayedMessageQueue._sendTimer
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingDelayedMessageQueue.m
+__56-[FIRMessagingDelayedMessageQueue removeDelayedMessages]_block_invoke
+-[FIRMessagingExtensionHelper populateNotificationContent:withContentHandler:]
+___78-[FIRMessagingExtensionHelper populateNotificationContent:withContentHandler:]_block_invoke
+-[FIRMessagingExtensionHelper loadAttachmentForURL:completionHandler:]
+___70-[FIRMessagingExtensionHelper loadAttachmentForURL:completionHandler:]_block_invoke
+___copy_helper_block_e8_32s40b48r
+___destroy_helper_block_e8_32s40s48r
+-[FIRMessagingExtensionHelper deliverNotification]
+-[FIRMessagingExtensionHelper contentHandler]
+-[FIRMessagingExtensionHelper setContentHandler:]
+-[FIRMessagingExtensionHelper bestAttemptContent]
+-[FIRMessagingExtensionHelper setBestAttemptContent:]
+-[FIRMessagingExtensionHelper .cxx_destruct]
+___block_descriptor_40_e8_32s_e34_v16?0"UNNotificationAttachment"8l
+___block_descriptor_56_e8_32s40bs48r_e45_v32?0"NSURL"8"NSURLResponse"16"NSError"24l
+_OBJC_IVAR_$_FIRMessagingExtensionHelper._contentHandler
+_OBJC_IVAR_$_FIRMessagingExtensionHelper._bestAttemptContent
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingExtensionHelper.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingExtensionHelper.m
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32s40b48r
+__70-[FIRMessagingExtensionHelper loadAttachmentForURL:completionHandler:]_block_invoke
+__78-[FIRMessagingExtensionHelper populateNotificationContent:withContentHandler:]_block_invoke
++[FIRMessagingLogger standardLogger]
++[FIRMessagingLogger formatMessageCode:]
+-[FIRMessagingLogger logFuncDebug:messageCode:msg:]
+-[FIRMessagingLogger logFuncInfo:messageCode:msg:]
+-[FIRMessagingLogger logFuncNotice:messageCode:msg:]
+-[FIRMessagingLogger logFuncWarning:messageCode:msg:]
+-[FIRMessagingLogger logFuncError:messageCode:msg:]
+___FIRMessagingSharedLogger_block_invoke
+_FIRMessagingSharedLogger.onceToken
+_FIRMessagingSharedLogger.logger
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.m
+__FIRMessagingSharedLogger_block_invoke
+FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.m
+FIRMessagingSharedLogger
++[FIRMessagingPacket packetWithTag:rmqId:data:]
+-[FIRMessagingPacket init]
+-[FIRMessagingPacket initWithTag:rmqId:data:]
+-[FIRMessagingPacket description]
+-[FIRMessagingPacket data]
+-[FIRMessagingPacket setData:]
+-[FIRMessagingPacket tag]
+-[FIRMessagingPacket setTag:]
+-[FIRMessagingPacket rmqId]
+-[FIRMessagingPacket setRmqId:]
+-[FIRMessagingPacket .cxx_destruct]
+-[FIRMessagingPacketQueue init]
+-[FIRMessagingPacketQueue isEmpty]
+-[FIRMessagingPacketQueue count]
+-[FIRMessagingPacketQueue push:]
+-[FIRMessagingPacketQueue pushHead:]
+-[FIRMessagingPacketQueue pop]
+-[FIRMessagingPacketQueue packetsContainer]
+-[FIRMessagingPacketQueue setPacketsContainer:]
+-[FIRMessagingPacketQueue .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingPacket._tag
+_OBJC_IVAR_$_FIRMessagingPacket._data
+_OBJC_IVAR_$_FIRMessagingPacket._rmqId
+_OBJC_IVAR_$_FIRMessagingPacketQueue._packetsContainer
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPacketQueue.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPacketQueue.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPacketQueue.h
+-[FIRMessagingTopicBatch initWithAction:]
+-[FIRMessagingTopicBatch encodeWithCoder:]
+-[FIRMessagingTopicBatch initWithCoder:]
+-[FIRMessagingTopicBatch action]
+-[FIRMessagingTopicBatch topics]
+-[FIRMessagingTopicBatch topicHandlers]
+-[FIRMessagingTopicBatch setTopicHandlers:]
+-[FIRMessagingTopicBatch .cxx_destruct]
+-[FIRMessagingPendingTopicsList init]
++[FIRMessagingPendingTopicsList pruneTopicBatches:]
+-[FIRMessagingPendingTopicsList encodeWithCoder:]
+-[FIRMessagingPendingTopicsList initWithCoder:]
+-[FIRMessagingPendingTopicsList numberOfBatches]
+-[FIRMessagingPendingTopicsList addOperationForTopic:withAction:completion:]
+___76-[FIRMessagingPendingTopicsList addOperationForTopic:withAction:completion:]_block_invoke
+-[FIRMessagingPendingTopicsList resumeOperationsIfNeeded]
+-[FIRMessagingPendingTopicsList subscriptionErrorIsRecoverable:]
+-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]
+___65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke
+___65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke_2
+___65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke_3
+___65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke.125
+___copy_helper_block_e8_32s40s48w
+-[FIRMessagingPendingTopicsList delegate]
+-[FIRMessagingPendingTopicsList setDelegate:]
+-[FIRMessagingPendingTopicsList archiveDate]
+-[FIRMessagingPendingTopicsList setArchiveDate:]
+-[FIRMessagingPendingTopicsList topicBatches]
+-[FIRMessagingPendingTopicsList setTopicBatches:]
+-[FIRMessagingPendingTopicsList currentBatch]
+-[FIRMessagingPendingTopicsList setCurrentBatch:]
+-[FIRMessagingPendingTopicsList topicsInFlight]
+-[FIRMessagingPendingTopicsList setTopicsInFlight:]
+-[FIRMessagingPendingTopicsList .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingTopicBatch._action
+_OBJC_IVAR_$_FIRMessagingTopicBatch._topics
+_OBJC_IVAR_$_FIRMessagingTopicBatch._topicHandlers
+___block_descriptor_56_e8_32s40s48w_e5_v8?0l
+___block_descriptor_48_e8_32s40w_e17_v16?0"NSError"8l
+_OBJC_IVAR_$_FIRMessagingPendingTopicsList._delegate
+_OBJC_IVAR_$_FIRMessagingPendingTopicsList._archiveDate
+_OBJC_IVAR_$_FIRMessagingPendingTopicsList._topicBatches
+_OBJC_IVAR_$_FIRMessagingPendingTopicsList._currentBatch
+_OBJC_IVAR_$_FIRMessagingPendingTopicsList._topicsInFlight
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPendingTopicsList.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPendingTopicsList.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPendingTopicsList.h
+__copy_helper_block_e8_32s40s48w
+__65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke.125
+__65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke_3
+__65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke_2
+__65-[FIRMessagingPendingTopicsList beginUpdateForCurrentBatchTopic:]_block_invoke
+__76-[FIRMessagingPendingTopicsList addOperationForTopic:withAction:completion:]_block_invoke
+-[FIRMessagingPersistentSyncMessage init]
+-[FIRMessagingPersistentSyncMessage initWithRMQID:expirationTime:]
+-[FIRMessagingPersistentSyncMessage description]
+-[FIRMessagingPersistentSyncMessage debugDescription]
+-[FIRMessagingPersistentSyncMessage rmqID]
+-[FIRMessagingPersistentSyncMessage setRmqID:]
+-[FIRMessagingPersistentSyncMessage apnsReceived]
+-[FIRMessagingPersistentSyncMessage setApnsReceived:]
+-[FIRMessagingPersistentSyncMessage mcsReceived]
+-[FIRMessagingPersistentSyncMessage setMcsReceived:]
+-[FIRMessagingPersistentSyncMessage expirationTime]
+-[FIRMessagingPersistentSyncMessage setExpirationTime:]
+-[FIRMessagingPersistentSyncMessage .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingPersistentSyncMessage._apnsReceived
+_OBJC_IVAR_$_FIRMessagingPersistentSyncMessage._mcsReceived
+_OBJC_IVAR_$_FIRMessagingPersistentSyncMessage._rmqID
+_OBJC_IVAR_$_FIRMessagingPersistentSyncMessage._expirationTime
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPersistentSyncMessage.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPersistentSyncMessage.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPersistentSyncMessage.h
+-[FIRMessagingPubSub init]
+-[FIRMessagingPubSub initWithClient:]
+-[FIRMessagingPubSub subscribeWithToken:topic:options:handler:]
+___63-[FIRMessagingPubSub subscribeWithToken:topic:options:handler:]_block_invoke
+-[FIRMessagingPubSub unsubscribeWithToken:topic:options:handler:]
+___65-[FIRMessagingPubSub unsubscribeWithToken:topic:options:handler:]_block_invoke
+-[FIRMessagingPubSub subscribeToTopic:handler:]
+-[FIRMessagingPubSub unsubscribeFromTopic:handler:]
+-[FIRMessagingPubSub scheduleSync:]
+-[FIRMessagingPubSub pendingTopicsList:requestedUpdateForTopic:action:completion:]
+-[FIRMessagingPubSub pendingTopicsListDidUpdate:]
+-[FIRMessagingPubSub pendingTopicsListCanRequestTopicUpdates:]
+-[FIRMessagingPubSub archivePendingTopicsList:]
+-[FIRMessagingPubSub restorePendingTopicsList]
+-[FIRMessagingPubSub verifyPubSubOptions:]
++[FIRMessagingPubSub addPrefixToTopic:]
++[FIRMessagingPubSub removePrefixFromTopic:]
++[FIRMessagingPubSub hasTopicsPrefix:]
++[FIRMessagingPubSub topicRegex]
+___32+[FIRMessagingPubSub topicRegex]_block_invoke
++[FIRMessagingPubSub isValidTopicWithPrefix:]
+-[FIRMessagingPubSub cache]
+-[FIRMessagingPubSub client]
+-[FIRMessagingPubSub setClient:]
+-[FIRMessagingPubSub pendingTopicUpdates]
+-[FIRMessagingPubSub setPendingTopicUpdates:]
+-[FIRMessagingPubSub .cxx_destruct]
+_topicRegex.topicRegex
+_topicRegex.onceToken
+__OBJC_PROTOCOL_$_FIRMessagingPendingTopicsListDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingPendingTopicsListDelegate
+_OBJC_IVAR_$_FIRMessagingPubSub._cache
+_OBJC_IVAR_$_FIRMessagingPubSub._client
+_OBJC_IVAR_$_FIRMessagingPubSub._pendingTopicUpdates
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h
+NSEqualRanges
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+NSMakeRange
+__32+[FIRMessagingPubSub topicRegex]_block_invoke
+__65-[FIRMessagingPubSub unsubscribeWithToken:topic:options:handler:]_block_invoke
+__63-[FIRMessagingPubSub subscribeWithToken:topic:options:handler:]_block_invoke
+-[FIRMessagingPubSubRegistrar init]
+-[FIRMessagingPubSubRegistrar stopAllSubscriptionRequests]
+-[FIRMessagingPubSubRegistrar updateSubscriptionToTopic:withToken:options:shouldDelete:handler:]
+-[FIRMessagingPubSubRegistrar topicOperations]
+-[FIRMessagingPubSubRegistrar operationInProgressError]
+-[FIRMessagingPubSubRegistrar setOperationInProgressError:]
+-[FIRMessagingPubSubRegistrar .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingPubSubRegistrar._topicOperations
+_OBJC_IVAR_$_FIRMessagingPubSubRegistrar._operationInProgressError
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSubRegistrar.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSubRegistrar.m
+-[FIRMessagingReceiver didReceiveMessage:withIdentifier:]
+-[FIRMessagingReceiver willSendDataMessageWithID:error:]
+-[FIRMessagingReceiver didSendDataMessageWithID:]
+-[FIRMessagingReceiver didDeleteMessagesOnServer]
+-[FIRMessagingReceiver handleDirectChannelMessage:withIdentifier:]
++[FIRMessagingReceiver nextMessageID]
+-[FIRMessagingReceiver delegate]
+-[FIRMessagingReceiver setDelegate:]
+-[FIRMessagingReceiver .cxx_destruct]
+_downstreamMessageID
+__OBJC_PROTOCOL_$_FIRMessagingDataMessageManagerDelegate
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingDataMessageManagerDelegate
+_OBJC_IVAR_$_FIRMessagingReceiver._delegate
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h
++[FIRMessagingRemoteNotificationsProxy canSwizzleMethods]
++[FIRMessagingRemoteNotificationsProxy sharedProxy]
+___51+[FIRMessagingRemoteNotificationsProxy sharedProxy]_block_invoke
+-[FIRMessagingRemoteNotificationsProxy init]
+-[FIRMessagingRemoteNotificationsProxy dealloc]
+-[FIRMessagingRemoteNotificationsProxy swizzleMethodsIfPossible]
+-[FIRMessagingRemoteNotificationsProxy unswizzleAllMethods]
+-[FIRMessagingRemoteNotificationsProxy listenForDelegateChangesInUserNotificationCenter:]
+-[FIRMessagingRemoteNotificationsProxy swizzleUserNotificationCenterDelegate:]
+_FCMSwizzleWillPresentNotificationWithHandler
+_FCMSwizzleDidReceiveNotificationResponseWithHandler
+-[FIRMessagingRemoteNotificationsProxy unswizzleUserNotificationCenterDelegate:]
+-[FIRMessagingRemoteNotificationsProxy addDelegateObserverToUserNotificationCenter:]
+-[FIRMessagingRemoteNotificationsProxy removeUserNotificationCenterDelegateObserver]
+-[FIRMessagingRemoteNotificationsProxy observeValueForKeyPath:ofObject:change:context:]
+-[FIRMessagingRemoteNotificationsProxy saveOriginalImplementation:forSelector:]
+-[FIRMessagingRemoteNotificationsProxy originalImplementationForSelector:]
+-[FIRMessagingRemoteNotificationsProxy trackSwizzledSelector:ofClass:]
+-[FIRMessagingRemoteNotificationsProxy removeImplementationForSelector:]
+-[FIRMessagingRemoteNotificationsProxy swizzleSelector:inClass:withImplementation:inProtocol:]
+-[FIRMessagingRemoteNotificationsProxy unswizzleSelector:inClass:]
+-[FIRMessagingRemoteNotificationsProxy nonExistantMethodImplementationForClass:]
+-[FIRMessagingRemoteNotificationsProxy application:didReceiveRemoteNotification:]
+-[FIRMessagingRemoteNotificationsProxy application:didReceiveRemoteNotification:fetchCompletionHandler:]
+-[FIRMessagingRemoteNotificationsProxy application:didFailToRegisterForRemoteNotificationsWithError:]
+-[FIRMessagingRemoteNotificationsProxy application:didRegisterForRemoteNotificationsWithDeviceToken:]
+-[FIRMessagingRemoteNotificationsProxy originalAppDelegateImps]
+-[FIRMessagingRemoteNotificationsProxy setOriginalAppDelegateImps:]
+-[FIRMessagingRemoteNotificationsProxy swizzledSelectorsByClass]
+-[FIRMessagingRemoteNotificationsProxy setSwizzledSelectorsByClass:]
+-[FIRMessagingRemoteNotificationsProxy didSwizzleMethods]
+-[FIRMessagingRemoteNotificationsProxy setDidSwizzleMethods:]
+-[FIRMessagingRemoteNotificationsProxy hasSwizzledUserNotificationDelegate]
+-[FIRMessagingRemoteNotificationsProxy setHasSwizzledUserNotificationDelegate:]
+-[FIRMessagingRemoteNotificationsProxy isObservingUserNotificationDelegateChanges]
+-[FIRMessagingRemoteNotificationsProxy setIsObservingUserNotificationDelegateChanges:]
+-[FIRMessagingRemoteNotificationsProxy userNotificationCenter]
+-[FIRMessagingRemoteNotificationsProxy setUserNotificationCenter:]
+-[FIRMessagingRemoteNotificationsProxy currentUserNotificationCenterDelegate]
+-[FIRMessagingRemoteNotificationsProxy setCurrentUserNotificationCenterDelegate:]
+-[FIRMessagingRemoteNotificationsProxy appDelegateInterceptorID]
+-[FIRMessagingRemoteNotificationsProxy setAppDelegateInterceptorID:]
+-[FIRMessagingRemoteNotificationsProxy .cxx_destruct]
+___FCMSwizzleWillPresentNotificationWithHandler_block_invoke
+_FIRMessagingUserInfoFromNotification
+___FCMSwizzleDidReceiveNotificationResponseWithHandler_block_invoke
+_sharedProxy.proxy
+_sharedProxy.onceToken
+_UserNotificationObserverContext
+__OBJC_PROTOCOL_$_UIApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._didSwizzleMethods
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._hasSwizzledUserNotificationDelegate
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._isObservingUserNotificationDelegateChanges
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._originalAppDelegateImps
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._swizzledSelectorsByClass
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._userNotificationCenter
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._currentUserNotificationCenterDelegate
+_OBJC_IVAR_$_FIRMessagingRemoteNotificationsProxy._appDelegateInterceptorID
+___block_descriptor_80_e8_32s40s48s56bs_e5_v8?0l
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.m
+__FCMSwizzleDidReceiveNotificationResponseWithHandler_block_invoke
+FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.m
+FIRMessagingUserInfoFromNotification
+__FCMSwizzleWillPresentNotificationWithHandler_block_invoke
+FCMSwizzleDidReceiveNotificationResponseWithHandler
+FCMSwizzleWillPresentNotificationWithHandler
+FIRMessagingPropertyNameFromObject
+__51+[FIRMessagingRemoteNotificationsProxy sharedProxy]_block_invoke
+-[FIRMessagingRmqManager initWithDatabaseName:]
+-[FIRMessagingRmqManager dealloc]
+-[FIRMessagingRmqManager loadRmqId]
+-[FIRMessagingRmqManager loadInitialOutgoingPersistentId]
+___57-[FIRMessagingRmqManager loadInitialOutgoingPersistentId]_block_invoke
+___57-[FIRMessagingRmqManager loadInitialOutgoingPersistentId]_block_invoke.68
+-[FIRMessagingRmqManager saveRmqMessage:withCompletionHandler:]
+___63-[FIRMessagingRmqManager saveRmqMessage:withCompletionHandler:]_block_invoke
+___63-[FIRMessagingRmqManager saveRmqMessage:withCompletionHandler:]_block_invoke_2
+-[FIRMessagingRmqManager saveLastOutgoingRmqId:]
+___48-[FIRMessagingRmqManager saveLastOutgoingRmqId:]_block_invoke
+-[FIRMessagingRmqManager saveS2dMessageWithRmqId:]
+___50-[FIRMessagingRmqManager saveS2dMessageWithRmqId:]_block_invoke
+-[FIRMessagingRmqManager queryHighestRmqId]
+-[FIRMessagingRmqManager queryLastRmqId]
+-[FIRMessagingRmqManager unackedS2dRmqIds]
+___42-[FIRMessagingRmqManager unackedS2dRmqIds]_block_invoke
+-[FIRMessagingRmqManager removeRmqMessagesWithRmqIds:]
+-[FIRMessagingRmqManager removeS2dIds:]
+-[FIRMessagingRmqManager querySyncMessageWithRmqID:]
+___52-[FIRMessagingRmqManager querySyncMessageWithRmqID:]_block_invoke
+___copy_helper_block_e8_32s40s48r
+-[FIRMessagingRmqManager deleteSyncMessageWithRmqID:]
+-[FIRMessagingRmqManager deleteExpiredOrFinishedSyncMessages]
+___61-[FIRMessagingRmqManager deleteExpiredOrFinishedSyncMessages]_block_invoke
+-[FIRMessagingRmqManager saveSyncMessageWithRmqID:expirationTime:apnsReceived:mcsReceived:]
+___91-[FIRMessagingRmqManager saveSyncMessageWithRmqID:expirationTime:apnsReceived:mcsReceived:]_block_invoke
+-[FIRMessagingRmqManager updateSyncMessageViaAPNSWithRmqID:]
+___60-[FIRMessagingRmqManager updateSyncMessageViaAPNSWithRmqID:]_block_invoke
+-[FIRMessagingRmqManager updateSyncMessageViaMCSWithRmqID:]
+___59-[FIRMessagingRmqManager updateSyncMessageViaMCSWithRmqID:]_block_invoke
+-[FIRMessagingRmqManager updateSyncMessageWithRmqID:column:value:]
+-[FIRMessagingRmqManager pathForDatabase]
++[FIRMessagingRmqManager pathForDatabaseWithName:]
+-[FIRMessagingRmqManager createTableWithName:command:]
+-[FIRMessagingRmqManager dropTableWithName:]
+-[FIRMessagingRmqManager removeDatabase]
+___40-[FIRMessagingRmqManager removeDatabase]_block_invoke
+-[FIRMessagingRmqManager openDatabase]
+___38-[FIRMessagingRmqManager openDatabase]_block_invoke
+-[FIRMessagingRmqManager updateDBWithStringRmqID]
+___49-[FIRMessagingRmqManager updateDBWithStringRmqID]_block_invoke
+-[FIRMessagingRmqManager scanWithRmqMessageHandler:]
+___52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke
+___52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke_2
+___52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke.204
+-[FIRMessagingRmqManager saveMessageWithRmqId:tag:data:]
+-[FIRMessagingRmqManager deleteMessagesFromTable:withRmqIds:]
+___61-[FIRMessagingRmqManager deleteMessagesFromTable:withRmqIds:]_block_invoke
+-[FIRMessagingRmqManager nextRmqId]
+-[FIRMessagingRmqManager lastErrorMessage]
+-[FIRMessagingRmqManager lastErrorCode]
+-[FIRMessagingRmqManager logError]
+-[FIRMessagingRmqManager logErrorAndFinalizeStatement:]
+-[FIRMessagingRmqManager databaseOperationQueue]
+-[FIRMessagingRmqManager databaseName]
+-[FIRMessagingRmqManager setDatabaseName:]
+-[FIRMessagingRmqManager outstandingMessages]
+-[FIRMessagingRmqManager setOutstandingMessages:]
+-[FIRMessagingRmqManager rmqId]
+-[FIRMessagingRmqManager setRmqId:]
+-[FIRMessagingRmqManager .cxx_destruct]
+___block_descriptor_41_e8_32bs_e5_v8?0l
+___block_descriptor_65_e8_32s40s48s56bs_e5_v8?0l
+___block_descriptor_48_e8_32s_e5_v8?0l
+___block_descriptor_56_e8_32s40s48r_e5_v8?0l
+___block_descriptor_58_e8_32s40s_e5_v8?0l
+___block_descriptor_56_e8_32s40s48s_e5_v8?0l
+__OBJC_PROTOCOL_$_FIRMessagingRmqScanner
+__OBJC_LABEL_PROTOCOL_$_FIRMessagingRmqScanner
+_OBJC_IVAR_$_FIRMessagingRmqManager._database
+_OBJC_IVAR_$_FIRMessagingRmqManager._databaseOperationQueue
+_OBJC_IVAR_$_FIRMessagingRmqManager._databaseName
+_OBJC_IVAR_$_FIRMessagingRmqManager._outstandingMessages
+_OBJC_IVAR_$_FIRMessagingRmqManager._rmqId
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.m
+__61-[FIRMessagingRmqManager deleteMessagesFromTable:withRmqIds:]_block_invoke
+__52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke.204
+__52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke_2
+__52-[FIRMessagingRmqManager scanWithRmqMessageHandler:]_block_invoke
+__49-[FIRMessagingRmqManager updateDBWithStringRmqID]_block_invoke
+__38-[FIRMessagingRmqManager openDatabase]_block_invoke
+FIRMessagingStringFromSQLiteResult
+__40-[FIRMessagingRmqManager removeDatabase]_block_invoke
+__59-[FIRMessagingRmqManager updateSyncMessageViaMCSWithRmqID:]_block_invoke
+__60-[FIRMessagingRmqManager updateSyncMessageViaAPNSWithRmqID:]_block_invoke
+__91-[FIRMessagingRmqManager saveSyncMessageWithRmqID:expirationTime:apnsReceived:mcsReceived:]_block_invoke
+__61-[FIRMessagingRmqManager deleteExpiredOrFinishedSyncMessages]_block_invoke
+__copy_helper_block_e8_32s40s48r
+__52-[FIRMessagingRmqManager querySyncMessageWithRmqID:]_block_invoke
+__42-[FIRMessagingRmqManager unackedS2dRmqIds]_block_invoke
+__50-[FIRMessagingRmqManager saveS2dMessageWithRmqId:]_block_invoke
+__48-[FIRMessagingRmqManager saveLastOutgoingRmqId:]_block_invoke
+__63-[FIRMessagingRmqManager saveRmqMessage:withCompletionHandler:]_block_invoke_2
+__63-[FIRMessagingRmqManager saveRmqMessage:withCompletionHandler:]_block_invoke
+__57-[FIRMessagingRmqManager loadInitialOutgoingPersistentId]_block_invoke.68
+__57-[FIRMessagingRmqManager loadInitialOutgoingPersistentId]_block_invoke
+-[FIRMessagingSecureSocket init]
+-[FIRMessagingSecureSocket dealloc]
+-[FIRMessagingSecureSocket connectToHost:port:onRunLoop:]
+-[FIRMessagingSecureSocket disconnect]
+-[FIRMessagingSecureSocket sendData:withTag:rmqId:]
+-[FIRMessagingSecureSocket stream:handleEvent:]
+-[FIRMessagingSecureSocket openStream:isVOIPStream:]
+-[FIRMessagingSecureSocket closeStream:]
+-[FIRMessagingSecureSocket performRead]
+-[FIRMessagingSecureSocket processCurrentInputBuffer:outOffset:]
+-[FIRMessagingSecureSocket performWrite]
+-[FIRMessagingSecureSocket delegate]
+-[FIRMessagingSecureSocket setDelegate:]
+-[FIRMessagingSecureSocket state]
+-[FIRMessagingSecureSocket setState:]
+-[FIRMessagingSecureSocket inStream]
+-[FIRMessagingSecureSocket setInStream:]
+-[FIRMessagingSecureSocket outStream]
+-[FIRMessagingSecureSocket setOutStream:]
+-[FIRMessagingSecureSocket inputBuffer]
+-[FIRMessagingSecureSocket setInputBuffer:]
+-[FIRMessagingSecureSocket inputBufferLength]
+-[FIRMessagingSecureSocket setInputBufferLength:]
+-[FIRMessagingSecureSocket outputBuffer]
+-[FIRMessagingSecureSocket setOutputBuffer:]
+-[FIRMessagingSecureSocket outputBufferLength]
+-[FIRMessagingSecureSocket setOutputBufferLength:]
+-[FIRMessagingSecureSocket packetQueue]
+-[FIRMessagingSecureSocket setPacketQueue:]
+-[FIRMessagingSecureSocket isVersionSent]
+-[FIRMessagingSecureSocket setIsVersionSent:]
+-[FIRMessagingSecureSocket isVersionReceived]
+-[FIRMessagingSecureSocket setIsVersionReceived:]
+-[FIRMessagingSecureSocket isInStreamOpen]
+-[FIRMessagingSecureSocket setIsInStreamOpen:]
+-[FIRMessagingSecureSocket isOutStreamOpen]
+-[FIRMessagingSecureSocket setIsOutStreamOpen:]
+-[FIRMessagingSecureSocket runLoop]
+-[FIRMessagingSecureSocket setRunLoop:]
+-[FIRMessagingSecureSocket currentRmqIdBeingSent]
+-[FIRMessagingSecureSocket setCurrentRmqIdBeingSent:]
+-[FIRMessagingSecureSocket currentProtoTypeBeingSent]
+-[FIRMessagingSecureSocket setCurrentProtoTypeBeingSent:]
+-[FIRMessagingSecureSocket .cxx_destruct]
+__OBJC_PROTOCOL_$_NSStreamDelegate
+__OBJC_LABEL_PROTOCOL_$_NSStreamDelegate
+_OBJC_IVAR_$_FIRMessagingSecureSocket._isVersionSent
+_OBJC_IVAR_$_FIRMessagingSecureSocket._isVersionReceived
+_OBJC_IVAR_$_FIRMessagingSecureSocket._isInStreamOpen
+_OBJC_IVAR_$_FIRMessagingSecureSocket._isOutStreamOpen
+_OBJC_IVAR_$_FIRMessagingSecureSocket._currentProtoTypeBeingSent
+_OBJC_IVAR_$_FIRMessagingSecureSocket._delegate
+_OBJC_IVAR_$_FIRMessagingSecureSocket._state
+_OBJC_IVAR_$_FIRMessagingSecureSocket._inStream
+_OBJC_IVAR_$_FIRMessagingSecureSocket._outStream
+_OBJC_IVAR_$_FIRMessagingSecureSocket._inputBuffer
+_OBJC_IVAR_$_FIRMessagingSecureSocket._inputBufferLength
+_OBJC_IVAR_$_FIRMessagingSecureSocket._outputBuffer
+_OBJC_IVAR_$_FIRMessagingSecureSocket._outputBufferLength
+_OBJC_IVAR_$_FIRMessagingSecureSocket._packetQueue
+_OBJC_IVAR_$_FIRMessagingSecureSocket._runLoop
+_OBJC_IVAR_$_FIRMessagingSecureSocket._currentRmqIdBeingSent
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSecureSocket.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingSecureSocket.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingSecureSocket.h
+SerializedSize
+LogicalRightShift32
+-[FIRMessagingSyncMessageManager init]
+-[FIRMessagingSyncMessageManager initWithRmqManager:]
+-[FIRMessagingSyncMessageManager removeExpiredSyncMessages]
+-[FIRMessagingSyncMessageManager didReceiveAPNSSyncMessage:]
+-[FIRMessagingSyncMessageManager didReceiveMCSSyncMessage:]
+-[FIRMessagingSyncMessageManager didReceiveSyncMessage:viaAPNS:viaMCS:]
++[FIRMessagingSyncMessageManager expirationTimeForSyncMessage:]
+-[FIRMessagingSyncMessageManager rmqManager]
+-[FIRMessagingSyncMessageManager setRmqManager:]
+-[FIRMessagingSyncMessageManager .cxx_destruct]
+_OBJC_IVAR_$_FIRMessagingSyncMessageManager._rmqManager
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.m
+___FIRMessagingSubscriptionsServer_block_invoke
++[FIRMessagingTopicOperation sharedSession]
+___43+[FIRMessagingTopicOperation sharedSession]_block_invoke
+-[FIRMessagingTopicOperation initWithTopic:action:token:options:completion:]
+-[FIRMessagingTopicOperation dealloc]
+-[FIRMessagingTopicOperation isAsynchronous]
+-[FIRMessagingTopicOperation isExecuting]
+-[FIRMessagingTopicOperation setExecuting:]
+-[FIRMessagingTopicOperation isFinished]
+-[FIRMessagingTopicOperation setFinished:]
+-[FIRMessagingTopicOperation start]
+-[FIRMessagingTopicOperation finishWithError:]
+-[FIRMessagingTopicOperation cancel]
+-[FIRMessagingTopicOperation performSubscriptionChange]
+___55-[FIRMessagingTopicOperation performSubscriptionChange]_block_invoke
+-[FIRMessagingTopicOperation topic]
+-[FIRMessagingTopicOperation setTopic:]
+-[FIRMessagingTopicOperation action]
+-[FIRMessagingTopicOperation setAction:]
+-[FIRMessagingTopicOperation token]
+-[FIRMessagingTopicOperation setToken:]
+-[FIRMessagingTopicOperation options]
+-[FIRMessagingTopicOperation setOptions:]
+-[FIRMessagingTopicOperation completion]
+-[FIRMessagingTopicOperation setCompletion:]
+-[FIRMessagingTopicOperation dataTask]
+-[FIRMessagingTopicOperation setDataTask:]
+-[FIRMessagingTopicOperation .cxx_destruct]
+_FIRMessagingSubscriptionsServer.serverHost
+_FIRMessagingSubscriptionsServer.onceToken
+_sharedSession.subscriptionOperationSharedSession
+_sharedSession.onceToken
+___block_literal_global.10
+_OBJC_IVAR_$_FIRMessagingTopicOperation._topic
+_OBJC_IVAR_$_FIRMessagingTopicOperation._action
+_OBJC_IVAR_$_FIRMessagingTopicOperation._token
+_OBJC_IVAR_$_FIRMessagingTopicOperation._options
+_OBJC_IVAR_$_FIRMessagingTopicOperation._completion
+_OBJC_IVAR_$_FIRMessagingTopicOperation._isExecuting
+_OBJC_IVAR_$_FIRMessagingTopicOperation._isFinished
+_OBJC_IVAR_$_FIRMessagingTopicOperation._dataTask
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.m
+FirebaseMessaging/Firebase/Messaging/FIRMessagingTopicOperation.h
+__55-[FIRMessagingTopicOperation performSubscriptionChange]_block_invoke
+__43+[FIRMessagingTopicOperation sharedSession]_block_invoke
+__FIRMessagingSubscriptionsServer_block_invoke
+FIRMessagingSubscriptionsServer
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.m
+FIRMessagingSupportedDirectory
+FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.m
+FIRMessagingGetFreeDiskSpaceInMB
+FIRMessagingAppIdentifier
+FIRMessagingBundleIDByRemovingLastPartFrom
+FIRMessagingCurrentAppVersion
+FIRMessagingCurrentTimestampInMilliseconds
+FIRMessagingCurrentTimestampInSeconds
+FIRMessagingSetLastStreamId
+FIRMessagingGetLastStreamId
+FIRMessagingSetRmq2Id
+FIRMessagingGetRmq2Id
+FIRMessagingGetClassForTag
+FIRMessagingGetTagForProto
+___FIRMessagingParseCurrentLibraryVersion_block_invoke
+_FIRMessagingParseCurrentLibraryVersion.allVersions
+_FIRMessagingParseCurrentLibraryVersion.onceToken
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.m
+FIRMessagingCurrentLibraryVersionIsBeta
+FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.m
+FIRMessagingParseCurrentLibraryVersion
+FIRMessagingCurrentLibraryVersionPatch
+FIRMessagingCurrentLibraryVersionMinor
+FIRMessagingCurrentLibraryVersionMajor
+FIRMessagingCurrentLibraryVersion
+__FIRMessagingParseCurrentLibraryVersion_block_invoke
++[GtalkHeartbeatPing descriptor]
+_GtalkGtalkCoreRoot_FileDescriptor
++[GtalkHeartbeatAck descriptor]
++[GtalkErrorInfo descriptor]
++[GtalkSetting descriptor]
++[GtalkHeartbeatStat descriptor]
++[GtalkHeartbeatConfig descriptor]
++[GtalkLoginRequest descriptor]
++[GtalkLoginResponse descriptor]
++[GtalkBindAccountRequest descriptor]
++[GtalkBindAccountResponse descriptor]
++[GtalkStreamErrorStanza descriptor]
++[GtalkClose descriptor]
++[GtalkExtension descriptor]
++[GtalkMessageStanza descriptor]
++[GtalkPresenceStanza descriptor]
++[GtalkBatchPresenceStanza descriptor]
++[GtalkIqStanza descriptor]
++[GtalkAppData descriptor]
++[GtalkDataMessageStanza descriptor]
++[GtalkTalkMetadata descriptor]
++[GtalkCellTower descriptor]
++[GtalkClientEvent descriptor]
+_descriptor.descriptor
+_descriptor.fields
+_descriptor.descriptor.25
+_descriptor.fields.26
+_descriptor.descriptor.29
+_descriptor.fields.30
+_descriptor.descriptor.48
+_descriptor.fields.49
+_descriptor.descriptor.58
+_descriptor.fields.59
+_descriptor.descriptor.68
+_descriptor.fields.69
+_descriptor.descriptor.75
+_descriptor.fields.76
+_GtalkLoginRequest_AuthService_EnumDescriptor.descriptor
+_GtalkLoginRequest_AuthService_EnumDescriptor.values
+_descriptor.descriptor.154
+_descriptor.fields.155
+_descriptor.descriptor.174
+_descriptor.fields.175
+_descriptor.descriptor.181
+_descriptor.fields.182
+_descriptor.descriptor.185
+_descriptor.fields.186
+_descriptor.descriptor.192
+_descriptor.descriptor.195
+_descriptor.fields.196
+_descriptor.descriptor.202
+_descriptor.fields.203
+_GtalkMessageStanza_MessageType_EnumDescriptor.descriptor
+_GtalkMessageStanza_MessageType_EnumDescriptor.values
+_descriptor.descriptor.242
+_descriptor.fields.243
+_GtalkPresenceStanza_PresenceType_EnumDescriptor.descriptor
+_GtalkPresenceStanza_PresenceType_EnumDescriptor.values
+_GtalkPresenceStanza_ShowType_EnumDescriptor.descriptor
+_GtalkPresenceStanza_ShowType_EnumDescriptor.values
+_GtalkPresenceStanza_ClientType_EnumDescriptor.descriptor
+_GtalkPresenceStanza_ClientType_EnumDescriptor.values
+_GtalkPresenceStanza_CapabilitiesFlags_EnumDescriptor.descriptor
+_GtalkPresenceStanza_CapabilitiesFlags_EnumDescriptor.values
+_descriptor.descriptor.274
+_descriptor.fields.275
+_GtalkBatchPresenceStanza_Type_EnumDescriptor.descriptor
+_GtalkBatchPresenceStanza_Type_EnumDescriptor.values
+_descriptor.descriptor.285
+_descriptor.fields.286
+_GtalkIqStanza_IqType_EnumDescriptor.descriptor
+_GtalkIqStanza_IqType_EnumDescriptor.values
+_descriptor.descriptor.292
+_descriptor.fields.293
+_descriptor.descriptor.299
+_descriptor.fields.300
+_descriptor.descriptor.362
+_descriptor.fields.363
+_descriptor.descriptor.369
+_descriptor.fields.370
+_descriptor.descriptor.376
+_descriptor.fields.377
+_GtalkClientEvent_Type_EnumDescriptor.descriptor
+_GtalkClientEvent_Type_EnumDescriptor.values
+_GtalkClientEvent_McsReconnectAction_EnumDescriptor.descriptor
+_GtalkClientEvent_McsReconnectAction_EnumDescriptor.values
+_GtalkGtalkCoreRoot_FileDescriptor.descriptor
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.m
+GtalkClientEvent_McsReconnectAction_IsValidValue
+FirebaseMessaging/Firebase/Messaging/Protos/GtalkCore.pbobjc.m
+GtalkClientEvent_Type_IsValidValue
+GtalkClientEvent_McsReconnectAction_EnumDescriptor
+GtalkClientEvent_Type_EnumDescriptor
+GtalkIqStanza_IqType_IsValidValue
+GtalkIqStanza_IqType_EnumDescriptor
+GtalkBatchPresenceStanza_Type_IsValidValue
+GtalkBatchPresenceStanza_Type_EnumDescriptor
+GtalkPresenceStanza_CapabilitiesFlags_IsValidValue
+GtalkPresenceStanza_CapabilitiesFlags_EnumDescriptor
+GtalkPresenceStanza_ClientType_IsValidValue
+GtalkPresenceStanza_ShowType_IsValidValue
+GtalkPresenceStanza_PresenceType_IsValidValue
+GtalkPresenceStanza_ClientType_EnumDescriptor
+GtalkPresenceStanza_ShowType_EnumDescriptor
+GtalkPresenceStanza_PresenceType_EnumDescriptor
+GtalkMessageStanza_MessageType_IsValidValue
+GtalkMessageStanza_MessageType_EnumDescriptor
+GtalkLoginRequest_AuthService_IsValidValue
+GtalkLoginRequest_AuthService_EnumDescriptor
+GtalkGtalkCoreRoot_FileDescriptor
++[GtalkRosterQuery descriptor]
+_GtalkGtalkExtensionsRoot_FileDescriptor
++[GtalkRosterItem descriptor]
++[GtalkRmqLastId descriptor]
++[GtalkRmqAck descriptor]
++[GtalkVCard descriptor]
++[GtalkPhoto descriptor]
++[GtalkChatRead descriptor]
++[GtalkChatClosed descriptor]
++[GtalkCapabilities descriptor]
++[GtalkSharedStatus descriptor]
++[GtalkSharedStatus_StatusList descriptor]
++[GtalkOtrQuery descriptor]
++[GtalkOtrItem descriptor]
++[GtalkIdle descriptor]
++[GtalkPostAuthBatchQuery descriptor]
++[GtalkStreamAck descriptor]
++[GtalkSelectiveAck descriptor]
+_GtalkRosterItem_SubscriptionType_EnumDescriptor.descriptor
+_GtalkRosterItem_SubscriptionType_EnumDescriptor.values
+_GtalkRosterItem_AskType_EnumDescriptor.descriptor
+_GtalkRosterItem_AskType_EnumDescriptor.values
+_GtalkRosterItem_DisplayType_EnumDescriptor.descriptor
+_GtalkRosterItem_DisplayType_EnumDescriptor.values
+_descriptor.descriptor.76
+_descriptor.fields.77
+_descriptor.descriptor.80
+_descriptor.fields.81
+_descriptor.descriptor.101
+_descriptor.fields.102
+_descriptor.descriptor.111
+_descriptor.fields.112
+_descriptor.descriptor.118
+_descriptor.fields.119
+_descriptor.descriptor.122
+_descriptor.fields.123
+_descriptor.descriptor.138
+_descriptor.fields.139
+_GtalkSharedStatus_ShowType_EnumDescriptor.descriptor
+_GtalkSharedStatus_ShowType_EnumDescriptor.values
+_descriptor.descriptor.170
+_descriptor.fields.171
+_descriptor.descriptor.180
+_descriptor.fields.181
+_descriptor.descriptor.188
+_descriptor.fields.189
+_descriptor.descriptor.198
+_descriptor.fields.199
+_descriptor.descriptor.208
+_descriptor.fields.209
+_GtalkPostAuthBatchQuery_CapabilitiesExtFlags_EnumDescriptor.descriptor
+_GtalkPostAuthBatchQuery_CapabilitiesExtFlags_EnumDescriptor.values
+_descriptor.descriptor.239
+_GtalkGtalkExtensionsRoot_FileDescriptor.descriptor
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/Protos/GtalkExtensions.pbobjc.m
+FirebaseMessaging/Firebase/Messaging/Protos/GtalkExtensions.pbobjc.m
+GtalkPostAuthBatchQuery_CapabilitiesExtFlags_IsValidValue
+GtalkPostAuthBatchQuery_CapabilitiesExtFlags_EnumDescriptor
+GtalkSharedStatus_ShowType_IsValidValue
+GtalkSharedStatus_ShowType_EnumDescriptor
+GtalkRosterItem_DisplayType_IsValidValue
+GtalkRosterItem_AskType_IsValidValue
+GtalkRosterItem_SubscriptionType_IsValidValue
+GtalkRosterItem_DisplayType_EnumDescriptor
+GtalkRosterItem_AskType_EnumDescriptor
+GtalkRosterItem_SubscriptionType_EnumDescriptor
+GtalkGtalkExtensionsRoot_FileDescriptor
+-[NSDictionary(FIRMessaging) fcm_string]
+-[NSDictionary(FIRMessaging) fcm_hasNonStringKeysOrValues]
+-[NSDictionary(FIRMessaging) fcm_trimNonStringValues]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.m
+FirebaseMessaging/Firebase/Messaging/NSDictionary+FIRMessaging.m
+-[NSError(FIRMessaging) fcmErrorCode]
++[NSError(FIRMessaging) errorWithFCMErrorCode:]
++[NSError(FIRMessaging) fcm_errorWithCode:userInfo:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.m
+FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.m
+-[GDTCORClock init]
++[GDTCORClock snapshot]
++[GDTCORClock clockSnapshotInTheFuture:]
+-[GDTCORClock isAfter:]
+-[GDTCORClock hash]
+-[GDTCORClock isEqual:]
++[GDTCORClock supportsSecureCoding]
+-[GDTCORClock initWithCoder:]
+-[GDTCORClock encodeWithCoder:]
+-[GDTCORClock timeMillis]
+-[GDTCORClock timezoneOffsetSeconds]
+-[GDTCORClock kernelBootTime]
+-[GDTCORClock uptime]
+_KernelBootTimeInNanoseconds
+_OBJC_IVAR_$_GDTCORClock._timeMillis
+_OBJC_IVAR_$_GDTCORClock._timezoneOffsetSeconds
+_OBJC_IVAR_$_GDTCORClock._kernelBootTime
+_OBJC_IVAR_$_GDTCORClock._uptime
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORClock.m
+KernelBootTimeInNanoseconds
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORClock.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORClock.h
+UptimeInNanoseconds
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORConsoleLogger.m
+GDTCORLog
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORConsoleLogger.m
+GDTCORMessageCodeEnumToString
+-[GDTCORDataFuture initWithFileURL:]
+-[GDTCORDataFuture isEqual:]
+-[GDTCORDataFuture hash]
++[GDTCORDataFuture supportsSecureCoding]
+-[GDTCORDataFuture encodeWithCoder:]
+-[GDTCORDataFuture initWithCoder:]
+-[GDTCORDataFuture data]
+-[GDTCORDataFuture fileURL]
+-[GDTCORDataFuture originalData]
+-[GDTCORDataFuture .cxx_destruct]
+_OBJC_IVAR_$_GDTCORDataFuture._data
+_OBJC_IVAR_$_GDTCORDataFuture._fileURL
+_OBJC_IVAR_$_GDTCORDataFuture._originalData
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORDataFuture.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORDataFuture.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORDataFuture.h
+-[GDTCOREvent initWithMappingID:target:]
+-[GDTCOREvent copy]
+-[GDTCOREvent hash]
+-[GDTCOREvent isEqual:]
+-[GDTCOREvent setDataObject:]
+-[GDTCOREvent storedEventWithDataFuture:]
++[GDTCOREvent supportsSecureCoding]
+-[GDTCOREvent initWithCoder:]
+-[GDTCOREvent encodeWithCoder:]
+-[GDTCOREvent mappingID]
+-[GDTCOREvent target]
+-[GDTCOREvent dataObject]
+-[GDTCOREvent qosTier]
+-[GDTCOREvent setQosTier:]
+-[GDTCOREvent clockSnapshot]
+-[GDTCOREvent setClockSnapshot:]
+-[GDTCOREvent customPrioritizationParams]
+-[GDTCOREvent setCustomPrioritizationParams:]
+-[GDTCOREvent dataObjectTransportBytes]
+-[GDTCOREvent setDataObjectTransportBytes:]
+-[GDTCOREvent .cxx_destruct]
+_OBJC_IVAR_$_GDTCOREvent._mappingID
+_OBJC_IVAR_$_GDTCOREvent._target
+_OBJC_IVAR_$_GDTCOREvent._dataObject
+_OBJC_IVAR_$_GDTCOREvent._qosTier
+_OBJC_IVAR_$_GDTCOREvent._clockSnapshot
+_OBJC_IVAR_$_GDTCOREvent._customPrioritizationParams
+_OBJC_IVAR_$_GDTCOREvent._dataObjectTransportBytes
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCOREvent.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCOREvent.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCOREvent_Private.h
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCOREvent.h
++[GDTCORLifecycle load]
++[GDTCORLifecycle sharedInstance]
+___33+[GDTCORLifecycle sharedInstance]_block_invoke
+-[GDTCORLifecycle init]
+-[GDTCORLifecycle dealloc]
+-[GDTCORLifecycle applicationDidEnterBackground:]
+-[GDTCORLifecycle applicationWillEnterForeground:]
+-[GDTCORLifecycle applicationWillTerminate:]
+__OBJC_PROTOCOL_$_GDTCORApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_GDTCORApplicationDelegate
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORLifecycle.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORLifecycle.m
+__33+[GDTCORLifecycle sharedInstance]_block_invoke
++[GDTCORApplication load]
++[GDTCORApplication sharedApplication]
+___38+[GDTCORApplication sharedApplication]_block_invoke
+-[GDTCORApplication init]
+-[GDTCORApplication beginBackgroundTaskWithName:expirationHandler:]
+-[GDTCORApplication endBackgroundTask:]
+-[GDTCORApplication isAppExtension]
+-[GDTCORApplication sharedApplicationForBackgroundTask]
+-[GDTCORApplication iOSApplicationDidEnterBackground:]
+-[GDTCORApplication iOSApplicationWillEnterForeground:]
+-[GDTCORApplication iOSApplicationWillTerminate:]
+-[GDTCORApplication isRunningInBackground]
+-[GDTCORApplication setIsRunningInBackground:]
+_sharedApplication.application
+_sharedApplication.onceToken
+_OBJC_IVAR_$_GDTCORApplication._isRunningInBackground
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORPlatform.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORPlatform.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORPlatform.h
+__38+[GDTCORApplication sharedApplication]_block_invoke
+GDTCORReachabilityFlagsContainWWAN
++[GDTCORReachability load]
++[GDTCORReachability sharedInstance]
+___36+[GDTCORReachability sharedInstance]_block_invoke
++[GDTCORReachability currentFlags]
+___34+[GDTCORReachability currentFlags]_block_invoke
+-[GDTCORReachability init]
+_GDTCORReachabilityCallback
+___26-[GDTCORReachability init]_block_invoke
+-[GDTCORReachability setCallbackFlags:]
+-[GDTCORReachability flags]
+-[GDTCORReachability setFlags:]
+-[GDTCORReachability .cxx_destruct]
+___block_descriptor_40_e8_32r_e5_v8?0l
+_OBJC_IVAR_$_GDTCORReachability._reachabilityRef
+_OBJC_IVAR_$_GDTCORReachability._reachabilityQueue
+_OBJC_IVAR_$_GDTCORReachability._callbackFlags
+_OBJC_IVAR_$_GDTCORReachability._flags
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORReachability.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORReachability.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability_Private.h
+__26-[GDTCORReachability init]_block_invoke
+GDTCORReachabilityCallback
+__34+[GDTCORReachability currentFlags]_block_invoke
+__36+[GDTCORReachability sharedInstance]_block_invoke
++[GDTCORRegistrar sharedInstance]
+___33+[GDTCORRegistrar sharedInstance]_block_invoke
+-[GDTCORRegistrar init]
+-[GDTCORRegistrar registerUploader:target:]
+___43-[GDTCORRegistrar registerUploader:target:]_block_invoke
+-[GDTCORRegistrar registerPrioritizer:target:]
+___46-[GDTCORRegistrar registerPrioritizer:target:]_block_invoke
+-[GDTCORRegistrar targetToUploader]
+___35-[GDTCORRegistrar targetToUploader]_block_invoke
+___copy_helper_block_e8_32r40w
+___destroy_helper_block_e8_32r40w
+-[GDTCORRegistrar targetToPrioritizer]
+___38-[GDTCORRegistrar targetToPrioritizer]_block_invoke
+-[GDTCORRegistrar appWillBackground:]
+___37-[GDTCORRegistrar appWillBackground:]_block_invoke
+-[GDTCORRegistrar appWillForeground:]
+___37-[GDTCORRegistrar appWillForeground:]_block_invoke
+-[GDTCORRegistrar appWillTerminate:]
+___36-[GDTCORRegistrar appWillTerminate:]_block_invoke
+-[GDTCORRegistrar registrarQueue]
+-[GDTCORRegistrar .cxx_destruct]
+___block_descriptor_56_e8_32s40w_e5_v8?0l
+___block_descriptor_48_e8_32r40w_e5_v8?0l
+__OBJC_PROTOCOL_$_GDTCORLifecycleProtocol
+__OBJC_LABEL_PROTOCOL_$_GDTCORLifecycleProtocol
+_OBJC_IVAR_$_GDTCORRegistrar._targetToUploader
+_OBJC_IVAR_$_GDTCORRegistrar._targetToPrioritizer
+_OBJC_IVAR_$_GDTCORRegistrar._registrarQueue
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORRegistrar.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORRegistrar.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORRegistrar_Private.h
+__36-[GDTCORRegistrar appWillTerminate:]_block_invoke
+__37-[GDTCORRegistrar appWillForeground:]_block_invoke
+__37-[GDTCORRegistrar appWillBackground:]_block_invoke
+__38-[GDTCORRegistrar targetToPrioritizer]_block_invoke
+__destroy_helper_block_e8_32r40w
+__copy_helper_block_e8_32r40w
+__35-[GDTCORRegistrar targetToUploader]_block_invoke
+__46-[GDTCORRegistrar registerPrioritizer:target:]_block_invoke
+__43-[GDTCORRegistrar registerUploader:target:]_block_invoke
+__33+[GDTCORRegistrar sharedInstance]_block_invoke
++[GDTCORStorage archivePath]
+___28+[GDTCORStorage archivePath]_block_invoke
++[GDTCORStorage sharedInstance]
+___31+[GDTCORStorage sharedInstance]_block_invoke
+-[GDTCORStorage init]
+-[GDTCORStorage storeEvent:onComplete:]
+___39-[GDTCORStorage storeEvent:onComplete:]_block_invoke
+___39-[GDTCORStorage storeEvent:onComplete:]_block_invoke_2
+___39-[GDTCORStorage storeEvent:onComplete:]_block_invoke.24
+___copy_helper_block_e8_32s40s48b56r
+___destroy_helper_block_e8_32s40s48s56r
+-[GDTCORStorage removeEvents:]
+___30-[GDTCORStorage removeEvents:]_block_invoke
+-[GDTCORStorage createEventDirectoryIfNotExists]
+-[GDTCORStorage saveEventBytesToDisk:eventHash:error:]
+-[GDTCORStorage addEventToTrackingCollections:]
+-[GDTCORStorage appWillForeground:]
+-[GDTCORStorage appWillBackground:]
+___35-[GDTCORStorage appWillBackground:]_block_invoke
+___35-[GDTCORStorage appWillBackground:]_block_invoke_2
+-[GDTCORStorage appWillTerminate:]
++[GDTCORStorage supportsSecureCoding]
+-[GDTCORStorage initWithCoder:]
+___31-[GDTCORStorage initWithCoder:]_block_invoke
+-[GDTCORStorage encodeWithCoder:]
+-[GDTCORStorage storageQueue]
+-[GDTCORStorage setStorageQueue:]
+-[GDTCORStorage targetToEventSet]
+-[GDTCORStorage setTargetToEventSet:]
+-[GDTCORStorage storedEvents]
+-[GDTCORStorage uploadCoordinator]
+-[GDTCORStorage setUploadCoordinator:]
+-[GDTCORStorage .cxx_destruct]
+_GDTCORStoragePath
+___GDTCORStoragePath_block_invoke
+_archivePath.archivePath
+_archivePath.onceToken
+_sharedInstance.sharedStorage
+___block_literal_global.2
+___block_descriptor_32_e20_v20?0B8"NSError"12l
+___block_literal_global.12
+___block_descriptor_64_e8_32s40s48bs56r_e5_v8?0l
+_OBJC_IVAR_$_GDTCORStorage._storageQueue
+_OBJC_IVAR_$_GDTCORStorage._targetToEventSet
+_OBJC_IVAR_$_GDTCORStorage._storedEvents
+_OBJC_IVAR_$_GDTCORStorage._uploadCoordinator
+_GDTCORStoragePath.storagePath
+_GDTCORStoragePath.onceToken
+___block_literal_global.213
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStorage.m
+__GDTCORStoragePath_block_invoke
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStorage.m
+GDTCORStoragePath
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORStorage_Private.h
+__31-[GDTCORStorage initWithCoder:]_block_invoke
+__35-[GDTCORStorage appWillBackground:]_block_invoke_2
+__35-[GDTCORStorage appWillBackground:]_block_invoke
+__30-[GDTCORStorage removeEvents:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56r
+__copy_helper_block_e8_32s40s48b56r
+__39-[GDTCORStorage storeEvent:onComplete:]_block_invoke.24
+__39-[GDTCORStorage storeEvent:onComplete:]_block_invoke_2
+__39-[GDTCORStorage storeEvent:onComplete:]_block_invoke
+__31+[GDTCORStorage sharedInstance]_block_invoke
+__28+[GDTCORStorage archivePath]_block_invoke
+-[GDTCORStoredEvent initWithEvent:dataFuture:]
++[GDTCORStoredEvent supportsSecureCoding]
+-[GDTCORStoredEvent encodeWithCoder:]
+-[GDTCORStoredEvent initWithCoder:]
+-[GDTCORStoredEvent isEqual:]
+-[GDTCORStoredEvent hash]
+-[GDTCORStoredEvent dataFuture]
+-[GDTCORStoredEvent mappingID]
+-[GDTCORStoredEvent target]
+-[GDTCORStoredEvent qosTier]
+-[GDTCORStoredEvent clockSnapshot]
+-[GDTCORStoredEvent customPrioritizationParams]
+-[GDTCORStoredEvent .cxx_destruct]
+_OBJC_IVAR_$_GDTCORStoredEvent._dataFuture
+_OBJC_IVAR_$_GDTCORStoredEvent._mappingID
+_OBJC_IVAR_$_GDTCORStoredEvent._target
+_OBJC_IVAR_$_GDTCORStoredEvent._qosTier
+_OBJC_IVAR_$_GDTCORStoredEvent._clockSnapshot
+_OBJC_IVAR_$_GDTCORStoredEvent._customPrioritizationParams
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStoredEvent.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORStoredEvent.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORStoredEvent.h
++[GDTCORTransformer sharedInstance]
+___35+[GDTCORTransformer sharedInstance]_block_invoke
+-[GDTCORTransformer init]
+-[GDTCORTransformer transformEvent:withTransformers:onComplete:]
+___64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke
+___64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke_2
+___64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke.15
+___copy_helper_block_e8_32s40s48b56s64r
+___destroy_helper_block_e8_32s40s48s56s64r
+-[GDTCORTransformer appWillTerminate:]
+___38-[GDTCORTransformer appWillTerminate:]_block_invoke
+-[GDTCORTransformer eventWritingQueue]
+-[GDTCORTransformer setEventWritingQueue:]
+-[GDTCORTransformer storageInstance]
+-[GDTCORTransformer setStorageInstance:]
+-[GDTCORTransformer .cxx_destruct]
+_sharedInstance.eventTransformer
+___block_descriptor_72_e8_32s40s48bs56s64r_e5_v8?0l
+___block_literal_global.28
+_OBJC_IVAR_$_GDTCORTransformer._eventWritingQueue
+_OBJC_IVAR_$_GDTCORTransformer._storageInstance
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransformer.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransformer.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer_Private.h
+__38-[GDTCORTransformer appWillTerminate:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56s64r
+__copy_helper_block_e8_32s40s48b56s64r
+__64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke.15
+__64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke_2
+__64-[GDTCORTransformer transformEvent:withTransformers:onComplete:]_block_invoke
+__35+[GDTCORTransformer sharedInstance]_block_invoke
+-[GDTCORTransport initWithMappingID:transformers:target:]
+-[GDTCORTransport sendTelemetryEvent:onComplete:]
+___49-[GDTCORTransport sendTelemetryEvent:onComplete:]_block_invoke
+-[GDTCORTransport sendDataEvent:onComplete:]
+___44-[GDTCORTransport sendDataEvent:onComplete:]_block_invoke
+-[GDTCORTransport sendTelemetryEvent:]
+___38-[GDTCORTransport sendTelemetryEvent:]_block_invoke
+-[GDTCORTransport sendDataEvent:]
+___33-[GDTCORTransport sendDataEvent:]_block_invoke
+-[GDTCORTransport eventForTransport]
+-[GDTCORTransport sendEvent:onComplete:]
+-[GDTCORTransport mappingID]
+-[GDTCORTransport setMappingID:]
+-[GDTCORTransport transformers]
+-[GDTCORTransport setTransformers:]
+-[GDTCORTransport target]
+-[GDTCORTransport setTarget:]
+-[GDTCORTransport transformerInstance]
+-[GDTCORTransport setTransformerInstance:]
+-[GDTCORTransport .cxx_destruct]
+___block_descriptor_40_e8_32bs_e20_v20?0B8"NSError"12l
+___block_literal_global.11
+_OBJC_IVAR_$_GDTCORTransport._mappingID
+_OBJC_IVAR_$_GDTCORTransport._transformers
+_OBJC_IVAR_$_GDTCORTransport._target
+_OBJC_IVAR_$_GDTCORTransport._transformerInstance
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransport.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORTransport.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransport_Private.h
+__33-[GDTCORTransport sendDataEvent:]_block_invoke
+__38-[GDTCORTransport sendTelemetryEvent:]_block_invoke
+__44-[GDTCORTransport sendDataEvent:onComplete:]_block_invoke
+__49-[GDTCORTransport sendTelemetryEvent:onComplete:]_block_invoke
++[GDTCORUploadCoordinator sharedInstance]
+___41+[GDTCORUploadCoordinator sharedInstance]_block_invoke
+-[GDTCORUploadCoordinator init]
+-[GDTCORUploadCoordinator forceUploadForTarget:]
+___48-[GDTCORUploadCoordinator forceUploadForTarget:]_block_invoke
+-[GDTCORUploadCoordinator storage]
+-[GDTCORUploadCoordinator startTimer]
+___37-[GDTCORUploadCoordinator startTimer]_block_invoke
+___37-[GDTCORUploadCoordinator startTimer]_block_invoke_2
+-[GDTCORUploadCoordinator stopTimer]
+-[GDTCORUploadCoordinator uploadTargets:conditions:]
+___52-[GDTCORUploadCoordinator uploadTargets:conditions:]_block_invoke
+-[GDTCORUploadCoordinator uploadConditions]
++[GDTCORUploadCoordinator supportsSecureCoding]
+-[GDTCORUploadCoordinator initWithCoder:]
+___41-[GDTCORUploadCoordinator initWithCoder:]_block_invoke
+-[GDTCORUploadCoordinator encodeWithCoder:]
+___43-[GDTCORUploadCoordinator encodeWithCoder:]_block_invoke
+-[GDTCORUploadCoordinator appWillForeground:]
+-[GDTCORUploadCoordinator appWillBackground:]
+-[GDTCORUploadCoordinator appWillTerminate:]
+___44-[GDTCORUploadCoordinator appWillTerminate:]_block_invoke
+-[GDTCORUploadCoordinator packageDelivered:successful:]
+___55-[GDTCORUploadCoordinator packageDelivered:successful:]_block_invoke
+-[GDTCORUploadCoordinator packageExpired:]
+___42-[GDTCORUploadCoordinator packageExpired:]_block_invoke
+-[GDTCORUploadCoordinator coordinationQueue]
+-[GDTCORUploadCoordinator timer]
+-[GDTCORUploadCoordinator timerInterval]
+-[GDTCORUploadCoordinator timerLeeway]
+-[GDTCORUploadCoordinator targetToInFlightPackages]
+-[GDTCORUploadCoordinator setStorage:]
+-[GDTCORUploadCoordinator registrar]
+-[GDTCORUploadCoordinator setRegistrar:]
+-[GDTCORUploadCoordinator .cxx_destruct]
+_sharedInstance.sharedUploader
+___block_descriptor_56_e8_32s40s_e5_v8?0l
+___block_descriptor_49_e8_32s40s_e5_v8?0l
+__OBJC_PROTOCOL_$_GDTCORUploadPackageProtocol
+__OBJC_LABEL_PROTOCOL_$_GDTCORUploadPackageProtocol
+_OBJC_IVAR_$_GDTCORUploadCoordinator._coordinationQueue
+_OBJC_IVAR_$_GDTCORUploadCoordinator._timer
+_OBJC_IVAR_$_GDTCORUploadCoordinator._timerInterval
+_OBJC_IVAR_$_GDTCORUploadCoordinator._timerLeeway
+_OBJC_IVAR_$_GDTCORUploadCoordinator._targetToInFlightPackages
+_OBJC_IVAR_$_GDTCORUploadCoordinator._storage
+_OBJC_IVAR_$_GDTCORUploadCoordinator._registrar
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadCoordinator.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadCoordinator.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadCoordinator.h
+__42-[GDTCORUploadCoordinator packageExpired:]_block_invoke
+__55-[GDTCORUploadCoordinator packageDelivered:successful:]_block_invoke
+__44-[GDTCORUploadCoordinator appWillTerminate:]_block_invoke
+__43-[GDTCORUploadCoordinator encodeWithCoder:]_block_invoke
+__41-[GDTCORUploadCoordinator initWithCoder:]_block_invoke
+__52-[GDTCORUploadCoordinator uploadTargets:conditions:]_block_invoke
+__37-[GDTCORUploadCoordinator startTimer]_block_invoke_2
+__37-[GDTCORUploadCoordinator startTimer]_block_invoke
+__48-[GDTCORUploadCoordinator forceUploadForTarget:]_block_invoke
+__41+[GDTCORUploadCoordinator sharedInstance]_block_invoke
+-[GDTCORUploadPackage initWithTarget:]
+-[GDTCORUploadPackage copy]
+-[GDTCORUploadPackage hash]
+-[GDTCORUploadPackage isEqual:]
+-[GDTCORUploadPackage dealloc]
+-[GDTCORUploadPackage setStorage:]
+-[GDTCORUploadPackage completeDelivery]
+-[GDTCORUploadPackage retryDeliveryInTheFuture]
+-[GDTCORUploadPackage checkIfPackageIsExpired:]
++[GDTCORUploadPackage supportsSecureCoding]
+-[GDTCORUploadPackage encodeWithCoder:]
+-[GDTCORUploadPackage initWithCoder:]
+-[GDTCORUploadPackage events]
+-[GDTCORUploadPackage setEvents:]
+-[GDTCORUploadPackage deliverByTime]
+-[GDTCORUploadPackage setDeliverByTime:]
+-[GDTCORUploadPackage target]
+-[GDTCORUploadPackage storage]
+-[GDTCORUploadPackage handler]
+-[GDTCORUploadPackage setHandler:]
+-[GDTCORUploadPackage .cxx_destruct]
+_OBJC_IVAR_$_GDTCORUploadPackage._isDelivered
+_OBJC_IVAR_$_GDTCORUploadPackage._isHandled
+_OBJC_IVAR_$_GDTCORUploadPackage._expirationTimer
+_OBJC_IVAR_$_GDTCORUploadPackage._events
+_OBJC_IVAR_$_GDTCORUploadPackage._deliverByTime
+_OBJC_IVAR_$_GDTCORUploadPackage._target
+_OBJC_IVAR_$_GDTCORUploadPackage._storage
+_OBJC_IVAR_$_GDTCORUploadPackage._handler
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadPackage.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/GDTCORUploadPackage.m
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadPackage_Private.h
+GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GDTCORUploadPackage.h
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-dummy.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.c
++[GDTCCTCompressionHelper gzippedData:]
++[GDTCCTCompressionHelper isGzipped:]
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTCompressionHelper.m
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTCompressionHelper.m
+___GDTCCTConstructBatchedLogRequest_block_invoke
+___block_descriptor_48_e8_32r_e32_v32?0"NSString"8"NSSet"16^B24l
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m
+GDTCCTDecodeLogResponse
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m
+GDTCCTConstructiOSClientInfo
+GDTCCTConstructLogEvent
+GDTCCTConstructClientInfo
+GDTCCTConstructLogRequest
+__GDTCCTConstructBatchedLogRequest_block_invoke
+GDTCCTConstructBatchedLogRequest
+GDTCCTEncodeBatchedLogRequest
+GDTCCTEncodeData
+GDTCCTEncodeString
++[GDTCCTPrioritizer load]
++[GDTCCTPrioritizer sharedInstance]
+___35+[GDTCCTPrioritizer sharedInstance]_block_invoke
+-[GDTCCTPrioritizer init]
+-[GDTCCTPrioritizer prioritizeEvent:]
+___37-[GDTCCTPrioritizer prioritizeEvent:]_block_invoke
+-[GDTCCTPrioritizer uploadPackageWithTarget:conditions:]
+___56-[GDTCCTPrioritizer uploadPackageWithTarget:conditions:]_block_invoke
+-[GDTCCTPrioritizer eventsForTarget:conditions:]
+-[GDTCCTPrioritizer logEventsOkToSendOnMobileData:]
+___51-[GDTCCTPrioritizer logEventsOkToSendOnMobileData:]_block_invoke
+-[GDTCCTPrioritizer logEventsOkToSendOnWifi:]
+___45-[GDTCCTPrioritizer logEventsOkToSendOnWifi:]_block_invoke
+-[GDTCCTPrioritizer logEventsOkToSendDaily:]
+___44-[GDTCCTPrioritizer logEventsOkToSendDaily:]_block_invoke
+-[GDTCCTPrioritizer packageDelivered:successful:]
+___49-[GDTCCTPrioritizer packageDelivered:successful:]_block_invoke
+-[GDTCCTPrioritizer packageExpired:]
+-[GDTCCTPrioritizer queue]
+-[GDTCCTPrioritizer setQueue:]
+-[GDTCCTPrioritizer CCTEvents]
+-[GDTCCTPrioritizer setCCTEvents:]
+-[GDTCCTPrioritizer FLLEvents]
+-[GDTCCTPrioritizer setFLLEvents:]
+-[GDTCCTPrioritizer CSHEvents]
+-[GDTCCTPrioritizer setCSHEvents:]
+-[GDTCCTPrioritizer CCTTimeOfLastDailyUpload]
+-[GDTCCTPrioritizer setCCTTimeOfLastDailyUpload:]
+-[GDTCCTPrioritizer FLLOfLastDailyUpload]
+-[GDTCCTPrioritizer setFLLOfLastDailyUpload:]
+-[GDTCCTPrioritizer .cxx_destruct]
+___block_descriptor_64_e8_32s40s_e5_v8?0l
+___block_descriptor_32_e31_B24?0"GDTCORStoredEvent"8^B16l
+___block_literal_global.42
+___block_literal_global.52
+___block_literal_global.53
+__OBJC_PROTOCOL_$_GDTCORPrioritizer
+__OBJC_LABEL_PROTOCOL_$_GDTCORPrioritizer
+_OBJC_IVAR_$_GDTCCTPrioritizer._queue
+_OBJC_IVAR_$_GDTCCTPrioritizer._CCTEvents
+_OBJC_IVAR_$_GDTCCTPrioritizer._FLLEvents
+_OBJC_IVAR_$_GDTCCTPrioritizer._CSHEvents
+_OBJC_IVAR_$_GDTCCTPrioritizer._CCTTimeOfLastDailyUpload
+_OBJC_IVAR_$_GDTCCTPrioritizer._FLLOfLastDailyUpload
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTPrioritizer.m
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTPrioritizer.m
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h
+__49-[GDTCCTPrioritizer packageDelivered:successful:]_block_invoke
+__44-[GDTCCTPrioritizer logEventsOkToSendDaily:]_block_invoke
+GDTCCTQosTierFromGDTCOREventQosTier
+__45-[GDTCCTPrioritizer logEventsOkToSendOnWifi:]_block_invoke
+__51-[GDTCCTPrioritizer logEventsOkToSendOnMobileData:]_block_invoke
+__56-[GDTCCTPrioritizer uploadPackageWithTarget:conditions:]_block_invoke
+__37-[GDTCCTPrioritizer prioritizeEvent:]_block_invoke
+__35+[GDTCCTPrioritizer sharedInstance]_block_invoke
++[GDTCCTUploader load]
++[GDTCCTUploader sharedInstance]
+___32+[GDTCCTUploader sharedInstance]_block_invoke
+-[GDTCCTUploader init]
+-[GDTCCTUploader serverURLForTarget:]
+___37-[GDTCCTUploader serverURLForTarget:]_block_invoke
+___37-[GDTCCTUploader serverURLForTarget:]_block_invoke_2
+___37-[GDTCCTUploader serverURLForTarget:]_block_invoke_3
+-[GDTCCTUploader FLLAndCSHAPIKey]
+___33-[GDTCCTUploader FLLAndCSHAPIKey]_block_invoke
+-[GDTCCTUploader uploadPackage:]
+___32-[GDTCCTUploader uploadPackage:]_block_invoke
+___32-[GDTCCTUploader uploadPackage:]_block_invoke.51
+___32-[GDTCCTUploader uploadPackage:]_block_invoke_2
+-[GDTCCTUploader readyToUploadTarget:conditions:]
+___49-[GDTCCTUploader readyToUploadTarget:conditions:]_block_invoke
+-[GDTCCTUploader constructRequestProtoFromPackage:]
+___51-[GDTCCTUploader constructRequestProtoFromPackage:]_block_invoke
+-[GDTCCTUploader constructRequestForTarget:data:]
+-[GDTCCTUploader packageExpired:]
+___33-[GDTCCTUploader packageExpired:]_block_invoke
+-[GDTCCTUploader appWillTerminate:]
+___35-[GDTCCTUploader appWillTerminate:]_block_invoke
+-[GDTCCTUploader URLSession:task:willPerformHTTPRedirection:newRequest:completionHandler:]
+-[GDTCCTUploader uploaderQueue]
+-[GDTCCTUploader uploaderSession]
+-[GDTCCTUploader currentTask]
+-[GDTCCTUploader setCurrentTask:]
+-[GDTCCTUploader currentUploadPackage]
+-[GDTCCTUploader setCurrentUploadPackage:]
+-[GDTCCTUploader CCTNextUploadTime]
+-[GDTCCTUploader setCCTNextUploadTime:]
+-[GDTCCTUploader FLLNextUploadTime]
+-[GDTCCTUploader setFLLNextUploadTime:]
+-[GDTCCTUploader testServerURL]
+-[GDTCCTUploader setTestServerURL:]
+-[GDTCCTUploader .cxx_destruct]
+_serverURLForTarget:.CCTServerURL
+_serverURLForTarget:.CCTOnceToken
+___block_literal_global.16
+_serverURLForTarget:.FLLServerURL
+_serverURLForTarget:.FLLOnceToken
+___block_literal_global.25
+_serverURLForTarget:.CSHServerURL
+_serverURLForTarget:.CSHOnceToken
+_FLLAndCSHAPIKey.defaultServerKey
+_FLLAndCSHAPIKey.onceToken
+___block_literal_global.31
+___block_descriptor_64_e8_32s40s48r_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
+___block_descriptor_64_e8_32s40r_e5_v8?0l
+___block_descriptor_40_e8_32s_e31_v24?0"GDTCORStoredEvent"8^B16l
+__OBJC_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_PROTOCOL_$_GDTCORUploader
+__OBJC_LABEL_PROTOCOL_$_GDTCORUploader
+_OBJC_IVAR_$_GDTCCTUploader._uploaderQueue
+_OBJC_IVAR_$_GDTCCTUploader._uploaderSession
+_OBJC_IVAR_$_GDTCCTUploader._currentTask
+_OBJC_IVAR_$_GDTCCTUploader._currentUploadPackage
+_OBJC_IVAR_$_GDTCCTUploader._CCTNextUploadTime
+_OBJC_IVAR_$_GDTCCTUploader._FLLNextUploadTime
+_OBJC_IVAR_$_GDTCCTUploader._testServerURL
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTUploader.m
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTUploader.m
+GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTUploader.h
+__35-[GDTCCTUploader appWillTerminate:]_block_invoke
+__33-[GDTCCTUploader packageExpired:]_block_invoke
+__51-[GDTCCTUploader constructRequestProtoFromPackage:]_block_invoke
+__49-[GDTCCTUploader readyToUploadTarget:conditions:]_block_invoke
+__32-[GDTCCTUploader uploadPackage:]_block_invoke_2
+__32-[GDTCCTUploader uploadPackage:]_block_invoke.51
+__32-[GDTCCTUploader uploadPackage:]_block_invoke
+__33-[GDTCCTUploader FLLAndCSHAPIKey]_block_invoke
+__37-[GDTCCTUploader serverURLForTarget:]_block_invoke_3
+__37-[GDTCCTUploader serverURLForTarget:]_block_invoke_2
+__37-[GDTCCTUploader serverURLForTarget:]_block_invoke
+__32+[GDTCCTUploader sharedInstance]_block_invoke
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport-dummy.m
+/Users/ayonchowdhury/Affle /Vizury_Github/VizuryEventLogger/Pods/Target Support Files/Pods-VizuryEventLogger/Pods-VizuryEventLogger-dummy.m

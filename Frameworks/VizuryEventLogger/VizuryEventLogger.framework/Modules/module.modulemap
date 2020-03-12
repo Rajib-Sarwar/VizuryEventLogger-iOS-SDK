@@ -1,0 +1,11 @@
+framework module VizuryEventLogger {
+  umbrella header "VizuryEventLogger.h"
+
+  export *
+  module * { export * }
+}
+
+module VizuryEventLogger.Swift {
+    header "VizuryEventLogger-Swift.h"
+    requires objc
+}
