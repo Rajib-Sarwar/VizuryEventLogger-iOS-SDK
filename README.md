@@ -1,2 +1,2 @@
 # VizuryEventLogger-iOS-SDK
-This is a test repo to sharer framework
+This is a test repo to share framework
