@@ -16,8 +16,11 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author       = { 'Ayon Chowdhury' => 'ayon.chowdhury@affle.com' }
   spec.platform     = :ios
-  spec.ios.deployment_target = '12.0'
-  spec.source       = { :git => 'https://github.com/Rajib-Sarwar/VizuryEventLogger-iOS-SDK.git', :tag => spec.version.to_s }
+  spec.ios.deployment_target = '9.0'
+  
+  spec.source       = {
+                       :git => 'https://github.com/Rajib-Sarwar/VizuryEventLogger-iOS-SDK.git',
+                       :tag => spec.version.to_s }
 
 
   spec.ios.vendored_frameworks = 'Frameworks/VizuryEventLogger/VizuryEventLogger.framework'
@@ -26,5 +29,6 @@ Pod::Spec.new do |spec|
 
   spec.requires_arc = true
   spec.frameworks = 'Foundation', 'UIKit', 'SystemConfiguration' , 'Security'
-  spec.weak_framework = 'UserNotifications', 'Firebase', 'WebKit'
+  spec.weak_framework = 'UserNotifications',  'WebKit'
+  spec.dependency 'Firebase'
 end
